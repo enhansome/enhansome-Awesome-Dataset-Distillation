@@ -1,0 +1,3333 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2026/07/07] Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift",
+          "description": "(Jiacheng Cui et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-01T10:41:57Z",
+            "owner": "Jiacheng8",
+            "repo": "HALD",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026/07/08] Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation",
+          "description": "(Hyun-Kurl Jang & Jihun Kim & Hyeokjun Kweon et al., ECCV 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-24T04:50:17Z",
+            "owner": "blue-531",
+            "repo": "DOALL",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026/07/08] FD2: A Dedicated Framework for Fine-Grained Dataset Distillation",
+          "description": "(Hongxu Ma & Guang Li et al., ECCV 2026) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T02:18:56Z",
+            "owner": "Guang000",
+            "repo": "FD2",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026/07/08] Condensing Large-Scale Datasets Directly with Minimal Information Loss",
+          "description": "(Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T12:49:24Z",
+            "owner": "LINs-lab",
+            "repo": "CIM",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026/07/07] One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis",
+          "description": "(Wei Shao et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-17T08:54:10Z",
+            "owner": "ZJU-DAILY",
+            "repo": "UniTSC",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026/07/07] Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation",
+          "description": "(Ziang Gan et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T07:43:56Z",
+            "owner": "tade1s",
+            "repo": "SCG",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026/07/08] Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
+          "description": "(Jongoh Jeong et al., ECCV 2026) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T14:38:45Z",
+            "owner": "andyj1",
+            "repo": "raha",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[2026/07/07] Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
+          "description": "(Deyu Bo et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T03:32:29Z",
+            "owner": "bdy9527",
+            "repo": "MMDD",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Latest Updates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dataset Condensation with Gradient Matching",
+          "description": "(Bo Zhao et al., ICLR 2021) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-27T01:24:08Z",
+            "owner": "VICO-UoE",
+            "repo": "DatasetCondensation",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Condensation with Differentiable Siamese Augmentation",
+          "description": "(Bo Zhao et al., ICML 2021) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-27T01:24:08Z",
+            "owner": "VICO-UoE",
+            "repo": "DatasetCondensation",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation by Matching Training Trajectories",
+          "description": "(George Cazenavette et al., CVPR 2022) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-16T12:59:59Z",
+            "owner": "GeorgeCazenavette",
+            "repo": "mtt-distillation",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation",
+          "description": "(Jiawei Du & Yidi Jiang et al., CVPR 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-25T03:38:36Z",
+            "owner": "AngusDujw",
+            "repo": "FTD-distillation",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory",
+          "description": "(Justin Cui et al., ICML 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-12T22:51:28Z",
+            "owner": "justincui03",
+            "repo": "tesla",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios",
+          "description": "(Kai Wang & Zekai Li et al., CVPR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-16T14:06:30Z",
+            "owner": "NUS-HPC-AI-Lab",
+            "repo": "EDF",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Condensation with Contrastive Signals",
+          "description": "(Saehyung Lee et al., ICML 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-08T04:12:40Z",
+            "owner": "Saehyung-Lee",
+            "repo": "DCC",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loss-Curvature Matching for Dataset Selection and Condensation",
+          "description": "(Seungjae Shin & Heesun Bae et al., AISTATS 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-14T01:55:45Z",
+            "owner": "SJShin-AI",
+            "repo": "LCMat",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prioritize Alignment in Dataset Distillation",
+          "description": "(Zekai Li & Ziyao Guo et al., 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-03T06:03:40Z",
+            "owner": "NUS-HPC-AI-Lab",
+            "repo": "PAD",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SelMatch: Effectively Scaling Up Dataset Distillation via Selection-Based Initialization and Partial Updates by Trajectory Matching",
+          "description": "(Yongmin Lee et al., ICML 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-28T13:25:47Z",
+            "owner": "Yongalls",
+            "repo": "SelMatch",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation by Automatic Training Trajectories",
+          "description": "(Dai Liu et al., ECCV 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-21T08:07:10Z",
+            "owner": "NiaLiu",
+            "repo": "ATT",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory",
+          "description": "(Wenliang Zhong et al., CVPR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T08:51:57Z",
+            "owner": "iLearn-Lab",
+            "repo": "CVPR25-MCT",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sequential Subset Matching for Dataset Distillation",
+          "description": "(Jiawei Du et al., NeurIPS 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-28T17:04:33Z",
+            "owner": "shqii1j",
+            "repo": "seqmatch",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Lossless Dataset Distillation via Difficulty-Aligned Trajectory Matching",
+          "description": "(Ziyao Guo & Kai Wang et al., ICLR 2024) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-09T10:36:38Z",
+            "owner": "GzyAftermath",
+            "repo": "DATM",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neural Spectral Decomposition for Dataset Distillation",
+          "description": "(Shaolei Yang et al., ECCV 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-09T03:46:04Z",
+            "owner": "slyang2021",
+            "repo": "NSD",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Gradient/Trajectory Matching Surrogate Objective"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dataset Condensation with Distribution Matching",
+          "description": "(Bo Zhao et al., WACV 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-27T01:24:08Z",
+            "owner": "VICO-UoE",
+            "repo": "DatasetCondensation",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation with Neural Characteristic Function: A Minmax Perspective",
+          "description": "(Shaobo Wang et al., CVPR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T11:18:51Z",
+            "owner": "gszfwsb",
+            "repo": "NCFM",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAFE: Learning to Condense Dataset by Aligning Features",
+          "description": "(Kai Wang & Bo Zhao et al., CVPR 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-12T14:03:28Z",
+            "owner": "kaiwang960112",
+            "repo": "CAFE",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation via the Wasserstein Metric",
+          "description": "(Haoyang Liu et al., ICCV 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-08T20:09:07Z",
+            "owner": "Liu-Hy",
+            "repo": "WMDD",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DataDAM: Efficient Dataset Distillation with Attention Matching",
+          "description": "(Ahmad Sajedi & Samir Khaki et al., ICCV 2023) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-20T07:19:50Z",
+            "owner": "DataDistillation",
+            "repo": "DataDAM",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improved Distribution Matching for Dataset Condensation",
+          "description": "(Ganlong Zhao et al., CVPR 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-12T07:36:34Z",
+            "owner": "uitrbn",
+            "repo": "IDM",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy",
+          "description": "(Hansong Zhang & Shikun Li et al., AAAI 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-02T19:02:58Z",
+            "owner": "Hansong-Zhang",
+            "repo": "M3D",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperbolic Dataset Distillation",
+          "description": "(Wenyuan Li & Guang Li et al., NeurIPS 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-20T11:00:35Z",
+            "owner": "Guang000",
+            "repo": "HDD",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation",
+          "description": "(Wenxiao Deng et al., CVPR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-16T07:52:25Z",
+            "owner": "VincenDen",
+            "repo": "IID",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DANCE: Dual-View Distribution Alignment for Dataset Condensation",
+          "description": "(Hansong Zhang et al., IJCAI 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-26T14:29:02Z",
+            "owner": "Hansong-Zhang",
+            "repo": "DANCE",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diversified Semantic Distribution Matching for Dataset Distillation",
+          "description": "(Hongcheng Li et al., MM 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:52:35Z",
+            "owner": "Li-Hongcheng",
+            "repo": "DSDM",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TGDD: Trajectory Guided Dataset Distillation with Balanced Distribution",
+          "description": "(Fengli Ran et al., AAAI 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T04:38:08Z",
+            "owner": "FlyFinley",
+            "repo": "TGDD",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Distribution/Feature Matching Surrogate Objective"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dataset Meta-Learning from Kernel Ridge-Regression",
+          "description": "(Timothy Nguyen et al., ICLR 2021) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-01T17:17:03Z",
+            "owner": "google",
+            "repo": "neural-tangents",
+            "stars": 2385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation with Infinitely Wide Convolutional Networks",
+          "description": "(Timothy Nguyen et al., NeurIPS 2021) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-03-01T17:17:03Z",
+            "owner": "google",
+            "repo": "neural-tangents",
+            "stars": 2385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Dataset Distillation using Random Feature Approximation",
+          "description": "(Noel Loo et al., NeurIPS 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-24T18:38:16Z",
+            "owner": "yolky",
+            "repo": "RFAD",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation with Convexified Implicit Gradients",
+          "description": "(Noel Loo et al., ICML 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-25T20:04:17Z",
+            "owner": "yolky",
+            "repo": "RCIG",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation using Neural Feature Regression",
+          "description": "(Yongchao Zhou et al., NeurIPS 2022) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-01T16:23:58Z",
+            "owner": "yongchao97",
+            "repo": "FRePo",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Kernel-Based Distillation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dataset Condensation via Efficient Synthetic-Data Parameterization",
+          "description": "(Jang-Hyun Kim et al., ICML 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-18T00:51:42Z",
+            "owner": "snu-mllab",
+            "repo": "Efficient-Dataset-Condensation",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation via Factorization",
+          "description": "(Songhua Liu et al., NeurIPS 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-28T06:36:15Z",
+            "owner": "Huage001",
+            "repo": "DatasetFactorization",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FYI: Flip Your Images for Dataset Distillation",
+          "description": "(Byunggwan Son et al., ECCV 2024) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-23T01:22:47Z",
+            "owner": "cvlab-yonsei",
+            "repo": "FYI",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Remember the Past: Distilling Datasets into Addressable Memories for Neural Networks",
+          "description": "(Zhiwei Deng et al., NeurIPS 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-19T03:51:53Z",
+            "owner": "princetonvisualai",
+            "repo": "RememberThePast-DatasetDistillation",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frequency Domain-based Dataset Distillation",
+          "description": "(Donghyeok Shin & Seungjae Shin et al., NeurIPS 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-07T13:41:06Z",
+            "owner": "sdh0818",
+            "repo": "FreD",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRANC: Pseudo RAndom Networks for Compacting Deep Models",
+          "description": "(Parsa Nooralinejad et al., 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-24T23:43:09Z",
+            "owner": "UCDvision",
+            "repo": "PRANC",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sparse Parameterization for Epitomic Dataset Distillation",
+          "description": "(Xing Wei & Anjia Cao et al., NeurIPS 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-28T03:58:30Z",
+            "owner": "MIV-XJTU",
+            "repo": "SPEED",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distilling Dataset into Neural Field",
+          "description": "(Donghyeok Shin et al., ICLR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-20T05:04:36Z",
+            "owner": "aailab-kaist",
+            "repo": "DDiF",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On Divergence Measures for Bayesian Pseudocoresets",
+          "description": "(Balhae Kim et al., NeurIPS 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-04T08:15:23Z",
+            "owner": "balhaekim",
+            "repo": "BPC-Divergences",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Color-Oriented Redundancy Reduction in Dataset Distillation",
+          "description": "(Bowen Yuan et al., NeurIPS 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-27T09:16:27Z",
+            "owner": "KeViNYuAn0314",
+            "repo": "AutoPalette",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation",
+          "description": "(Chenyang Jiang et al., 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-18T01:53:56Z",
+            "owner": "j-cyoung",
+            "repo": "GSDatasetDistillation",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation as Data Compression: A Rate-Utility Perspective",
+          "description": "(Youneng Bao & Yiping Liu et al., ICCV 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-28T13:04:21Z",
+            "owner": "nouise",
+            "repo": "DD-RUO",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Distilled Dataset Parametrization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generative Distillation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Generalizing Dataset Distillation via Deep Generative Prior",
+          "description": "(George Cazenavette et al., CVPR 2023) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-22T19:25:42Z",
+            "owner": "GeorgeCazenavette",
+            "repo": "glad",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiM: Distilling Dataset into Generative Model",
+          "description": "(Kai Wang & Jianyang Gu et al., 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-15T02:27:26Z",
+            "owner": "vimar-gu",
+            "repo": "DiM",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthesizing Informative Training Samples with GAN",
+          "description": "(Bo Zhao et al., NeurIPS 2022 Workshop) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-31T00:27:50Z",
+            "owner": "VICO-UoE",
+            "repo": "IT-GAN",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hierarchical Features Matter: A Deep Exploration of GAN Priors for Improved Dataset Distillation",
+          "description": "(Xinhao Zhong & Hao Fang et al., CVPR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-28T09:48:02Z",
+            "owner": "ndhg1213",
+            "repo": "H-PD",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "GAN"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Efficient Dataset Distillation via Minimax Diffusion",
+          "description": "(Jianyang Gu et al., CVPR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T08:03:18Z",
+            "owner": "vimar-gu",
+            "repo": "MinimaxDiffusion",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D4M: Dataset Distillation via Disentangled Diffusion Model",
+          "description": "(Duo Su & Junjie Hou et al., CVPR 2024) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-06T05:28:49Z",
+            "owner": "suduo94",
+            "repo": "D4M",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MGD3: Mode-Guided Dataset Distillation using Diffusion Models",
+          "description": "(Jeffrey A. Chan-Santiago et al., ICML 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-06T05:32:04Z",
+            "owner": "jachansantiago",
+            "repo": "mode_guidance",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation via Vision-Language Category Prototype",
+          "description": "(Yawen Zou & Guang Li et al., ICCV 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-20T23:39:26Z",
+            "owner": "zou-yawen",
+            "repo": "Dataset-Distillation-via-Vision-Language-Category-Prototype",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taming Diffusion for Dataset Distillation with High Representativeness",
+          "description": "(Lin Zhao et al., ICML 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-24T20:10:30Z",
+            "owner": "lin-zhao-resoLve",
+            "repo": "D3HR",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Influence-Guided Diffusion for Dataset Distillation",
+          "description": "(Mingyang Chen et al., ICLR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-12T14:59:35Z",
+            "owner": "mchen725",
+            "repo": "DD_IGD",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generative Dataset Distillation Based on Diffusion Model",
+          "description": "(Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-11T12:42:12Z",
+            "owner": "Guang000",
+            "repo": "Generative-Dataset-Distillation-Based-on-Diffusion-Model",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation",
+          "description": "(Haoxuan Wang et al., ICCV 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T00:41:34Z",
+            "owner": "hatchetProject",
+            "repo": "CaO2",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unlocking Dataset Distillation with Diffusion Models",
+          "description": "(Brian B. Moser & Federico Raue et al., NeurIPS 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-05T04:24:51Z",
+            "owner": "Brian-Moser",
+            "repo": "prune_and_distill",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVLF: Early Vision-Language Fusion for Generative Dataset Distillation",
+          "description": "(Wenqi Cai et al., CVPR 2026) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-23T14:14:24Z",
+            "owner": "wenqi-cai297",
+            "repo": "earlyfusion-for-dd",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geometry-Aware Dataset Condensation for Diffusion Model Training",
+          "description": "(Xiao Cui et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T04:01:52Z",
+            "owner": "2018cx",
+            "repo": "GADC",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Condensation with Color Compensation",
+          "description": "(Huyu Wu et al., TMLR 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-23T22:45:42Z",
+            "owner": "528why",
+            "repo": "Dataset-Condensation-with-Color-Compensation",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoDA: From Text-to-Image Diffusion Models to Training-Free Dataset Distillation",
+          "description": "(Letian Zhou et al., ICLR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T01:22:59Z",
+            "owner": "zzzlt422",
+            "repo": "CoDA",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation",
+          "description": "(Ayush Roy et al., CVPR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-27T22:37:17Z",
+            "owner": "AyushRoy2001",
+            "repo": "ManifoldGD",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling",
+          "description": "(Mingzhuo Li & Guang Li et al., ICCV 2025 Workshop) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-09T23:59:36Z",
+            "owner": "SumomoTaku",
+            "repo": "DiffGuideSamp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery",
+          "description": "(Qianxin Xia et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T03:27:06Z",
+            "owner": "einsteinxia",
+            "repo": "DIVER",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation",
+          "description": "(Ziang Gan et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T07:43:56Z",
+            "owner": "tade1s",
+            "repo": "SCG",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Diffusion"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DREAM: Efficient Dataset Distillation by Representative Matching",
+          "description": "(Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-28T07:41:11Z",
+            "owner": "Yanqing0327",
+            "repo": "DREAM",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching",
+          "description": "(Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-28T07:41:11Z",
+            "owner": "Yanqing0327",
+            "repo": "DREAM",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation",
+          "description": "(Yue Xu et al., ECCV 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-06T06:34:54Z",
+            "owner": "silicx",
+            "repo": "GoldFromOres-BiLP",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "You Only Condense Once: Two Rules for Pruning Condensed Datasets",
+          "description": "(Yang He et al., NeurIPS 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T15:43:17Z",
+            "owner": "he-y",
+            "repo": "you-only-condense-once",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multisize Dataset Condensation",
+          "description": "(Yang He et al., ICLR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-18T02:21:21Z",
+            "owner": "he-y",
+            "repo": "Multisize-Dataset-Condensation",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Can Pre-Trained Models Assist in Dataset Distillation?",
+          "description": "(Yao Lu et al., 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-28T15:16:51Z",
+            "owner": "yaolu-zjut",
+            "repo": "DDInterpreter",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Distillation Can Be Like Vodka: Distilling More Times For Better Quality",
+          "description": "(Xuxi Chen & Yu Yang et al., ICLR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-18T17:36:39Z",
+            "owner": "VITA-Group",
+            "repo": "ProgressiveDD",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accelerating Dataset Distillation via Model Augmentation",
+          "description": "(Lei Zhang & Jie Zhang et al., CVPR 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-21T13:42:31Z",
+            "owner": "ncsu-dk-lab",
+            "repo": "Acc-DD",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Embarassingly Simple Dataset Distillation",
+          "description": "(Yunzhen Feng et al., ICLR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-21T21:24:40Z",
+            "owner": "fengyzpku",
+            "repo": "Simple_Dataset_Distillation",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Model-Agnostic Dataset Condensation by Heterogeneous Models",
+          "description": "(Jun-Yeong Moon et al., ECCV 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-15T12:31:21Z",
+            "owner": "KU-VGI",
+            "repo": "HMDC",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curriculum Coarse-to-Fine Selection for High-IPC Dataset Distillation",
+          "description": "(Yanda Chen & Gongwei Chen et al., CVPR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-27T17:08:51Z",
+            "owner": "CYDaaa30",
+            "repo": "CCFS",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BACON: Bayesian Optimal Condensation Framework for Dataset Distillation",
+          "description": "(Zheng Zhou et al., 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-14T13:09:14Z",
+            "owner": "zhouzhengqd",
+            "repo": "BACON",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Scale Dataset Distillation with Domain Shift",
+          "description": "(Noel Loo & Alaa Maalouf et al., ICML 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-03T15:34:35Z",
+            "owner": "yolky",
+            "repo": "d3s_distillation",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Going Beyond Feature Similarity: Effective Dataset Distillation based on Class-aware Conditional Mutual Information",
+          "description": "(Xinhao Zhong et al., ICLR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-21T13:35:59Z",
+            "owner": "ndhg1213",
+            "repo": "CMIDD",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation by Influence Matching",
+          "description": "(Haoru Tan & Wang Wang et al., CVPR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-18T08:26:19Z",
+            "owner": "hrtan",
+            "repo": "infmatch",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Better Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Optimizing Millions of Hyperparameters by Implicit Differentiation",
+          "description": "(Jonathan Lorraine et al., AISTATS 2020) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T19:27:17Z",
+            "owner": "MaximeVandegar",
+            "repo": "Papers-in-100-Lines-of-Code",
+            "stars": 2854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowing Datasets with Wasserstein over Wasserstein Gradient Flows",
+          "description": "(Clément Bonet & Christophe Vauthier et al., ICML 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-21T16:34:28Z",
+            "owner": "clbonet",
+            "repo": "Flowing_Datasets_with_WoW_Gradient_Flows",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "What is Dataset Distillation Learning?",
+          "description": "(William Yang et al., ICML 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-06-14T22:49:41Z",
+            "owner": "princetonvisualai",
+            "repo": "What-is-Dataset-Distillation-Learning",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Better Understanding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Soft-Label Dataset Distillation and Text Dataset Distillation",
+          "description": "(Ilia Sucholutsky et al., IJCNN 2021) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-17T15:34:21Z",
+            "owner": "ilia10000",
+            "repo": "dataset-distillation",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flexible Dataset Distillation: Learn Labels Instead of Images",
+          "description": "(Ondrej Bohdal et al., NeurIPS 2020 Workshop) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-21T18:01:57Z",
+            "owner": "ondrejbohdal",
+            "repo": "label-distillation",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Label is Worth a Thousand Images in Dataset Distillation",
+          "description": "(Tian Qin et al., NeurIPS 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-24T22:09:56Z",
+            "owner": "sunnytqin",
+            "repo": "no-distillation",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?",
+          "description": "(Lingao Xiao et al., NeurIPS 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-13T02:35:24Z",
+            "owner": "he-y",
+            "repo": "soft-label-pruning-for-dataset-distillation",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost",
+          "description": "(Xinyi Shang & Peng Sun et al., ICLR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-26T05:59:59Z",
+            "owner": "LINs-lab",
+            "repo": "GIFT",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soft Label Pruning and Quantization for Large-Scale Dataset Distillation",
+          "description": "(Lingao Xiao et al., TPAMI 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-18T07:41:38Z",
+            "owner": "he-y",
+            "repo": "soft-label-pruning-quantization-for-dataset-distillation",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Label Distillation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dataset Quantization",
+          "description": "(Daquan Zhou & Kai Wang & Jianyang Gu et al., ICCV 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-01-06T18:05:24Z",
+            "owner": "magic-research",
+            "repo": "Dataset_Quantization",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Quantization with Active Learning based Adaptive Sampling",
+          "description": "(Zhenghao Zhao et al., ECCV 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-09T22:19:24Z",
+            "owner": "ichbill",
+            "repo": "DQAS",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Dataset Quantization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Squeeze, Recover and Relabel: Dataset Condensation at ImageNet Scale From A New Perspective",
+          "description": "(Zeyuan Yin & Zhiqiang Shen et al., NeurIPS 2023) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-15T11:53:34Z",
+            "owner": "VILA-Lab",
+            "repo": "SRe2L",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation via Curriculum Data Synthesis in Large Data Era",
+          "description": "(Zeyuan Yin et al., TMLR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-15T11:53:34Z",
+            "owner": "VILA-Lab",
+            "repo": "SRe2L",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm",
+          "description": "(Peng Sun et al., CVPR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-24T16:13:17Z",
+            "owner": "LINs-lab",
+            "repo": "RDED",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation",
+          "description": "(Zhiqiang Shen & Ammar Sherif et al., CVPR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-23T11:49:29Z",
+            "owner": "VILA-Lab",
+            "repo": "DELT",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching",
+          "description": "(Shitong Shao et al., CVPR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-09T03:44:22Z",
+            "owner": "shaoshitong",
+            "repo": "G_VBSM_Dataset_Condensation",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elucidating the Design Space of Dataset Condensation",
+          "description": "(Shitong Shao et al., NeurIPS 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-05T10:42:55Z",
+            "owner": "shaoshitong",
+            "repo": "EDC",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation via Committee Voting",
+          "description": "(Jiacheng Cui et al., 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-28T04:55:09Z",
+            "owner": "Jiacheng8",
+            "repo": "CV-DD",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation",
+          "description": "(Jiacheng Cui & Xinyue Bi et al., NeurIPS 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T14:52:47Z",
+            "owner": "Jiacheng8",
+            "repo": "FADRM",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment",
+          "description": "(Jiawei Du et al., NeurIPS 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-01T03:51:27Z",
+            "owner": "AngusDujw",
+            "repo": "Diversity-Driven-Synthesis",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator",
+          "description": "(Xin Zhang et al., ICLR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-06T04:20:57Z",
+            "owner": "zhangxin-xd",
+            "repo": "UFC",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curriculum Dataset Distillation",
+          "description": "(Zhiheng Ma & Anjia Cao et al., TIP 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-08T05:03:46Z",
+            "owner": "MIV-XJTU",
+            "repo": "CUDD",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution",
+          "description": "(Guanghui Shi et al., CVPR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T08:34:48Z",
+            "owner": "BeCarefulOfYournaoke",
+            "repo": "BPS",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Condensing Large-Scale Datasets Directly with Minimal Information Loss",
+          "description": "(Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) :octocat: :book: Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift (Jiacheng Cui et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T12:49:24Z",
+            "owner": "LINs-lab",
+            "repo": "CIM",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PRISM: Diversifying Dataset Distillation by Decoupling Architectural Priors",
+          "description": "(Brian B. Moser et al., TMLR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-05T04:14:40Z",
+            "owner": "Brian-Moser",
+            "repo": "prism",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiRe: Diversity-promoting Regularization for Dataset Condensation",
+          "description": "(Saumyaranjan Mohanty et al., WACV 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T07:03:03Z",
+            "owner": "DIL-IITH",
+            "repo": "DiRe",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhancing Dataset Distillation via Non-Critical Region Refinement",
+          "description": "(Minh-Tuan Tran et al., CVPR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-03-24T01:18:12Z",
+            "owner": "tmtuan1307",
+            "repo": "NRR-DD",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Decoupled Distillation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vision-Language Dataset Distillation",
+          "description": "(Xindi Wu et al., TMLR 2024) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-30T05:04:30Z",
+            "owner": "princetonvisualai",
+            "repo": "multimodal_dataset_distillation",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Low-Rank Similarity Mining for Multimodal Dataset Distillation",
+          "description": "(Yue Xu et al., ICML 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-11T06:37:10Z",
+            "owner": "silicx",
+            "repo": "LoRS_Distill",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Multimodal Dataset Distillation via Generative Models",
+          "description": "(Zhenghao Zhao et al., NeurIPS 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-17T22:04:20Z",
+            "owner": "ichbill",
+            "repo": "EDGE",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Audio-Visual Dataset Distillation",
+          "description": "(Saksham Singh Kushwaha et al., TMLR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-14T12:49:04Z",
+            "owner": "sakshamsingh1",
+            "repo": "AVDD",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis",
+          "description": "(Junhyeok Choi et al., ICLR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-12T12:39:42Z",
+            "owner": "junhyeok9712",
+            "repo": "PDS",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder",
+          "description": "(Yongmin Lee et al., NeurIPS 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-21T14:09:16Z",
+            "owner": "Yongalls",
+            "repo": "CovMatch",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimodal Dataset Distillation via Phased Teacher Models",
+          "description": "(Shengbin Guo & Hang Zhao et al., ICLR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T06:12:59Z",
+            "owner": "Previsior",
+            "repo": "PTM-ST",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multimodal Distribution Matching for Vision-Language Dataset Distillation",
+          "description": "(Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T10:10:54Z",
+            "owner": "andyj1",
+            "repo": "mdm",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
+          "description": "(Deyu Bo et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T03:32:29Z",
+            "owner": "bdy9527",
+            "repo": "MMDD",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
+          "description": "(Jongoh Jeong et al., ECCV 2026) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-09T14:38:45Z",
+            "owner": "andyj1",
+            "repo": "raha",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Multimodal Distillation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Self-supervised Dataset Distillation: A Good Compression Is All You Need",
+          "description": "(Muxin Zhou et al., 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-15T11:53:34Z",
+            "owner": "VILA-Lab",
+            "repo": "SRe2L",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation for Pre-Trained Self-Supervised Vision Models",
+          "description": "(George Cazenavette et al., NeurIPS 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-31T05:58:48Z",
+            "owner": "GeorgeCazenavette",
+            "repo": "linear-gradient-matching",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Self-Supervised Dataset Distillation for Transfer Learning",
+          "description": "(Dong Bok Lee & Seanie Lee et al., ICLR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-10T14:32:04Z",
+            "owner": "db-Lee",
+            "repo": "selfsup_dd",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Efficiency for Free: Ideal Data Are Transportable Representations",
+          "description": "(Peng Sun et al., NeurIPS 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-19T13:34:23Z",
+            "owner": "LINs-lab",
+            "repo": "ReLA",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks",
+          "description": "(Siddharth Joshi et al., ICLR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-25T05:20:51Z",
+            "owner": "jiayini1119",
+            "repo": "MKDT",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Self-Supervised Distillation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DC-BENCH: Dataset Condensation Benchmark",
+          "description": "(Justin Cui et al., NeurIPS 2022) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-22T19:00:01Z",
+            "owner": "justincui03",
+            "repo": "dc_benchmark",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
+          "description": "(Zekai Li & Xinhao Zhong et al., 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-06-13T16:23:37Z",
+            "owner": "NUS-HPC-AI-Lab",
+            "repo": "DD-Ranking",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation",
+          "description": "(Yifan Wu et al., TIP 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-28T13:15:07Z",
+            "owner": "FredWU-HUST",
+            "repo": "DD-RobustBench",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
+          "description": "(Zheng Zhou et al., 2024) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-11T04:27:58Z",
+            "owner": "zhouzhengqd",
+            "repo": "BEARD",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Benchmark"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Survey on Dataset Distillation: Approaches, Applications and Future Directions",
+          "description": "(Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-21T07:53:18Z",
+            "owner": "Guang000",
+            "repo": "Awesome-Dataset-Distillation",
+            "stars": 1969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Comprehensive Survey to Dataset Distillation",
+          "description": "(Shiye Lei et al., TPAMI 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-21T07:53:18Z",
+            "owner": "Guang000",
+            "repo": "Awesome-Dataset-Distillation",
+            "stars": 1969
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation: A Comprehensive Review",
+          "description": "(Ruonan Yu & Songhua Liu et al., TPAMI 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-21T07:53:18Z",
+            "owner": "Guang000",
+            "repo": "Awesome-Dataset-Distillation",
+            "stars": 1969
+          }
+        }
+      ],
+      "title": "Survey"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Summarizing Stream Data for Memory-Restricted Online Continual Learning",
+          "description": "(Jianyang Gu et al., AAAI 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-30T10:19:09Z",
+            "owner": "vimar-gu",
+            "repo": "SSD",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distilled Replay: Overcoming Forgetting through Synthetic Samples",
+          "description": "(Andrea Rosasco et al., IJCAI 2021 Workshop) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-01T12:53:46Z",
+            "owner": "andrearosasco",
+            "repo": "DistilledReplay",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "An Efficient Dataset Condensation Plugin and Its Application to Continual Learning",
+          "description": "(Enneng Yang et al., NeurIPS 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-29T14:37:53Z",
+            "owner": "EnnengYang",
+            "repo": "An-Efficient-Dataset-Condensation-Plugin",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Condensed Composite Memory Continual Learning",
+          "description": "(Felix Wiewel et al., IJCNN 2021) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-29T07:48:15Z",
+            "owner": "FelixWiewel",
+            "repo": "CCMCL",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sample Condensation in Online Continual Learning",
+          "description": "(Mattia Sangermano et al., IJCNN 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-22T16:53:36Z",
+            "owner": "MattiaSangermano",
+            "repo": "OLCGM",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asymmetric Synthetic Data Update for Domain Incremental Dataset Distillation",
+          "description": "(Minyoung Oh et al., ICLR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-27T03:27:46Z",
+            "owner": "myoh97",
+            "repo": "DIDD-ASU",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Continual Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Backdoor Attacks Against Dataset Distillation",
+          "description": "(Yugeng Liu et al., NDSS 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-19T13:02:24Z",
+            "owner": "liuyugeng",
+            "repo": "baadd",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Private Set Generation with Discriminative Information",
+          "description": "(Dingfan Chen et al., NeurIPS 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-14T09:30:40Z",
+            "owner": "DingfanChen",
+            "repo": "Private-Set",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Differentially Private Kernel Inducing Points (DP-KIP) for Privacy-preserving Data Distillation",
+          "description": "(Margarita Vinaroz et al., 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-24T04:13:57Z",
+            "owner": "dpclip",
+            "repo": "dpclip",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Improving Noise Efficiency in Privacy-preserving Dataset Distillation",
+          "description": "(Runkai Zheng et al., ICCV 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-31T22:19:59Z",
+            "owner": "humansensinglab",
+            "repo": "Dosser",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Privacy"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi-modal Vision Pre-training for Medical Image Analysis",
+          "description": "(Shaohao Rui & Lingzhi Chen et al., CVPR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-18T08:24:28Z",
+            "owner": "openmedlab",
+            "repo": "BrainMVP",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation",
+          "description": "(Haolong Jin et al., MICCAI 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-17T10:35:47Z",
+            "owner": "f1oNae",
+            "repo": "FedWSIDD",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Distillation for Safe Data Sharing in Histopathology",
+          "description": "(Zhe Li et al., MICCAI 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-18T12:58:54Z",
+            "owner": "ZheLi2020",
+            "repo": "InfoDist",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation",
+          "description": "(Le Dong et al., MICCAI 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-29T06:49:51Z",
+            "owner": "Bian-jh",
+            "repo": "HoP-TM",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation for Medical Dataset Sharing",
+          "description": "(Guang Li et al., AAAI 2023 Workshop) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-26T23:57:16Z",
+            "owner": "Guang000",
+            "repo": "mtt-distillation",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Soft-Label Anonymous Gastric X-ray Image Distillation",
+          "description": "(Guang Li et al., ICIP 2020) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-09T01:31:18Z",
+            "owner": "Guang000",
+            "repo": "dataset-distillation",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compressed Gastric Image Generation Based on Soft-Label Dataset Distillation for Medical Data Sharing",
+          "description": "(Guang Li et al., CMPB 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-09T01:31:18Z",
+            "owner": "Guang000",
+            "repo": "dataset-distillation",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Medical"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DYNAFED: Tackling Client Data Heterogeneity with Global Dynamics",
+          "description": "(Renjie Pi et al., CVPR 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-01T10:43:55Z",
+            "owner": "pipilurj",
+            "repo": "DynaFed",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DENSE: Data-Free One-Shot Federated Learning",
+          "description": "(Jie Zhang & Chen Chen et al., NeurIPS 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-11T15:40:24Z",
+            "owner": "zj-jayzhang",
+            "repo": "DENSE",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Federated Learning via Decentralized Dataset Distillation in Resource-Constrained Edge Environments",
+          "description": "(Rui Song et al., IJCNN 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-08T19:01:28Z",
+            "owner": "rruisong",
+            "repo": "FedD3",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis",
+          "description": "(Guochen Yan et al., AAAI 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-19T09:12:53Z",
+            "owner": "Youth-49",
+            "repo": "FedVCK_2024",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning",
+          "description": "(Yuanhao Xiong & Ruochen Wang et al., CVPR 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-04T14:15:35Z",
+            "owner": "anonymifish",
+            "repo": "fed-distribution-matching",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors",
+          "description": "(Chun-Yin Huang et al., ICML 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-14T23:06:58Z",
+            "owner": "ubc-tea",
+            "repo": "DESA",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedLAP-DP: Federated Learning by Sharing Differentially Private Loss Approximations",
+          "description": "(Hui-Po Wang et al., 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-03T20:19:39Z",
+            "owner": "hui-po-wang",
+            "repo": "FedLAP-DP",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unlocking the Potential of Federated Learning: The Symphony of Dataset Distillation via Deep Generative Latents",
+          "description": "(Yuqi Jia & Saeed Vahidian et al., ECCV 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-21T19:49:55Z",
+            "owner": "FedDG23",
+            "repo": "FedDG-main",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Federated Learning on Virtual Heterogeneous Data with Local-global Distillation",
+          "description": "(Chun-Yin Huang et al., TMLR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-03T20:20:33Z",
+            "owner": "ubc-tea",
+            "repo": "FedLGD",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "One-Shot Collaborative Data Distillation",
+          "description": "(William Holland et al., ECAI 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T06:04:00Z",
+            "owner": "rayneholland",
+            "repo": "CollabDM",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning",
+          "description": "(Xingwang Wang et al., IJCNN 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-22T10:03:00Z",
+            "owner": "JLUssh",
+            "repo": "DCFL",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Federated Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Graph Condensation for Graph Neural Networks",
+          "description": "(Wei Jin et al., ICLR 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-10T20:36:24Z",
+            "owner": "ChandlerBang",
+            "repo": "GCond",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data",
+          "description": "(Xin Zheng et al., NeurIPS 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-06T03:35:36Z",
+            "owner": "Amanda-Zheng",
+            "repo": "SFGC",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Does Graph Distillation See Like Vision Dataset Counterpart?",
+          "description": "(Beining Yang & Kai Wang et al., NeurIPS 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-19T14:51:48Z",
+            "owner": "RingBDStack",
+            "repo": "SGDD",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching",
+          "description": "(Yuchen Zhang & Tianle Zhang & Kai Wang et al., ICML 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-23T18:32:57Z",
+            "owner": "NUS-HPC-AI-Lab",
+            "repo": "GEOM",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Condensing Graphs via One-Step Gradient Matching",
+          "description": "(Wei Jin et al., KDD 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-10T11:18:15Z",
+            "owner": "amazon-science",
+            "repo": "doscond",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph Distillation with Eigenbasis Matching",
+          "description": "(Yang Liu & Deyu Bo et al., ICML 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-02T13:32:38Z",
+            "owner": "liuyang-tian",
+            "repo": "GDEM",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CaT: Balanced Continual Graph Learning with Graph Condensation",
+          "description": "(Yilun Liu et al., ICDM 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-21T02:56:17Z",
+            "owner": "superallen13",
+            "repo": "CaT-CGL",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph Data Condensation via Self-expressive Graph Structure Reconstruction",
+          "description": "(Zhanyu Liu & Chaolv Zeng et al., KDD 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-20T11:30:26Z",
+            "owner": "zclzcl0223",
+            "repo": "GCSR",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kernel Ridge Regression-Based Graph Dataset Distillation",
+          "description": "(Zhe Xu et al., KDD 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-10T19:33:54Z",
+            "owner": "pricexu",
+            "repo": "KIDD",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching",
+          "description": "(Tianle Zhang & Yuchen Zhang & Kai Wang et al., 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-09T02:08:38Z",
+            "owner": "NUS-HPC-AI-Lab",
+            "repo": "CTRL",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mirage: Model-Agnostic Graph Distillation for Graph Classification",
+          "description": "(Mridul Gupta & Sahil Manchanda et al., ICLR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-03T06:42:34Z",
+            "owner": "frigategnn",
+            "repo": "Mirage",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Graph Neural Network"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation",
+          "description": "(Mohammad Hashemi et al., IJCAI 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-25T17:57:08Z",
+            "owner": "Emory-Melody",
+            "repo": "awesome-graph-reduction",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph Condensation: A Survey",
+          "description": "(Xinyi Gao et al., TKDE 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-01T03:28:04Z",
+            "owner": "XYGaoG",
+            "repo": "Graph-Condensation-Papers",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Graph Condensation",
+          "description": "(Hongjia Xu et al., 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-10T08:28:50Z",
+            "owner": "Frostland12138",
+            "repo": "Awesome-Graph-Scaling",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Survey"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GC-Bench: A Benchmark Framework for Graph Condensation with New Insights",
+          "description": "(Shengbo Gong & Juntong Ni et al., 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T19:01:10Z",
+            "owner": "Emory-Melody",
+            "repo": "GraphSlim",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GC-Bench: An Open and Unified Benchmark for Graph Condensation",
+          "description": "(Qingyun Sun & Ziying Chen et al., NeurIPS 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-15T16:57:10Z",
+            "owner": "RingBDStack",
+            "repo": "GC-Bench",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GCondenser: Benchmarking Graph Condensation",
+          "description": "(Yilun Liu et al., 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-18T11:58:41Z",
+            "owner": "superallen13",
+            "repo": "GCondenser",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Benchmark"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "No further updates will be made regarding graph distillation topics as sufficient papers and summary projects are already available on the subject"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data",
+          "description": "(Felipe Petroski Such et al., ICML 2020) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-20T20:54:02Z",
+            "owner": "uber-research",
+            "repo": "GTN",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning to Generate Synthetic Training Data using Gradient Matching and Implicit Differentiation",
+          "description": "(Dmitry Medvedev et al., AIST 2021) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-19T20:12:40Z",
+            "owner": "dm-medvedev",
+            "repo": "EfficientDistillation",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Neural Architecture Search"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation",
+          "description": "(George Cazenavette et al., CVPR 2022 Workshop) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-16T12:59:59Z",
+            "owner": "GeorgeCazenavette",
+            "repo": "mtt-distillation",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Galaxy Dataset Distillation with Self-Adaptive Trajectory Matching",
+          "description": "(Haowen Guan et al., NeurIPS 2023 Workshop) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-13T01:15:04Z",
+            "owner": "HaowenGuan",
+            "repo": "Galaxy-Dataset-Distillation",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Fashion, Art, and Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Infinite Recommendation Networks: A Data-Centric Approach",
+          "description": "(Noveen Sachdeva et al., NeurIPS 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-08T01:12:46Z",
+            "owner": "noveens",
+            "repo": "distill_cf",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation",
+          "description": "(Jiaqing Zhang et al., WWW 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-23T17:05:47Z",
+            "owner": "USTC-StarTeam",
+            "repo": "TD3",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Recommender Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bidirectional Learning for Offline Infinite-width Model-based Optimization",
+          "description": "(Can Chen et al., NeurIPS 2022) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-19T14:26:40Z",
+            "owner": "GGchen1997",
+            "repo": "BDI",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bidirectional Learning for Offline Model-based Biological Sequence Design",
+          "description": "(Can Chen et al., ICML 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-22T14:00:58Z",
+            "owner": "GGchen1997",
+            "repo": "BIB-ICML2023-Submission",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Blackbox Optimization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Towards Trustworthy Dataset Distillation",
+          "description": "(Shijie Ma et al., PR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-08T16:59:19Z",
+            "owner": "mashijie1028",
+            "repo": "TrustDD",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Group Distributionally Robust Dataset Distillation with Risk Minimization",
+          "description": "(Saeed Vahidian & Mingyu Wang & Jianyang Gu et al., ICLR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-21T15:25:50Z",
+            "owner": "Mming11",
+            "repo": "RobustDatasetDistillation",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Adversarially Robust Dataset Distillation by Curvature Regularization",
+          "description": "(Eric Xue et al., AAAI 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-21T20:32:42Z",
+            "owner": "yumozi",
+            "repo": "GUARD",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck",
+          "description": "(Zheng Zhou et al., ICML 2025) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-01T07:06:24Z",
+            "owner": "zhouzhengqd",
+            "repo": "ROME",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Robustness"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FairDD: Fair Dataset Distillation",
+          "description": "(Qihang Zhou et al., NeurIPS 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-26T03:08:08Z",
+            "owner": "zqhang",
+            "repo": "FairDD",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fair Dataset Distillation via Cross-Group Barycenter Alignment",
+          "description": "(Mohammad Hossein Moslemi et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-08T23:05:27Z",
+            "owner": "mhmoslemi",
+            "repo": "COBRA",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Fairness"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation",
+          "description": "(Aru Maekawa et al., NAACL 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-10T08:01:27Z",
+            "owner": "arumaekawa",
+            "repo": "DiLM",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation with Attention Labels for Fine-tuning BERT",
+          "description": "(Aru Maekawa et al., ACL 2023) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-08T02:32:05Z",
+            "owner": "arumaekawa",
+            "repo": "dataset-distillation-with-attention-labels",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synthetic Text Generation for Training Large Language Models via Gradient Matching",
+          "description": "(Dang Nguyen & Zeman Li et al., ICML 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-18T18:08:14Z",
+            "owner": "BigML-CS-UCLA",
+            "repo": "GRADMM",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation",
+          "description": "(Huimin Lu et al., ICLR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-14T12:32:44Z",
+            "owner": "EminLU",
+            "repo": "UniDetox",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CondenseLM: LLMs-driven Text Dataset Condensation via Reward Matching",
+          "description": "(Cheng Shen et al., EMNLP 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-24T19:39:13Z",
+            "owner": "cs6331",
+            "repo": "CondenseLM",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Text"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement",
+          "description": "(Ziyu Wang & Yue Xu et al., CVPR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-21T03:21:30Z",
+            "owner": "yuz1wan",
+            "repo": "video_distillation",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Large-Scale Study on Video Action Dataset Condensation",
+          "description": "(Yang Chen et al., 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-30T13:46:30Z",
+            "owner": "MCG-NJU",
+            "repo": "Video-DC",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Latent Video Dataset Distillation",
+          "description": "(Ning Li et al., CVPR 2025 Workshop) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-31T22:18:50Z",
+            "owner": "liningresearch",
+            "repo": "Latent_Video_Dataset_Distillation",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting",
+          "description": "(Jianrong Ding & Zhanyu Liu et al., NeurIPS 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T02:30:45Z",
+            "owner": "RafaDD",
+            "repo": "CondTSF",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression",
+          "description": "(Taehyung Kwon & Yeonje Choi et al., ICDE 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T03:45:38Z",
+            "owner": "kbrother",
+            "repo": "STemDist",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Condensation for Time Series Classification via Dual Domain Matching",
+          "description": "(Zhanyu Liu et al., KDD 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-17T11:34:04Z",
+            "owner": "zhyliu00",
+            "repo": "TimeSeriesCond",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification",
+          "description": "(Sijia Peng et al., 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-18T13:48:30Z",
+            "owner": "lunaaa95",
+            "repo": "ShapeCond",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching",
+          "description": "(Hao Miao et al., VLDB 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-26T20:08:49Z",
+            "owner": "uestc-liuzq",
+            "repo": "STdistillation",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Distilling Time Series Foundation Models for Efficient Forecasting",
+          "description": "(Yuqi Li & Kuiye Ding et al., ICASSP 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-17T03:04:35Z",
+            "owner": "itsnotacie",
+            "repo": "DistilTS-ICASSP2026",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis",
+          "description": "(Wei Shao et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-17T08:54:10Z",
+            "owner": "ZJU-DAILY",
+            "repo": "UniTSC",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Time Series"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation for Offline Reinforcement Learning",
+          "description": "(Jonathan Light & Yuanzhe Liu et al., ICML 2024 Workshop) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-02T20:07:28Z",
+            "owner": "ggflow123",
+            "repo": "DDRL",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Offline Behavior Distillation",
+          "description": "(Shiye Lei et al., NeurIPS 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-31T00:42:33Z",
+            "owner": "LeavesLei",
+            "repo": "OBD",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Behaviour Distillation",
+          "description": "(Andrei Lupu et al., ICLR 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-21T10:16:41Z",
+            "owner": "FLAIROx",
+            "repo": "behaviour-distillation",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Reinforcement Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Distilling Long-tailed Datasets",
+          "description": "(Zhenghao Zhao & Haoxuan Wang et al., CVPR 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-13T18:31:49Z",
+            "owner": "ichbill",
+            "repo": "LTDD",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation",
+          "description": "(Chenyang Jiang et al., NeurIPS 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-27T12:41:10Z",
+            "owner": "j-cyoung",
+            "repo": "ADSA_DD",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Long-Tail"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Robust Dataset Condensation using Supervised Contrastive Learning",
+          "description": "(Nicole Hee-Yeon Kim et al., ICCV 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-07T07:32:31Z",
+            "owner": "DISL-Lab",
+            "repo": "RDC-ICCV2025",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dataset Distillers Are Good Label Denoisers In the Wild",
+          "description": "(Lechao Cheng et al., 2024) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-12T05:45:22Z",
+            "owner": "Kciiiman",
+            "repo": "DD_LNL",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Learning with Noisy Labels"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dataset Distillation of 3D Point Clouds via Distribution Matching",
+          "description": "(Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T05:43:16Z",
+            "owner": "donguk071",
+            "repo": "SADM",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parameterization-Based Dataset Distillation of 3D Point Clouds through Learnable Shape Morphing",
+          "description": "(Dongwook Kim & Jae-Young Yim et al., ICLR 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-11T08:23:45Z",
+            "owner": "donguk071",
+            "repo": "3DDP",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Point Cloud"
+    },
+    {
+      "description": "If you find this project useful for your research, please use the following BibTeX entry.",
+      "items": [],
+      "title": "Citing Awesome Dataset Distillation"
+    },
+    {
+      "description": "We would like to express our heartfelt thanks to Nikolaos Tsilivis, Wei Jin, Yongchao Zhou, Noveen Sachdeva, Can Chen, Guangxiang Zhao, Shiye Lei, Xinchao Wang, Dmitry Medvedev, Seungjae Shin, Jiawei Du, Yidi Jiang, Xindi Wu, Guangyi Liu, Yilun Liu, Kai Wang, Yue Xu, Anjia Cao, Jianyang Gu, Yuanzhen Feng, Peng Sun, Ahmad Sajedi, Zhihao Sui, Ziyu Wang, Haoyang Liu, Eduardo Montesuma, Shengbo Gong, Zheng Zhou, Zhenghao Zhao, Duo Su, Tianhang Zheng, Shijie Ma, Wei Wei, Yantai Yang, Shaobo Wang, Xinhao Zhong, Zhiqiang Shen, Cong Cong, Chun-Yin Huang, Dai Liu, Ruonan Yu, William Holland, Saksham Singh Kushwaha, Ping Liu, Wenliang Zhong, Ning Li, Guochen Yan, Saumyaranjan Mohanty, Taehyung Kwon, Dongwook Kim, Bárbara Capelo, Guanghui Shi, Jongoh Jeong, Akshay Mehra, Hyun-Kurl Jang, and Jiacheng Cui for their valuable suggestions and contributions.\nThe Homepage of Awesome Dataset Distillation was designed by Longzhen Li and maintained by Mingzhuo Li.",
+      "items": [],
+      "title": "Acknowledgments"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:53:06.830Z",
+    "original_repository": "Guang000/Awesome-Dataset-Distillation",
+    "original_repository_sha": "d61c2d0076455c93831cb0a37ddd93d06e23377e",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
+    "enhanced_repository_description": null,
+    "title": "Awesome Dataset Distillation with stars"
+  }
+}
