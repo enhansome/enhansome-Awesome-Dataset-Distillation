@@ -42,7 +42,7 @@
             "last_commit": "2026-07-23T02:18:56Z",
             "owner": "Guang000",
             "repo": "FD2",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -1555,7 +1555,7 @@
             "last_commit": "2025-07-28T04:55:09Z",
             "owner": "Jiacheng8",
             "repo": "CV-DD",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -1796,7 +1796,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-05T10:10:54Z",
+            "last_commit": "2026-08-15T05:25:36Z",
             "owner": "andyj1",
             "repo": "mdm",
             "stars": 2
@@ -1982,7 +1982,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-21T07:53:18Z",
+            "last_commit": "2026-08-15T02:58:15Z",
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
             "stars": 1968
@@ -1996,7 +1996,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-21T07:53:18Z",
+            "last_commit": "2026-08-15T02:58:15Z",
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
             "stars": 1968
@@ -2010,7 +2010,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-07-21T07:53:18Z",
+            "last_commit": "2026-08-15T02:58:15Z",
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
             "stars": 1968
@@ -3323,9 +3323,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T13:49:09.424Z",
+    "last_updated": "2026-08-15T13:02:30.026Z",
     "original_repository": "Guang000/Awesome-Dataset-Distillation",
-    "original_repository_sha": "d61c2d0076455c93831cb0a37ddd93d06e23377e",
+    "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Dataset Distillation with stars"
