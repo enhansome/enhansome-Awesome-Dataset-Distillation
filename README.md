@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,971 | 🐛 100 | 📅 2026-06-30 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-352-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,354 | 🐛 100 | 📅 2026-06-30 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-352-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -22,7 +22,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 * \[2026/07/07] [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift](https://arxiv.org/abs/2512.15647) (Jiacheng Cui et al., ICML 2026) [:octocat:](https://github.com/Jiacheng8/HALD) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-05-01 [:book:](./citations/cui2026hard.txt)
 * \[2026/07/08] [Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation](https://arxiv.org/abs/2606.20196) (Hyun-Kurl Jang & Jihun Kim & Hyeokjun Kweon et al., ECCV 2026) [:octocat:](https://github.com/blue-531/DOALL) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-06-24 [:book:](./citations/jang2026doall.txt)
-* \[2026/07/08] [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., ECCV 2026) [:globe\_with\_meridians:](https://guang000.github.io/FD2-Webpage/) [:octocat:](https://github.com/Guang000/FD2) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-07-23 [:book:](./citations/ma2026fd2.txt)
+* \[2026/07/08] [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., ECCV 2026) [:globe\_with\_meridians:](https://guang000.github.io/FD2-Webpage/) [:octocat:](https://github.com/Guang000/FD2) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-07-23 [:book:](./citations/ma2026fd2.txt)
 * \[2026/07/08] [Condensing Large-Scale Datasets Directly with Minimal Information Loss](https://arxiv.org/abs/2607.00916) (Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) [:octocat:](https://github.com/LINs-lab/CIM) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-06-29 [:book:](./citations/shang2026cim.txt)
 * \[2026/07/07] [One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](https://openreview.net/forum?id=i8FO7f2OYJ) (Wei Shao et al., ICML 2026) [:octocat:](https://github.com/ZJU-DAILY/UniTSC) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-17 [:book:](./citations/shao2026unitsc.txt)
 * \[2026/07/07] [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](https://openreview.net/forum?id=onosLtwoiK) (Ziang Gan et al., ICML 2026) [:octocat:](https://github.com/tade1s/SCG) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-07-27 [:book:](./citations/gan2026scg.txt)
@@ -259,7 +259,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Better Understanding
 
-* [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) ⭐ 2,854 | 🐛 0 | 🌐 Python | 📅 2026-04-08 [:book:](./citations/lorraine2020optimizing.txt)
+* [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) ⭐ 2,855 | 🐛 0 | 🌐 Python | 📅 2026-08-15 [:book:](./citations/lorraine2020optimizing.txt)
 * [Flowing Datasets with Wasserstein over Wasserstein Gradient Flows](https://arxiv.org/abs/2506.07534) (Clément Bonet & Christophe Vauthier et al., ICML 2025) [:octocat:](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows) ⭐ 21 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-21 [:book:](./citations/bonet2025flowing.txt)
 * [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-14 [:book:](./citations/yang2024learning.txt)
 * [On Implicit Bias in Overparameterized Bilevel Optimization](https://proceedings.mlr.press/v162/vicol22a.html) (Paul Vicol et al., ICML 2022) [:book:](./citations/vicol2022implicit.txt)
@@ -762,4 +762,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

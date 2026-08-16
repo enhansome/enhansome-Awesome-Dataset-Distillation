@@ -1296,10 +1296,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-04-08T19:27:17Z",
+            "last_commit": "2026-08-15T14:33:56Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2854
+            "stars": 2855
           }
         },
         {
@@ -3323,7 +3323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:02:30.026Z",
+    "last_updated": "2026-08-16T13:04:14.480Z",
     "original_repository": "Guang000/Awesome-Dataset-Distillation",
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
