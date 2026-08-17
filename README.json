@@ -522,7 +522,7 @@
             "last_commit": "2024-03-01T17:17:03Z",
             "owner": "google",
             "repo": "neural-tangents",
-            "stars": 2385
+            "stars": 2384
           }
         },
         {
@@ -536,7 +536,7 @@
             "last_commit": "2024-03-01T17:17:03Z",
             "owner": "google",
             "repo": "neural-tangents",
-            "stars": 2385
+            "stars": 2384
           }
         },
         {
@@ -867,7 +867,7 @@
             "last_commit": "2025-12-06T05:32:04Z",
             "owner": "jachansantiago",
             "repo": "mode_guidance",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-08-15T14:33:56Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2855
+            "stars": 2858
           }
         },
         {
@@ -3323,7 +3323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:04:14.480Z",
+    "last_updated": "2026-08-17T13:10:40.077Z",
     "original_repository": "Guang000/Awesome-Dataset-Distillation",
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
