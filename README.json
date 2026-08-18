@@ -132,7 +132,7 @@
             "last_commit": "2023-11-27T01:24:08Z",
             "owner": "VICO-UoE",
             "repo": "DatasetCondensation",
-            "stars": 542
+            "stars": 541
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2023-11-27T01:24:08Z",
             "owner": "VICO-UoE",
             "repo": "DatasetCondensation",
-            "stars": 542
+            "stars": 541
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2024-07-16T12:59:59Z",
             "owner": "GeorgeCazenavette",
             "repo": "mtt-distillation",
-            "stars": 440
+            "stars": 439
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2023-11-27T01:24:08Z",
             "owner": "VICO-UoE",
             "repo": "DatasetCondensation",
-            "stars": 542
+            "stars": 541
           }
         },
         {
@@ -839,7 +839,7 @@
             "last_commit": "2024-03-22T08:03:18Z",
             "owner": "vimar-gu",
             "repo": "MinimaxDiffusion",
-            "stars": 104
+            "stars": 105
           }
         },
         {
@@ -1296,10 +1296,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T14:33:56Z",
+            "last_commit": "2026-08-17T19:38:27Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2858
+            "stars": 2857
           }
         },
         {
@@ -1985,7 +1985,7 @@
             "last_commit": "2026-08-15T02:58:15Z",
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
-            "stars": 1968
+            "stars": 1967
           }
         },
         {
@@ -1999,7 +1999,7 @@
             "last_commit": "2026-08-15T02:58:15Z",
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
-            "stars": 1968
+            "stars": 1967
           }
         },
         {
@@ -2013,7 +2013,7 @@
             "last_commit": "2026-08-15T02:58:15Z",
             "owner": "Guang000",
             "repo": "Awesome-Dataset-Distillation",
-            "stars": 1968
+            "stars": 1967
           }
         }
       ],
@@ -2749,7 +2749,7 @@
             "last_commit": "2024-07-16T12:59:59Z",
             "owner": "GeorgeCazenavette",
             "repo": "mtt-distillation",
-            "stars": 440
+            "stars": 439
           }
         },
         {
@@ -3323,7 +3323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:10:40.077Z",
+    "last_updated": "2026-08-18T13:12:44.532Z",
     "original_repository": "Guang000/Awesome-Dataset-Distillation",
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
