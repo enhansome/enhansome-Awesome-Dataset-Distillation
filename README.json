@@ -102,7 +102,7 @@
             "archived": false,
             "id": 1275701253,
             "language": null,
-            "last_commit": "2026-08-09T14:38:45Z",
+            "last_commit": "2026-08-20T08:07:39Z",
             "owner": "andyj1",
             "repo": "raha",
             "stars": 0
@@ -562,7 +562,7 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2384
+                "stars": 2383
               }
             },
             {
@@ -577,7 +577,7 @@
                 "last_commit": "2024-03-01T17:17:03Z",
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2384
+                "stars": 2383
               }
             },
             {
@@ -935,6 +935,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Taming Diffusion for Dataset Distillation with High Representativeness",
+                  "description": "(Lin Zhao et al., ICML 2025) :octocat: :book:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 986775387,
+                    "language": "Python",
+                    "last_commit": "2025-08-24T20:10:30Z",
+                    "owner": "lin-zhao-resoLve",
+                    "repo": "D3HR",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Dataset Distillation via Vision-Language Category Prototype",
                   "description": "(Yawen Zou & Guang Li et al., ICCV 2025) :globe_with_meridians: :octocat: :book:",
                   "children": [],
@@ -946,21 +961,6 @@
                     "owner": "zou-yawen",
                     "repo": "Dataset-Distillation-via-Vision-Language-Category-Prototype",
                     "stars": 17
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Taming Diffusion for Dataset Distillation with High Representativeness",
-                  "description": "(Lin Zhao et al., ICML 2025) :octocat: :book:",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 986775387,
-                    "language": "Python",
-                    "last_commit": "2025-08-24T20:10:30Z",
-                    "owner": "lin-zhao-resoLve",
-                    "repo": "D3HR",
-                    "stars": 16
                   }
                 },
                 {
@@ -1399,7 +1399,7 @@
                 "last_commit": "2026-08-17T19:38:27Z",
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2859
+                "stars": 2858
               }
             },
             {
@@ -1934,7 +1934,7 @@
                 "archived": false,
                 "id": 1134164826,
                 "language": "Python",
-                "last_commit": "2026-08-15T05:25:36Z",
+                "last_commit": "2026-08-20T06:26:13Z",
                 "owner": "andyj1",
                 "repo": "mdm",
                 "stars": 2
@@ -1964,7 +1964,7 @@
                 "archived": false,
                 "id": 1275701253,
                 "language": null,
-                "last_commit": "2026-08-09T14:38:45Z",
+                "last_commit": "2026-08-20T08:07:39Z",
                 "owner": "andyj1",
                 "repo": "raha",
                 "stars": 0
@@ -3572,7 +3572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:14:30.061Z",
+    "last_updated": "2026-08-20T13:15:45.307Z",
     "original_repository": "Guang000/Awesome-Dataset-Distillation",
     "original_repository_id": 501453265,
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
