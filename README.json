@@ -130,6 +130,43 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Dataset Distillation",
+          "description": "(Tongzhou Wang et al., 2018) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160362961,
+            "language": "Python",
+            "last_commit": "2025-06-17T22:44:27Z",
+            "owner": "ssnl",
+            "repo": "dataset-distillation",
+            "stars": 829
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gradient-Based Hyperparameter Optimization Through Reversible Learning",
+              "description": "(Dougal Maclaurin et al., ICML 2015) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29038641,
+                "language": "Python",
+                "last_commit": "2016-01-15T20:33:49Z",
+                "owner": "HIPS",
+                "repo": "hypergrad",
+                "stars": 297
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Early Work"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -1147,6 +1184,28 @@
               "description": null,
               "node_type": "group",
               "title": "Diffusion"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation",
+                  "description": "(Lin Zhao & Xinru Jiang et al., CVPR 2026) :octocat: :book:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1174119417,
+                    "language": "Python",
+                    "last_commit": "2026-08-07T17:55:43Z",
+                    "owner": "Oshikaka",
+                    "repo": "HIERAMP",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "VAR"
             }
           ],
           "description": null,
@@ -2175,6 +2234,28 @@
           "description": null,
           "node_type": "group",
           "title": "Survey"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The First Dataset Distillation Challenge (Kai Wang & Ahmad Sajedi et al., ECCV 2024) :globe_with_meridians:",
+              "description": "octocat:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 828786273,
+                "language": "Python",
+                "last_commit": "2024-07-16T06:02:43Z",
+                "owner": "DataDistillation",
+                "repo": "ECCV2024-Dataset-Distillation-Challenge",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Challenge"
         }
       ],
       "title": "Main"
@@ -3296,6 +3377,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "New Properties of the Data Distillation Method When Working With Tabular Data",
+              "description": "(Dmitry Medvedev et al., AIST 2020) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280893683,
+                "language": "Python",
+                "last_commit": "2020-10-02T20:24:16Z",
+                "owner": "dm-medvedev",
+                "repo": "dataset-distillation",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tabular"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting",
               "description": "(Jianrong Ding & Zhanyu Liu et al., NeurIPS 2024) :octocat: :book:",
               "children": [],
@@ -3403,6 +3506,28 @@
           "description": null,
           "node_type": "group",
           "title": "Time Series"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dataset Condensation Driven Machine Unlearning",
+              "description": "(Junaid Iqbal Khan, 2024) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 759570874,
+                "language": "Python",
+                "last_commit": "2025-07-13T20:06:42Z",
+                "owner": "algebraicdianuj",
+                "repo": "DC_U",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Machine Unlearning"
         },
         {
           "children": [
@@ -3534,6 +3659,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "OD3: Optimization-free Dataset Distillation for Object Detection",
+              "description": "(Salwa K. Al Khatib & Ahmed ElHagry & Shitong Shao et al., ICLR 2026) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 994954911,
+                "language": "Python",
+                "last_commit": "2026-01-26T16:48:13Z",
+                "owner": "VILA-Lab",
+                "repo": "OD3",
+                "stars": 31
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Object Detection"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Dataset Distillation of 3D Point Clouds via Distribution Matching",
               "description": "(Jae-Young Yim & Dongwook Kim et al., NeurIPS 2025) :octocat: :book:",
               "children": [],
@@ -3566,13 +3713,79 @@
           "description": null,
           "node_type": "group",
           "title": "Point Cloud"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EEG-DLite: Dataset Distillation for Efficient Large EEG Model Training",
+              "description": "(Yuting Tang et al., AAAI 2026) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1093341526,
+                "language": "Python",
+                "last_commit": "2025-12-16T04:51:23Z",
+                "owner": "t170815518",
+                "repo": "EEG-DLite",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "EEG"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization",
+              "description": "(Qianfeng Yang et al., CVPR 2026) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171365874,
+                "language": "Python",
+                "last_commit": "2026-05-25T05:06:51Z",
+                "owner": "QianfengY",
+                "repo": "UniRain",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deraining"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation",
+              "description": "(Hyun-Kurl Jang & Jihun Kim & Hyeokjun Kweon et al., ECCV 2026) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1273350412,
+                "language": "Python",
+                "last_commit": "2026-06-24T04:50:17Z",
+                "owner": "blue-531",
+                "repo": "DOALL",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Test-Time Adaptation"
         }
       ],
       "title": "Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:18:05.721Z",
+    "last_updated": "2026-08-24T14:04:47.869Z",
     "original_repository": "Guang000/Awesome-Dataset-Distillation",
     "original_repository_id": 501453265,
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
