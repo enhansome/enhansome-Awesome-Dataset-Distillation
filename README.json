@@ -15,7 +15,7 @@
             "last_commit": "2026-05-01T10:41:57Z",
             "owner": "Jiacheng8",
             "repo": "HALD",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -1607,7 +1607,7 @@
                 "last_commit": "2024-01-06T18:05:24Z",
                 "owner": "magic-research",
                 "repo": "Dataset_Quantization",
-                "stars": 261
+                "stars": 260
               }
             },
             {
@@ -1734,7 +1734,7 @@
                 "last_commit": "2025-07-28T04:55:09Z",
                 "owner": "Jiacheng8",
                 "repo": "CV-DD",
-                "stars": 16
+                "stars": 17
               }
             },
             {
@@ -2197,7 +2197,7 @@
                 "last_commit": "2026-08-15T02:58:15Z",
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1969
+                "stars": 1970
               }
             },
             {
@@ -2212,7 +2212,7 @@
                 "last_commit": "2026-08-15T02:58:15Z",
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1969
+                "stars": 1970
               }
             },
             {
@@ -2227,7 +2227,7 @@
                 "last_commit": "2026-08-15T02:58:15Z",
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1969
+                "stars": 1970
               }
             }
           ],
@@ -3421,7 +3421,7 @@
                 "archived": false,
                 "id": 892967721,
                 "language": "Python",
-                "last_commit": "2026-04-08T03:45:38Z",
+                "last_commit": "2026-08-25T12:10:24Z",
                 "owner": "kbrother",
                 "repo": "STemDist",
                 "stars": 14
@@ -3785,7 +3785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:46.486Z",
+    "last_updated": "2026-08-25T13:16:03.502Z",
     "original_repository": "Guang000/Awesome-Dataset-Distillation",
     "original_repository_id": 501453265,
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
