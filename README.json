@@ -65,6 +65,21 @@
         },
         {
           "node_type": "item",
+          "title": "[2026/07/08] Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
+          "description": "(Jongoh Jeong et al., ECCV 2026) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1275701253,
+            "language": null,
+            "last_commit": "2026-08-20T08:07:39Z",
+            "owner": "andyj1",
+            "repo": "raha",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "[2026/07/07] One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis",
           "description": "(Wei Shao et al., ICML 2026) :octocat: :book:",
           "children": [],
@@ -91,21 +106,6 @@
             "owner": "tade1s",
             "repo": "SCG",
             "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[2026/07/08] Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
-          "description": "(Jongoh Jeong et al., ECCV 2026) :globe_with_meridians: :octocat: :book:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1275701253,
-            "language": null,
-            "last_commit": "2026-08-20T08:07:39Z",
-            "owner": "andyj1",
-            "repo": "raha",
-            "stars": 0
           }
         },
         {
@@ -2001,21 +2001,6 @@
             },
             {
               "node_type": "item",
-              "title": "Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
-              "description": "(Deyu Bo et al., ICML 2026) :octocat: :book:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1108834084,
-                "language": "Python",
-                "last_commit": "2025-12-09T03:32:29Z",
-                "owner": "bdy9527",
-                "repo": "MMDD",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
               "title": "Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
               "description": "(Jongoh Jeong et al., ECCV 2026) :globe_with_meridians: :octocat: :book:",
               "children": [],
@@ -2026,6 +2011,21 @@
                 "last_commit": "2026-08-20T08:07:39Z",
                 "owner": "andyj1",
                 "repo": "raha",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
+              "description": "(Deyu Bo et al., ICML 2026) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1108834084,
+                "language": "Python",
+                "last_commit": "2025-12-09T03:32:29Z",
+                "owner": "bdy9527",
+                "repo": "MMDD",
                 "stars": 0
               }
             }
@@ -3785,7 +3785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:04:47.869Z",
+    "last_updated": "2026-08-25T06:00:46.486Z",
     "original_repository": "Guang000/Awesome-Dataset-Distillation",
     "original_repository_id": 501453265,
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
