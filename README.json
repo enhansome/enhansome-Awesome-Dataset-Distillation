@@ -1062,21 +1062,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "EVLF: Early Vision-Language Fusion for Generative Dataset Distillation",
-                  "description": "(Wenqi Cai et al., CVPR 2026) :globe_with_meridians: :octocat: :book:",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1175679359,
-                    "language": "Python",
-                    "last_commit": "2026-03-23T14:14:24Z",
-                    "owner": "wenqi-cai297",
-                    "repo": "earlyfusion-for-dd",
-                    "stars": 8
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Geometry-Aware Dataset Condensation for Diffusion Model Training",
                   "description": "(Xiao Cui et al., ICML 2026) :octocat: :book:",
                   "children": [],
@@ -1087,6 +1072,21 @@
                     "last_commit": "2026-06-08T04:01:52Z",
                     "owner": "2018cx",
                     "repo": "GADC",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "EVLF: Early Vision-Language Fusion for Generative Dataset Distillation",
+                  "description": "(Wenqi Cai et al., CVPR 2026) :globe_with_meridians: :octocat: :book:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1175679359,
+                    "language": "Python",
+                    "last_commit": "2026-03-23T14:14:24Z",
+                    "owner": "wenqi-cai297",
+                    "repo": "earlyfusion-for-dd",
                     "stars": 8
                   }
                 },
@@ -1458,7 +1458,7 @@
                 "last_commit": "2026-08-17T19:38:27Z",
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2863
+                "stars": 2864
               }
             },
             {
@@ -1996,7 +1996,7 @@
                 "last_commit": "2026-08-20T06:26:13Z",
                 "owner": "andyj1",
                 "repo": "mdm",
-                "stars": 2
+                "stars": 3
               }
             },
             {
@@ -2197,7 +2197,7 @@
                 "last_commit": "2026-08-15T02:58:15Z",
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1970
+                "stars": 1969
               }
             },
             {
@@ -2212,7 +2212,7 @@
                 "last_commit": "2026-08-15T02:58:15Z",
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1970
+                "stars": 1969
               }
             },
             {
@@ -2227,7 +2227,7 @@
                 "last_commit": "2026-08-15T02:58:15Z",
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1970
+                "stars": 1969
               }
             }
           ],
@@ -3750,7 +3750,7 @@
                 "last_commit": "2026-05-25T05:06:51Z",
                 "owner": "QianfengY",
                 "repo": "UniRain",
-                "stars": 26
+                "stars": 27
               }
             }
           ],
@@ -3785,7 +3785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:16:03.502Z",
+    "last_updated": "2026-08-26T13:27:50.970Z",
     "original_repository": "Guang000/Awesome-Dataset-Distillation",
     "original_repository_id": 501453265,
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
