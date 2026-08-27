@@ -141,7 +141,7 @@
             "last_commit": "2025-06-17T22:44:27Z",
             "owner": "ssnl",
             "repo": "dataset-distillation",
-            "stars": 829
+            "stars": 830
           }
         },
         {
@@ -1122,21 +1122,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation",
-                  "description": "(Ayush Roy et al., CVPR 2026) :octocat: :book:",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1166027188,
-                    "language": "Python",
-                    "last_commit": "2026-06-27T22:37:17Z",
-                    "owner": "AyushRoy2001",
-                    "repo": "ManifoldGD",
-                    "stars": 5
-                  }
-                },
-                {
-                  "node_type": "item",
                   "title": "Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling",
                   "description": "(Mingzhuo Li & Guang Li et al., ICCV 2025 Workshop) :octocat: :book:",
                   "children": [],
@@ -1147,6 +1132,21 @@
                     "last_commit": "2025-09-09T23:59:36Z",
                     "owner": "SumomoTaku",
                     "repo": "DiffGuideSamp",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation",
+                  "description": "(Ayush Roy et al., CVPR 2026) :octocat: :book:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1166027188,
+                    "language": "Python",
+                    "last_commit": "2026-06-27T22:37:17Z",
+                    "owner": "AyushRoy2001",
+                    "repo": "ManifoldGD",
                     "stars": 4
                   }
                 },
@@ -2197,7 +2197,7 @@
                 "last_commit": "2026-08-15T02:58:15Z",
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1969
+                "stars": 1970
               }
             },
             {
@@ -2212,7 +2212,7 @@
                 "last_commit": "2026-08-15T02:58:15Z",
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1969
+                "stars": 1970
               }
             },
             {
@@ -2227,7 +2227,7 @@
                 "last_commit": "2026-08-15T02:58:15Z",
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1969
+                "stars": 1970
               }
             }
           ],
@@ -3424,7 +3424,7 @@
                 "last_commit": "2026-08-25T12:10:24Z",
                 "owner": "kbrother",
                 "repo": "STemDist",
-                "stars": 14
+                "stars": 15
               }
             },
             {
@@ -3785,7 +3785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:34.060Z",
+    "last_updated": "2026-08-27T22:25:10.950Z",
     "original_repository_info": {
       "archived": false,
       "id": 501453265,
@@ -3793,7 +3793,7 @@
       "last_commit": "2026-08-15T02:58:15Z",
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1969
+      "stars": 1970
     },
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
