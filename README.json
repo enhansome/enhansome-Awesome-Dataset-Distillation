@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift (ICML 2026)",
+            "homepage": null,
             "id": 1115211599,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-01T10:41:57Z",
+            "open_issues": 0,
             "owner": "Jiacheng8",
             "repo": "HALD",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "dataset-distillation",
+              "label-usage"
+            ]
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         },
@@ -26,12 +34,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official codebase for ECCV 2026 paper \"Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation\"",
+            "homepage": null,
             "id": 1273350412,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-24T04:50:17Z",
+            "open_issues": 1,
             "owner": "blue-531",
             "repo": "DOALL",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         },
@@ -42,12 +55,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FD²: A Dedicated Framework for Fine-Grained Dataset Distillation (ECCV 2026)",
+            "homepage": "https://guang000.github.io/FD2-Webpage/",
             "id": 1273391441,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T02:18:56Z",
+            "open_issues": 1,
             "owner": "Guang000",
             "repo": "FD2",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         },
@@ -58,12 +76,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2026] Condensing Large-Scale Datasets Directly with Minimal Information Loss",
+            "homepage": null,
             "id": 1283793132,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-29T12:49:24Z",
+            "open_issues": 1,
             "owner": "LINs-lab",
             "repo": "CIM",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         },
@@ -74,12 +97,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for \"Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation\" (ECCV 2026)",
+            "homepage": "https://andyj1.github.io/raha/",
             "id": 1275701253,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-20T08:07:39Z",
+            "open_issues": 0,
             "owner": "andyj1",
             "repo": "raha",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         },
@@ -90,12 +118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML26] One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis",
+            "homepage": null,
             "id": 1241334285,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-17T08:54:10Z",
+            "open_issues": 0,
             "owner": "ZJU-DAILY",
             "repo": "UniTSC",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         },
@@ -106,12 +139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1235769298,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-27T07:43:56Z",
+            "open_issues": 0,
             "owner": "tade1s",
             "repo": "SCG",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         },
@@ -122,12 +160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
+            "homepage": null,
             "id": 1108834084,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-09T03:32:29Z",
+            "open_issues": 1,
             "owner": "bdy9527",
             "repo": "MMDD",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         }
@@ -144,12 +187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source code for paper \"Dataset Distillation\"",
+            "homepage": "https://ssnl.github.io/dataset_distillation",
             "id": 160362961,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-17T22:44:27Z",
+            "open_issues": 11,
             "owner": "ssnl",
             "repo": "dataset-distillation",
-            "stars": 830
+            "stars": 830,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         },
@@ -162,12 +210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploring differentiation with respect to hyperparameters",
+                "homepage": null,
                 "id": 29038641,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-01-15T20:33:49Z",
+                "open_issues": 5,
                 "owner": "HIPS",
                 "repo": "hypergrad",
-                "stars": 297
+                "stars": 297,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -185,12 +238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset Condensation (ICLR21 and ICML21)",
+                "homepage": null,
                 "id": 296572233,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-27T01:24:08Z",
+                "open_issues": 4,
                 "owner": "VICO-UoE",
                 "repo": "DatasetCondensation",
-                "stars": 543
+                "stars": 543,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -201,12 +259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset Condensation (ICLR21 and ICML21)",
+                "homepage": null,
                 "id": 296572233,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-27T01:24:08Z",
+                "open_issues": 4,
                 "owner": "VICO-UoE",
                 "repo": "DatasetCondensation",
-                "stars": 543
+                "stars": 543,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -217,12 +280,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for our CVPR '22 paper \"Dataset Distillation by Matching Training Trajectories\"",
+                "homepage": "https://georgecazenavette.github.io/mtt-distillation/",
                 "id": 472540119,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-16T12:59:59Z",
+                "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 439
+                "stars": 439,
+                "topics": [
+                  "artificial-intelligence",
+                  "computer-vision",
+                  "machine-learning",
+                  "synthetic-data"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -233,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code of the paper \"Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation\" (CVPR2023)",
+                "homepage": null,
                 "id": 617011632,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-25T03:38:36Z",
+                "open_issues": 3,
                 "owner": "AngusDujw",
                 "repo": "FTD-distillation",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -249,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 706419539,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-12T22:51:28Z",
+                "open_issues": 4,
                 "owner": "justincui03",
                 "repo": "tesla",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -265,12 +348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 869479742,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-16T14:06:30Z",
+                "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "EDF",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -281,12 +369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is the official implementation of Dataset Condensation with Contrastive Signals (DCC), accepted at ICML 2022.",
+                "homepage": null,
                 "id": 501088416,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-08T04:12:40Z",
+                "open_issues": 1,
                 "owner": "Saehyung-Lee",
                 "repo": "DCC",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -297,12 +390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of \"Loss-Curvature Matching for Dataset Selection and Condensation\" (AISTATS 2023)",
+                "homepage": null,
                 "id": 601501100,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-14T01:55:45Z",
+                "open_issues": 2,
                 "owner": "SJShin-AI",
                 "repo": "LCMat",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -313,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Prioritize Alignment in Dataset Distillation",
+                "homepage": null,
                 "id": 838355869,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-03T06:03:40Z",
+                "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "PAD",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -329,12 +432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 806457819,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-28T13:25:47Z",
+                "open_issues": 1,
                 "owner": "Yongalls",
                 "repo": "SelMatch",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -345,12 +453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 829511406,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-21T08:07:10Z",
+                "open_issues": 1,
                 "owner": "NiaLiu",
                 "repo": "ATT",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -361,12 +474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Offical Code Implementation (PyTorch) of our paper \"Towards Stable and Storage-efficient Dataset Distillation: Matching Convexified Trajectory\" (CVPR 2025).",
+                "homepage": "https://cvpr.thecvf.com/virtual/2025/poster/34469",
                 "id": 921682775,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-07T08:51:57Z",
+                "open_issues": 0,
                 "owner": "iLearn-Lab",
                 "repo": "CVPR25-MCT",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -377,12 +495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 710800499,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-28T17:04:33Z",
+                "open_issues": 0,
                 "owner": "shqii1j",
                 "repo": "seqmatch",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -393,12 +516,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 744836412,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-09T10:36:38Z",
+                "open_issues": 0,
                 "owner": "GzyAftermath",
                 "repo": "DATM",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -409,12 +537,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of paper \"Neural Spectral Decomposition for Dataset Distillation\" in ECCV 2024.",
+                "homepage": null,
                 "id": 826066794,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-09T03:46:04Z",
+                "open_issues": 1,
                 "owner": "slyang2021",
                 "repo": "NSD",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -432,12 +565,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset Condensation (ICLR21 and ICML21)",
+                "homepage": null,
                 "id": 296572233,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-27T01:24:08Z",
+                "open_issues": 4,
                 "owner": "VICO-UoE",
                 "repo": "DatasetCondensation",
-                "stars": 543
+                "stars": 543,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -448,12 +586,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"Dataset Distillation with Neural Characteristic Function: A Minmax Perspective\" (NCFM) in CVPR 2025 (Full Score, Highlight).",
+                "homepage": "https://gszfwsb.github.io/NCFM/",
                 "id": 941159481,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-03T11:18:51Z",
+                "open_issues": 2,
                 "owner": "gszfwsb",
                 "repo": "NCFM",
-                "stars": 413
+                "stars": 413,
+                "topics": [
+                  "computer-vision",
+                  "data-centric-ai",
+                  "dataset-distillation",
+                  "synthetic-data"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -464,12 +612,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a method of dataset condensation, and it has been accepted by CVPR-2022.",
+                "homepage": null,
                 "id": 465262513,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-12T14:03:28Z",
+                "open_issues": 1,
                 "owner": "kaiwang960112",
                 "repo": "CAFE",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -480,12 +633,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"Dataset Distillation via the Wasserstein Metric\" (ICCV 2025).",
+                "homepage": "https://liu-hy.github.io/WMDD/",
                 "id": 986663053,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-08T20:09:07Z",
+                "open_issues": 0,
                 "owner": "Liu-Hy",
                 "repo": "WMDD",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "dataset-distillation",
+                  "distillation",
+                  "efficiency",
+                  "efficient-ai",
+                  "optimal-transport"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -496,12 +660,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2023] DataDAM: Efficient Dataset Distillation with Attention Matching",
+                "homepage": null,
                 "id": 677540240,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-20T07:19:50Z",
+                "open_issues": 1,
                 "owner": "DataDistillation",
                 "repo": "DataDAM",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -512,12 +681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 616817743,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-12T07:36:34Z",
+                "open_issues": 4,
                 "owner": "uitrbn",
                 "repo": "IDM",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -528,12 +702,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AAAI 2024, M3D: Dataset Condensation by Minimizing Maximum Mean Discrepancy",
+                "homepage": "https://hansong-zhang.github.io/M3D/",
                 "id": 730681408,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-02T19:02:58Z",
+                "open_issues": 3,
                 "owner": "Hansong-Zhang",
                 "repo": "M3D",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -544,12 +723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyperbolic Dataset Distillation (NeurIPS 2025)",
+                "homepage": "https://guang000.github.io/HDD-Webpage/",
                 "id": 1075994584,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-20T11:00:35Z",
+                "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "HDD",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -560,12 +744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation (CVPR24)",
+                "homepage": null,
                 "id": 775274652,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-16T07:52:25Z",
+                "open_issues": 2,
                 "owner": "VincenDen",
                 "repo": "IID",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -576,12 +765,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IJCAI 2024, DANCE: Dual-View Distribution Alignment for Dataset Condensation",
+                "homepage": "https://hansong-zhang.github.io/DANCE/",
                 "id": 796773254,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-26T14:29:02Z",
+                "open_issues": 1,
                 "owner": "Hansong-Zhang",
                 "repo": "DANCE",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -592,12 +786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diversified Semantic Distribution Matching for Dataset Distillation (MM 2024)",
+                "homepage": null,
                 "id": 835104053,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-10T12:52:35Z",
+                "open_issues": 0,
                 "owner": "Li-Hongcheng",
                 "repo": "DSDM",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -608,12 +807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1233545021,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-09T04:38:08Z",
+                "open_issues": 0,
                 "owner": "FlyFinley",
                 "repo": "TGDD",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -631,12 +835,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fast and Easy Infinite Neural Networks in Python",
+                "homepage": "https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html",
                 "id": 180192894,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-01T17:17:03Z",
+                "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382
+                "stars": 2382,
+                "topics": [
+                  "bayesian-inference",
+                  "bayesian-networks",
+                  "deep-networks",
+                  "gaussian-processes",
+                  "gradient-descent",
+                  "gradient-flow",
+                  "infinite-networks",
+                  "jax",
+                  "kernel",
+                  "kernel-computation",
+                  "neural-networks",
+                  "neural-tangents",
+                  "training-dynamics"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -647,12 +870,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fast and Easy Infinite Neural Networks in Python",
+                "homepage": "https://iclr.cc/virtual_2020/poster_SklD9yrFPS.html",
                 "id": 180192894,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-01T17:17:03Z",
+                "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382
+                "stars": 2382,
+                "topics": [
+                  "bayesian-inference",
+                  "bayesian-networks",
+                  "deep-networks",
+                  "gaussian-processes",
+                  "gradient-descent",
+                  "gradient-flow",
+                  "infinite-networks",
+                  "jax",
+                  "kernel",
+                  "kernel-computation",
+                  "neural-networks",
+                  "neural-tangents",
+                  "training-dynamics"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -663,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"Efficient Dataset Distillation using Random Feature Approximation\"",
+                "homepage": null,
                 "id": 549294957,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-24T18:38:16Z",
+                "open_issues": 2,
                 "owner": "yolky",
                 "repo": "RFAD",
-                "stars": 37
+                "stars": 37,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -679,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 601292073,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-25T20:04:17Z",
+                "open_issues": 3,
                 "owner": "yolky",
                 "repo": "RCIG",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -695,12 +947,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1048556868,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-01T16:23:58Z",
+                "open_issues": 0,
                 "owner": "yongchao97",
                 "repo": "FRePo",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -718,12 +975,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of \"Dataset Condensation via Efficient Synthetic-Data Parameterization\" (ICML'22)",
+                "homepage": null,
                 "id": 493472248,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-18T00:51:42Z",
+                "open_issues": 0,
                 "owner": "snu-mllab",
                 "repo": "Efficient-Dataset-Condensation",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "dataset-condensation",
+                  "dataset-distillation"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -734,12 +999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of paper \"Dataset Distillation via Factorization\" in NeurIPS 2022.",
+                "homepage": null,
                 "id": 548366208,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-11-28T06:36:15Z",
+                "open_issues": 3,
                 "owner": "Huage001",
                 "repo": "DatasetFactorization",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -750,12 +1020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official implementation of \"FYI: Flip Your Images for Dataset Distillation\" (ECCV 2024) in PyTorch.",
+                "homepage": null,
                 "id": 856766120,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-12-23T01:22:47Z",
+                "open_issues": 0,
                 "owner": "cvlab-yonsei",
                 "repo": "FYI",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -766,12 +1041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 549955765,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-11-19T03:51:53Z",
+                "open_issues": 2,
                 "owner": "princetonvisualai",
                 "repo": "RememberThePast-DatasetDistillation",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -782,12 +1062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation for Frequency Domain-based Dataset Distillation [NeurIPS 2023]",
+                "homepage": null,
                 "id": 700401363,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-07T13:41:06Z",
+                "open_issues": 1,
                 "owner": "sdh0818",
                 "repo": "FreD",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -798,12 +1083,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 499587612,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-24T23:43:09Z",
+                "open_issues": 0,
                 "owner": "UCDvision",
                 "repo": "PRANC",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -814,12 +1104,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of paper \"Sparse Parameterization for Epitomic Dataset Distillation\" in NeurIPS 2023.",
+                "homepage": null,
                 "id": 702076070,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-28T03:58:30Z",
+                "open_issues": 3,
                 "owner": "MIV-XJTU",
                 "repo": "SPEED",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -830,12 +1125,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation for Distilling Dataset into Neural Field [ICLR 2025]",
+                "homepage": null,
                 "id": 940471371,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-20T05:04:36Z",
+                "open_issues": 1,
                 "owner": "aailab-kaist",
                 "repo": "DDiF",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -846,12 +1146,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 545147818,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-04T08:15:23Z",
+                "open_issues": 0,
                 "owner": "balhaekim",
                 "repo": "BPC-Divergences",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -862,12 +1167,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 872246031,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-27T09:16:27Z",
+                "open_issues": 1,
                 "owner": "KeViNYuAn0314",
                 "repo": "AutoPalette",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -878,12 +1188,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for sparse representation of distilled dataset by gaussian splatting. ",
+                "homepage": null,
                 "id": 1067009722,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-18T01:53:56Z",
+                "open_issues": 1,
                 "owner": "j-cyoung",
                 "repo": "GSDatasetDistillation",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -894,12 +1209,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "official code for : Dataset distillation, Rate-Utility, Joint optimization",
+                "homepage": null,
                 "id": 1024795977,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-28T13:04:21Z",
+                "open_issues": 0,
                 "owner": "nouise",
                 "repo": "DD-RUO",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -919,12 +1239,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 635551124,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-05-22T19:25:42Z",
+                    "open_issues": 8,
                     "owner": "GeorgeCazenavette",
                     "repo": "glad",
-                    "stars": 114
+                    "stars": 114,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -935,12 +1260,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Distilling Dataset into Generative Models",
+                    "homepage": null,
                     "id": 607544772,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-03-15T02:27:26Z",
+                    "open_issues": 0,
                     "owner": "vimar-gu",
                     "repo": "DiM",
-                    "stars": 54
+                    "stars": 54,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -951,12 +1281,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 481637273,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-31T00:27:50Z",
+                    "open_issues": 3,
                     "owner": "VICO-UoE",
                     "repo": "IT-GAN",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -967,12 +1302,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hierarchical Features Matter: A Deep Exploration of Progressive Parameterization Method for Dataset Distillation (CVPR2025)",
+                    "homepage": null,
                     "id": 851490896,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-28T09:48:02Z",
+                    "open_issues": 0,
                     "owner": "ndhg1213",
                     "repo": "H-PD",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 }
@@ -990,12 +1330,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024] Efficient Dataset Distillation via Minimax Diffusion",
+                    "homepage": null,
                     "id": 724417049,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-03-22T08:03:18Z",
+                    "open_issues": 8,
                     "owner": "vimar-gu",
                     "repo": "MinimaxDiffusion",
-                    "stars": 105
+                    "stars": 105,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1006,12 +1351,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A pytorch implementation of CVPR24 paper \"D4M: Dataset Distillation via Disentangled Diffusion Model\"",
+                    "homepage": null,
                     "id": 827401279,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2024-09-06T05:28:49Z",
+                    "open_issues": 6,
                     "owner": "suduo94",
                     "repo": "D4M",
-                    "stars": 42
+                    "stars": 42,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1022,12 +1372,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for Mode-Guided Latent Diffusion for Dataset Distillation",
+                    "homepage": null,
                     "id": 804525806,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-12-06T05:32:04Z",
+                    "open_issues": 0,
                     "owner": "jachansantiago",
                     "repo": "mode_guidance",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1038,12 +1393,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2025] Taming Diffusion for Dataset Distillation with High Representativeness",
+                    "homepage": null,
                     "id": 986775387,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-08-24T20:10:30Z",
+                    "open_issues": 1,
                     "owner": "lin-zhao-resoLve",
                     "repo": "D3HR",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1054,12 +1414,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dataset Distillation via Vision-Language Category Prototype (ICCV 2025)",
+                    "homepage": "https://zou-yawen.github.io/DD_via_vision-language",
                     "id": 1010980876,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-03-20T23:39:26Z",
+                    "open_issues": 0,
                     "owner": "zou-yawen",
                     "repo": "Dataset-Distillation-via-Vision-Language-Category-Prototype",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1070,12 +1435,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2025] Official repository for the paper \"Influence-Guided Diffusion for Dataset Distillation\".",
+                    "homepage": null,
                     "id": 928303950,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-02-12T14:59:35Z",
+                    "open_issues": 4,
                     "owner": "mchen725",
                     "repo": "DD_IGD",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1086,12 +1456,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Third Place Winner in Generative Track of the ECCV 2024 DD Challenge",
+                    "homepage": null,
                     "id": 837765644,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-11T12:42:12Z",
+                    "open_issues": 0,
                     "owner": "Guang000",
                     "repo": "Generative-Dataset-Distillation-Based-on-Diffusion-Model",
-                    "stars": 11
+                    "stars": 11,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1102,12 +1477,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2025] Rectifying Inconsistencies in Diffusion-Based Dataset Distillation",
+                    "homepage": null,
                     "id": 1009216474,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-15T00:41:34Z",
+                    "open_issues": 0,
                     "owner": "hatchetProject",
                     "repo": "CaO2",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1118,12 +1498,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pytorch Implementation of \"Geometry-Aware Dataset Condensation for Diffusion Model Training\", ICML 2026",
+                    "homepage": null,
                     "id": 1140977997,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-08T04:01:52Z",
+                    "open_issues": 0,
                     "owner": "2018cx",
                     "repo": "GADC",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1134,12 +1519,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Distill the Best, Ignore the Rest: Improving Dataset Distillation with Loss-Value-Based Pruning",
+                    "homepage": null,
                     "id": 890642739,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2026-01-05T04:24:51Z",
+                    "open_issues": 1,
                     "owner": "Brian-Moser",
                     "repo": "prune_and_distill",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1150,12 +1540,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "EVLF: Early Vision-Language Fusion for Generative Dataset Distillation (CVPR 2026)",
+                    "homepage": "https://wenqi-cai297.github.io/earlyfusion-HP/",
                     "id": 1175679359,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-23T14:14:24Z",
+                    "open_issues": 0,
                     "owner": "wenqi-cai297",
                     "repo": "earlyfusion-for-dd",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1166,12 +1561,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[TMLR 2025] Official implementation of \"Dataset Condensation with Color Compensation\" (DC3).",
+                    "homepage": null,
                     "id": 1034372053,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-10-23T22:45:42Z",
+                    "open_issues": 1,
                     "owner": "528why",
                     "repo": "Dataset-Condensation-with-Color-Compensation",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1182,12 +1582,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of CoDA",
+                    "homepage": null,
                     "id": 1109164180,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-27T01:22:59Z",
+                    "open_issues": 0,
                     "owner": "zzzlt422",
                     "repo": "CoDA",
-                    "stars": 6
+                    "stars": 6,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1198,12 +1603,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling, the ICCV 2025 Workshop on CDEL",
+                    "homepage": null,
                     "id": 1021224586,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-09-09T23:59:36Z",
+                    "open_issues": 0,
                     "owner": "SumomoTaku",
                     "repo": "DiffGuideSamp",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1214,12 +1624,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1166027188,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-06-27T22:37:17Z",
+                    "open_issues": 0,
                     "owner": "AyushRoy2001",
                     "repo": "ManifoldGD",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1230,12 +1645,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"DIVER: Diving Deeper into Distilled Data via Expressive Semantic Recovery\" (Accepted by ICML 2026).",
+                    "homepage": null,
                     "id": 1235347227,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-05T03:27:06Z",
+                    "open_issues": 1,
                     "owner": "einsteinxia",
                     "repo": "DIVER",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -1246,12 +1666,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1235769298,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-27T07:43:56Z",
+                    "open_issues": 0,
                     "owner": "tade1s",
                     "repo": "SCG",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 }
@@ -1269,12 +1694,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2026] HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation",
+                    "homepage": null,
                     "id": 1174119417,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-07T17:55:43Z",
+                    "open_issues": 0,
                     "owner": "Oshikaka",
                     "repo": "HIERAMP",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 }
@@ -1297,12 +1727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Dataset Distillation by Representative Matching",
+                "homepage": null,
                 "id": 607552087,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-28T07:41:11Z",
+                "open_issues": 7,
                 "owner": "Yanqing0327",
                 "repo": "DREAM",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1313,12 +1748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Dataset Distillation by Representative Matching",
+                "homepage": null,
                 "id": 607552087,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-28T07:41:11Z",
+                "open_issues": 7,
                 "owner": "Yanqing0327",
                 "repo": "DREAM",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1329,12 +1769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Preview code of ECCV'24 paper \"Distill Gold from Massive Ores\" (BiLP)",
+                "homepage": null,
                 "id": 713811425,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-06T06:34:54Z",
+                "open_issues": 0,
                 "owner": "silicx",
                 "repo": "GoldFromOres-BiLP",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1345,12 +1790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "You Only Condense Once: Two Rules for Pruning Condensed Datasets (NeurIPS 2023)",
+                "homepage": null,
                 "id": 703545996,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-30T15:43:17Z",
+                "open_issues": 2,
                 "owner": "he-y",
                 "repo": "you-only-condense-once",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1361,12 +1811,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of \"Multisize Dataset Condensation\"  (ICLR'24 Oral)",
+                "homepage": null,
                 "id": 769497352,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-18T02:21:21Z",
+                "open_issues": 1,
                 "owner": "he-y",
                 "repo": "Multisize-Dataset-Condensation",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1377,12 +1832,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 621860241,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-28T15:16:51Z",
+                "open_issues": 0,
                 "owner": "yaolu-zjut",
                 "repo": "DDInterpreter",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1393,12 +1853,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2024] \"Data Distillation Can Be Like Vodka: Distilling More Times For Better Quality\" by Xuxi Chen*, Yu Yang*, Zhangyang Wang, Baharan Mirzasoleiman",
+                "homepage": null,
                 "id": 760146207,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-18T17:36:39Z",
+                "open_issues": 2,
                 "owner": "VITA-Group",
                 "repo": "ProgressiveDD",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "dataset-distillation"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1409,12 +1876,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 630537416,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-21T13:42:31Z",
+                "open_issues": 3,
                 "owner": "ncsu-dk-lab",
                 "repo": "Acc-DD",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1425,12 +1897,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A new simple method for dataset distillation called Randomized Truncated Backpropagation Through Time (RaT-BPTT)",
+                "homepage": null,
                 "id": 717921375,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-21T21:24:40Z",
+                "open_issues": 3,
                 "owner": "fengyzpku",
                 "repo": "Simple_Dataset_Distillation",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1441,12 +1918,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repository for Heterogeneous Models Dataset Condensation (ECCV 2024, Oral)",
+                "homepage": null,
                 "id": 828776132,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-15T12:31:21Z",
+                "open_issues": 1,
                 "owner": "KU-VGI",
                 "repo": "HMDC",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1457,12 +1939,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curriculum Coarse-to-Fine Selection for High-IPC Dataset Dis",
+                "homepage": null,
                 "id": 892128871,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-27T17:08:51Z",
+                "open_issues": 2,
                 "owner": "CYDaaa30",
                 "repo": "CCFS",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1473,12 +1960,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 773881103,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-14T13:09:14Z",
+                "open_issues": 0,
                 "owner": "zhouzhengqd",
                 "repo": "BACON",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1489,12 +1981,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large Scale Dataset Distillation with Domain Shift",
+                "homepage": null,
                 "id": 809862180,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-03T15:34:35Z",
+                "open_issues": 2,
                 "owner": "yolky",
                 "repo": "d3s_distillation",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1505,12 +2002,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Going Beyond Feature Similarity: Effective Dataset distillation based on Class-aware Conditional Mutual Information (ICLR2025)",
+                "homepage": null,
                 "id": 935918886,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-21T13:35:59Z",
+                "open_issues": 0,
                 "owner": "ndhg1213",
                 "repo": "CMIDD",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1521,12 +2023,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR-2026] The PyTorch Implementation of InfMatch. The algorithms are based on our paper: \"Dataset Distillation by Influence Matching\". We propose a novel framework for dataset distillation based on influence matching. This approach differs from prior methods that rely on feature, trajectory, or gradient matching.",
+                "homepage": null,
                 "id": 1298907274,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-18T08:26:19Z",
+                "open_issues": 1,
                 "owner": "hrtan",
                 "repo": "infmatch",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -1544,12 +2051,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of papers in 100 lines of code.",
+                "homepage": null,
                 "id": 307222796,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:16:28Z",
+                "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2868
+                "stars": 2867,
+                "topics": [
+                  "3d",
+                  "aes",
+                  "artificial-intelligence",
+                  "deep-learning",
+                  "diffusion-models",
+                  "educational",
+                  "gans",
+                  "generative-model",
+                  "implementation-of-research-paper",
+                  "inverse-rendering",
+                  "machine-learning",
+                  "meta-learning",
+                  "nerf",
+                  "neural-radiance-fields",
+                  "papers",
+                  "python",
+                  "pytorch",
+                  "reinforcement-learning",
+                  "research",
+                  "rl"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1560,12 +2093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code of our ICML 2025 paper \"Flowing Datasets with Wasserstein over Wasserstein Gradient Flows\"",
+                "homepage": null,
                 "id": 976665747,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-05-21T16:34:28Z",
+                "open_issues": 0,
                 "owner": "clbonet",
                 "repo": "Flowing_Datasets_with_WoW_Gradient_Flows",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1576,12 +2114,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 806010337,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2024-06-14T22:49:41Z",
+                "open_issues": 0,
                 "owner": "princetonvisualai",
                 "repo": "What-is-Dataset-Distillation-Learning",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -1599,12 +2142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Soft-Label Dataset Distillation and Text Dataset Distillation",
+                "homepage": null,
                 "id": 172298610,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-17T15:34:21Z",
+                "open_issues": 6,
                 "owner": "ilia10000",
                 "repo": "dataset-distillation",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1615,12 +2163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of “Flexible Dataset Distillation: Learn Labels Instead of Images”",
+                "homepage": null,
                 "id": 272481380,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-21T18:01:57Z",
+                "open_issues": 0,
                 "owner": "ondrejbohdal",
                 "repo": "label-distillation",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1631,12 +2184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 772631445,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-24T22:09:56Z",
+                "open_issues": 0,
                 "owner": "sunnytqin",
                 "repo": "no-distillation",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1647,12 +2205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'24] Official Implementation for \"Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?\"",
+                "homepage": null,
                 "id": 873422672,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-13T02:35:24Z",
+                "open_issues": 0,
                 "owner": "he-y",
                 "repo": "soft-label-pruning-for-dataset-distillation",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1663,12 +2226,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2025] GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost",
+                "homepage": null,
                 "id": 804773397,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-26T05:59:59Z",
+                "open_issues": 2,
                 "owner": "LINs-lab",
                 "repo": "GIFT",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1679,12 +2247,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[T-PAMI'26] Official Implementation for \"Soft Label Pruning and Quantization for Large-Scale Dataset Distillation\"",
+                "homepage": null,
                 "id": 1213300259,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-04-18T07:41:38Z",
+                "open_issues": 1,
                 "owner": "he-y",
                 "repo": "soft-label-pruning-quantization-for-dataset-distillation",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -1702,12 +2275,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "[ICCV2023] Dataset Quantization",
+                "homepage": null,
                 "id": 680196886,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-06T18:05:24Z",
+                "open_issues": 4,
                 "owner": "magic-research",
                 "repo": "Dataset_Quantization",
-                "stars": 260
+                "stars": 260,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1718,12 +2296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset Quantization with Active Learning based Adaptive Sampling [ECCV 2024]",
+                "homepage": null,
                 "id": 826528016,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-09T22:19:24Z",
+                "open_issues": 3,
                 "owner": "ichbill",
                 "repo": "DQAS",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -1741,12 +2324,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(NeurIPS 2023 spotlight) Large-scale Dataset Distillation/Condensation, 50 IPC (Images Per Class) achieves the highest 60.8% on original ImageNet-1K val set.",
+                "homepage": null,
                 "id": 657284765,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-15T11:53:34Z",
+                "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "SRe2L",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "dataset-condensation",
+                  "dataset-distillation",
+                  "image-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1757,12 +2349,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(NeurIPS 2023 spotlight) Large-scale Dataset Distillation/Condensation, 50 IPC (Images Per Class) achieves the highest 60.8% on original ImageNet-1K val set.",
+                "homepage": null,
                 "id": 657284765,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-15T11:53:34Z",
+                "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "SRe2L",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "dataset-condensation",
+                  "dataset-distillation",
+                  "image-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1773,12 +2374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm",
+                "homepage": "https://arxiv.org/abs/2312.03526",
                 "id": 721965008,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-24T16:13:17Z",
+                "open_issues": 5,
                 "owner": "LINs-lab",
                 "repo": "RDED",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1789,12 +2395,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(CVPR 2025) Official implementation to DELT: A Simple Diversity-driven EarlyLate Training for Dataset Distillation which outperforms SOTA top 1-acc by +1.3% and increases diversity per class by +5%",
+                "homepage": "https://arxiv.org/abs/2411.19946",
                 "id": 896892063,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-23T11:49:29Z",
+                "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "DELT",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "dataset-condensation",
+                  "dataset-distillation",
+                  "image-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1805,12 +2420,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR2024 highlight] Generalized Large-Scale Data Condensation via Various Backbone and Statistical Matching (G-VBSM)",
+                "homepage": null,
                 "id": 709132934,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-09T03:44:22Z",
+                "open_issues": 1,
                 "owner": "shaoshitong",
                 "repo": "G_VBSM_Dataset_Condensation",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1821,12 +2441,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elucidated Dataset Condensation (NeurIPS 2024)",
+                "homepage": null,
                 "id": 772436529,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-05T10:42:55Z",
+                "open_issues": 4,
                 "owner": "shaoshitong",
                 "repo": "EDC",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1837,12 +2462,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset Distillation via Committee Voting",
+                "homepage": "https://arxiv.org/abs/2501.07575",
                 "id": 916110771,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-07-28T04:55:09Z",
+                "open_issues": 1,
                 "owner": "Jiacheng8",
                 "repo": "CV-DD",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1853,12 +2483,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast and Accurate Data Residual Matching for Dataset Distillation (Neurips 2025)",
+                "homepage": null,
                 "id": 1009186358,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-22T14:52:47Z",
+                "open_issues": 0,
                 "owner": "Jiacheng8",
                 "repo": "FADRM",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "dataset-distillation"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1869,12 +2506,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Codes for the NeurIPS 2024 Spotlight Paper \"Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment\"",
+                "homepage": null,
                 "id": 880699657,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-01T03:51:27Z",
+                "open_issues": 2,
                 "owner": "AngusDujw",
                 "repo": "Diversity-Driven-Synthesis",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1885,12 +2527,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of paper \"Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator\" (ICLR 2025)",
+                "homepage": null,
                 "id": 930066094,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-04-06T04:20:57Z",
+                "open_issues": 2,
                 "owner": "zhangxin-xd",
                 "repo": "UFC",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1901,12 +2548,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 946655942,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-08T05:03:46Z",
+                "open_issues": 1,
                 "owner": "MIV-XJTU",
                 "repo": "CUDD",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1917,12 +2569,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The code of \"Balanced Dataset Distillation via Modeling Multiple Visual Pattern Distribution\"",
+                "homepage": null,
                 "id": 1175859299,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-05T08:34:48Z",
+                "open_issues": 0,
                 "owner": "BeCarefulOfYournaoke",
                 "repo": "BPS",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1933,12 +2590,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2026] Condensing Large-Scale Datasets Directly with Minimal Information Loss",
+                "homepage": null,
                 "id": 1283793132,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-29T12:49:24Z",
+                "open_issues": 1,
                 "owner": "LINs-lab",
                 "repo": "CIM",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1949,12 +2611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1128022823,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-05T04:14:40Z",
+                "open_issues": 0,
                 "owner": "Brian-Moser",
                 "repo": "prism",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1965,12 +2632,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for WACV 2026 paper \"DiRe: Diversity-promoting Regularization for Dataset Condensation\"",
+                "homepage": null,
                 "id": 1112818444,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-09T07:03:03Z",
+                "open_issues": 0,
                 "owner": "DIL-IITH",
                 "repo": "DiRe",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -1981,12 +2653,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 953726563,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-24T01:18:12Z",
+                "open_issues": 3,
                 "owner": "tmtuan1307",
                 "repo": "NRR-DD",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2004,12 +2681,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 675509439,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-12-30T05:04:30Z",
+                "open_issues": 6,
                 "owner": "princetonvisualai",
                 "repo": "multimodal_dataset_distillation",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2020,12 +2702,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for our ICML'24 on multimodal dataset distillation",
+                "homepage": null,
                 "id": 811627823,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-10-11T06:37:10Z",
+                "open_issues": 1,
                 "owner": "silicx",
                 "repo": "LoRS_Distill",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2036,12 +2723,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of paper\"Efficient Multimodal Dataset Distillation via Generative Models\" [NeurIPS 2025]",
+                "homepage": null,
                 "id": 1059526618,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-17T22:04:20Z",
+                "open_issues": 1,
                 "owner": "ichbill",
                 "repo": "EDGE",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2052,12 +2744,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Audio Visual Dataset Distillation",
+                "homepage": null,
                 "id": 890647879,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-04-14T12:49:04Z",
+                "open_issues": 3,
                 "owner": "sakshamsingh1",
                 "repo": "AVDD",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2068,12 +2765,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of \"Multimodal dataset distillation made simple by prototype-guided data synthesis\" [ICLR 2026]",
+                "homepage": null,
                 "id": 1154087307,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-12T12:39:42Z",
+                "open_issues": 1,
                 "owner": "junhyeok9712",
                 "repo": "PDS",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2084,12 +2786,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1079079568,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-21T14:09:16Z",
+                "open_issues": 2,
                 "owner": "Yongalls",
                 "repo": "CovMatch",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2100,12 +2807,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official code implementation repository of the ICLR26 poster paper \"Multimodal Dataset Distillation via Phased Teacher Models\".",
+                "homepage": null,
                 "id": 1165637521,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-01T06:12:59Z",
+                "open_issues": 0,
                 "owner": "Previsior",
                 "repo": "PTM-ST",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2116,12 +2828,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for \"Multimodal Distribution Matching for Vision-Language Dataset Distillation\" (CVPR 2026)",
+                "homepage": "https://andyj1.github.io/mdm/",
                 "id": 1134164826,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-20T06:26:13Z",
+                "open_issues": 0,
                 "owner": "andyj1",
                 "repo": "mdm",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2132,12 +2849,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for \"Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation\" (ECCV 2026)",
+                "homepage": "https://andyj1.github.io/raha/",
                 "id": 1275701253,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-20T08:07:39Z",
+                "open_issues": 0,
                 "owner": "andyj1",
                 "repo": "raha",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2148,12 +2870,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
+                "homepage": null,
                 "id": 1108834084,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-12-09T03:32:29Z",
+                "open_issues": 1,
                 "owner": "bdy9527",
                 "repo": "MMDD",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2171,12 +2898,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(NeurIPS 2023 spotlight) Large-scale Dataset Distillation/Condensation, 50 IPC (Images Per Class) achieves the highest 60.8% on original ImageNet-1K val set.",
+                "homepage": null,
                 "id": 657284765,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-15T11:53:34Z",
+                "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "SRe2L",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "dataset-condensation",
+                  "dataset-distillation",
+                  "image-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2187,12 +2923,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1100125254,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-31T05:58:48Z",
+                "open_issues": 0,
                 "owner": "GeorgeCazenavette",
                 "repo": "linear-gradient-matching",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2203,12 +2944,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Self-Supervised Dataset Distillation for Transfer Learning",
+                "homepage": null,
                 "id": 782312816,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-10T14:32:04Z",
+                "open_issues": 1,
                 "owner": "db-Lee",
                 "repo": "selfsup_dd",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2219,12 +2965,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] Efficiency for Free: Ideal Data Are Transportable Representations",
+                "homepage": null,
                 "id": 803113361,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-19T13:34:23Z",
+                "open_issues": 0,
                 "owner": "LINs-lab",
                 "repo": "ReLA",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2235,12 +2986,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for \"Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-training of Deep Networks\" (ICLR 2025)",
+                "homepage": null,
                 "id": 866884965,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-25T05:20:51Z",
+                "open_issues": 0,
                 "owner": "jiayini1119",
                 "repo": "MKDT",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2258,12 +3014,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 474504344,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-01-22T19:00:01Z",
+                "open_issues": 7,
                 "owner": "justincui03",
                 "repo": "dc_benchmark",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2274,12 +3035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Data distillation benchmark",
+                "homepage": "https://nus-hpc-ai-lab.github.io/DD-Ranking/",
                 "id": 899403435,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-13T16:23:37Z",
+                "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "DD-Ranking",
-                "stars": 73
+                "stars": 73,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2290,12 +3056,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A benchmark specifically designed to evaluate the adversarial robustness of distilled datasets.",
+                "homepage": null,
                 "id": 862124396,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-28T13:15:07Z",
+                "open_issues": 0,
                 "owner": "FredWU-HUST",
                 "repo": "DD-RobustBench",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2306,12 +3077,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation",
+                "homepage": null,
                 "id": 854925558,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-02-11T04:27:58Z",
+                "open_issues": 0,
                 "owner": "zhouzhengqd",
                 "repo": "BEARD",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2329,12 +3105,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome papers on dataset distillation and related applications.",
+                "homepage": "https://guang000.github.io/Awesome-Dataset-Distillation/",
                 "id": 501453265,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-15T02:58:15Z",
+                "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1970
+                "stars": 1970,
+                "topics": [
+                  "awesome-list",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2345,12 +3129,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome papers on dataset distillation and related applications.",
+                "homepage": "https://guang000.github.io/Awesome-Dataset-Distillation/",
                 "id": 501453265,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-15T02:58:15Z",
+                "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1970
+                "stars": 1970,
+                "topics": [
+                  "awesome-list",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2361,12 +3153,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome papers on dataset distillation and related applications.",
+                "homepage": "https://guang000.github.io/Awesome-Dataset-Distillation/",
                 "id": 501453265,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-15T02:58:15Z",
+                "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1970
+                "stars": 1970,
+                "topics": [
+                  "awesome-list",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2384,12 +3184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 828786273,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-16T06:02:43Z",
+                "open_issues": 0,
                 "owner": "DataDistillation",
                 "repo": "ECCV2024-Dataset-Distillation-Challenge",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2413,12 +3218,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[AAAI2024] Summarizing Stream Data for Memory-Restricted Online Continual Learning",
+                "homepage": null,
                 "id": 645632824,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-30T10:19:09Z",
+                "open_issues": 0,
                 "owner": "vimar-gu",
                 "repo": "SSD",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2429,12 +3239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the pubblication \"Distilled Replay: Overcoming Forgetting through Synthetic Examples\"",
+                "homepage": null,
                 "id": 352713721,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-01T12:53:46Z",
+                "open_issues": 0,
                 "owner": "andrearosasco",
                 "repo": "DistilledReplay",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2445,12 +3260,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Efficient Dataset Condensation Plugin and Its Application to Continual Learning. NeurIPS, 2023.",
+                "homepage": "https://openreview.net/pdf?id=Murj6wcjRw",
                 "id": 698162923,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-29T14:37:53Z",
+                "open_issues": 0,
                 "owner": "EnnengYang",
                 "repo": "An-Efficient-Dataset-Condensation-Plugin",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "continual-learning",
+                  "coreset-selection",
+                  "dataset-condensation",
+                  "dataset-distillation"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2461,12 +3286,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 358578009,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-09-29T07:48:15Z",
+                "open_issues": 0,
                 "owner": "FelixWiewel",
                 "repo": "CCMCL",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2477,12 +3307,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 494099010,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-06-22T16:53:36Z",
+                "open_issues": 1,
                 "owner": "MattiaSangermano",
                 "repo": "OLCGM",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2493,12 +3328,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repository of \"[ICLR2026] Asymmetric Synthetic Data Update for Domain Incremental Dataset Distillation\"",
+                "homepage": null,
                 "id": 1176598286,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-27T03:27:46Z",
+                "open_issues": 0,
                 "owner": "myoh97",
                 "repo": "DIDD-ASU",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2516,12 +3356,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Backdoor Attacks Against Dataset Distillation",
+                "homepage": null,
                 "id": 582987775,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-19T13:02:24Z",
+                "open_issues": 4,
                 "owner": "liuyugeng",
                 "repo": "baadd",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "backdoor-attacks",
+                  "dataset-distillation"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2532,12 +3380,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of \"Private Set Generation with Discriminative Information\" (NeurIPS 2022)",
+                "homepage": null,
                 "id": 533274724,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-08-14T09:30:40Z",
+                "open_issues": 3,
                 "owner": "DingfanChen",
                 "repo": "Private-Set",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2548,12 +3401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 644692501,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-05-24T04:13:57Z",
+                "open_issues": 0,
                 "owner": "dpclip",
                 "repo": "dpclip",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2564,12 +3422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2025] Improving Noise Efficiency in Privacy-preserving Dataset Distillation",
+                "homepage": null,
                 "id": 1028020884,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-31T22:19:59Z",
+                "open_issues": 0,
                 "owner": "humansensinglab",
                 "repo": "Dosser",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2587,12 +3450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'25 Highlight] Multi-modal Vision Pre-training for Medical Image Analysis",
+                "homepage": null,
                 "id": 944817842,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-18T08:24:28Z",
+                "open_issues": 1,
                 "owner": "openmedlab",
                 "repo": "BrainMVP",
-                "stars": 87
+                "stars": 87,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2603,12 +3471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(MICCAI 2025) FedWSIDD: Federated Whole Slide Image Classification via Dataset Distillation",
+                "homepage": null,
                 "id": 1003991831,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-17T10:35:47Z",
+                "open_issues": 1,
                 "owner": "f1oNae",
                 "repo": "FedWSIDD",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2619,12 +3492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 818337087,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-06-18T12:58:54Z",
+                "open_issues": 1,
                 "owner": "ZheLi2020",
                 "repo": "InfoDist",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2635,12 +3513,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code of MICCAI 2025 paper \"High-Order Progressive Trajectory Matching for Medical Image Dataset Distillation\"",
+                "homepage": null,
                 "id": 1010940861,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-29T06:49:51Z",
+                "open_issues": 0,
                 "owner": "Bian-jh",
                 "repo": "HoP-TM",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2651,12 +3534,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for our CVPR '22 paper \"Dataset Distillation by Matching Training Trajectories\"",
+                "homepage": "https://georgecazenavette.github.io/mtt-distillation/",
                 "id": 500780890,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-26T23:57:16Z",
+                "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "mtt-distillation",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2667,12 +3555,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset Distillation",
+                "homepage": "https://ssnl.github.io/dataset_distillation",
                 "id": 218274320,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-10-09T01:31:18Z",
+                "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "dataset-distillation",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2683,12 +3576,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset Distillation",
+                "homepage": "https://ssnl.github.io/dataset_distillation",
                 "id": 218274320,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-10-09T01:31:18Z",
+                "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "dataset-distillation",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2706,12 +3604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 616272980,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-01T10:43:55Z",
+                "open_issues": 2,
                 "owner": "pipilurj",
                 "repo": "DynaFed",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2722,12 +3625,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of DENSE (NeurIPS 2022)",
+                "homepage": null,
                 "id": 576943940,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-11T15:40:24Z",
+                "open_issues": 4,
                 "owner": "zj-jayzhang",
                 "repo": "DENSE",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "federated-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2738,12 +3648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FedD3: Federated Learning via Decentralized Dataset Distillation",
+                "homepage": null,
                 "id": 625304553,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-08T19:01:28Z",
+                "open_issues": 0,
                 "owner": "rruisong",
                 "repo": "FedD3",
-                "stars": 31
+                "stars": 31,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2754,12 +3669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis, Accepted by AAAI 2025",
+                "homepage": null,
                 "id": 902165509,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-19T09:12:53Z",
+                "open_issues": 1,
                 "owner": "Youth-49",
                 "repo": "FedVCK_2024",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2770,12 +3690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning",
+                "homepage": null,
                 "id": 735539383,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-01-04T14:15:35Z",
+                "open_issues": 1,
                 "owner": "anonymifish",
                 "repo": "fed-distribution-matching",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2786,12 +3711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of paper \"Overcoming Data and Model heterogeneities in Decentralized Federated Learning via Synthetic Anchors\" accepted at ICML 2024",
+                "homepage": null,
                 "id": 810638168,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-06-14T23:06:58Z",
+                "open_issues": 3,
                 "owner": "ubc-tea",
                 "repo": "DESA",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2802,12 +3732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[PoPETS 2024] Source code of FedLAP-DP: Federated Learning by Sharing Differentially Private Loss Approximations",
+                "homepage": null,
                 "id": 766575859,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-03T20:19:39Z",
+                "open_issues": 0,
                 "owner": "hui-po-wang",
                 "repo": "FedLAP-DP",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2818,12 +3753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 719800598,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-21T19:49:55Z",
+                "open_issues": 0,
                 "owner": "FedDG23",
                 "repo": "FedDG-main",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2834,12 +3774,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official implementation of FedLGD",
+                "homepage": null,
                 "id": 916337757,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-03T20:20:33Z",
+                "open_issues": 2,
                 "owner": "ubc-tea",
                 "repo": "FedLGD",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2850,12 +3795,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 837050854,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-02T06:04:00Z",
+                "open_issues": 0,
                 "owner": "rayneholland",
                 "repo": "CollabDM",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2866,12 +3816,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the partial sourcecode of  paper《DCFL: Non-IID Awareness Dataset Condensation Aided Federated Learning》",
+                "homepage": null,
                 "id": 988274433,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-22T10:03:00Z",
+                "open_issues": 0,
                 "owner": "JLUssh",
                 "repo": "DCFL",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -2889,12 +3844,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR'22][KDD'22][IJCAI'24][NeurIPS'25] Implementation of \"Graph Condensation for Graph Neural Networks\"",
+                "homepage": "https://www.cs.emory.edu/~wjin30/files/GCond.pdf",
                 "id": 417503508,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-10T20:36:24Z",
+                "open_issues": 11,
                 "owner": "ChandlerBang",
                 "repo": "GCond",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "data-efficient-learning",
+                  "dataset-distillation",
+                  "graph-neural-networks"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2905,12 +3869,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of NeurIPS-23:\"Structure-free Graph Condensation (SFGC): From Large-scale Graphs to Condensed Graph-free Data\"",
+                "homepage": null,
                 "id": 701117975,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-06T03:35:36Z",
+                "open_issues": 1,
                 "owner": "Amanda-Zheng",
                 "repo": "SFGC",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2921,12 +3890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for SGDD",
+                "homepage": null,
                 "id": 644819038,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-19T14:51:48Z",
+                "open_issues": 7,
                 "owner": "RingBDStack",
                 "repo": "SGDD",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2937,12 +3911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of ICML-2024 \"Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching\"",
+                "homepage": null,
                 "id": 753552685,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-23T18:32:57Z",
+                "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "GEOM",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2953,12 +3932,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 528651659,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-10T11:18:15Z",
+                "open_issues": 4,
                 "owner": "amazon-science",
                 "repo": "doscond",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2969,12 +3953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of ICML'24 Paper \"Graph Distillation with Eigenbasis Matching\"",
+                "homepage": null,
                 "id": 800446440,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-02T13:32:38Z",
+                "open_issues": 1,
                 "owner": "liuyang-tian",
                 "repo": "GDEM",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -2985,12 +3974,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 687253626,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-12-21T02:56:17Z",
+                "open_issues": 1,
                 "owner": "superallen13",
                 "repo": "CaT-CGL",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3001,12 +3995,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Code for KDD'24 \"Graph Data Condensation via Self-expressive Graph Structure Reconstruction\"",
+                "homepage": null,
                 "id": 802004817,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-11-20T11:30:26Z",
+                "open_issues": 0,
                 "owner": "zclzcl0223",
                 "repo": "GCSR",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3017,12 +4016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementations of 'Kernel Ridge Regression-Based Graph Dataset Distillation', SIGKDD'23.",
+                "homepage": null,
                 "id": 646369271,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-09-10T19:33:54Z",
+                "open_issues": 0,
                 "owner": "pricexu",
                 "repo": "KIDD",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3033,12 +4037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch implementation of \"Two Trades is not Baffled: Condensing Graph via Crafting Rational Gradient Matching\"",
+                "homepage": null,
                 "id": 753572008,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-09T02:08:38Z",
+                "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "CTRL",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3049,12 +4058,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 697497285,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-04-03T06:42:34Z",
+                "open_issues": 0,
                 "owner": "frigategnn",
                 "repo": "Mirage",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3067,12 +4081,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[IJCAI 2024] Papers about graph reduction including graph coarsening, graph condensation, graph sparsification, graph summarization, etc.",
+                    "homepage": "https://arxiv.org/abs/2402.03358",
                     "id": 689494142,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-02-25T17:57:08Z",
+                    "open_issues": 0,
                     "owner": "Emory-Melody",
                     "repo": "awesome-graph-reduction",
-                    "stars": 188
+                    "stars": 188,
+                    "topics": [
+                      "coreset-selection",
+                      "dataset-distillation",
+                      "graph-coarsening",
+                      "graph-neural-networks",
+                      "machine-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -3083,12 +4108,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Awesome Graph Condensation Papers, [TKDE 25] Graph Condensation: A Survey.",
+                    "homepage": null,
                     "id": 782051351,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-07-01T03:28:04Z",
+                    "open_issues": 0,
                     "owner": "XYGaoG",
                     "repo": "Graph-Condensation-Papers",
-                    "stars": 51
+                    "stars": 51,
+                    "topics": [
+                      "awesome-list",
+                      "dataset-distillation",
+                      "graph-condensation",
+                      "graph-representation-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -3099,12 +4134,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 752097731,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-04-10T08:28:50Z",
+                    "open_issues": 0,
                     "owner": "Frostland12138",
                     "repo": "Awesome-Graph-Scaling",
-                    "stars": 21
+                    "stars": 21,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 }
@@ -3122,12 +4162,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2025] A Python library for graph reduction including condensation, coarsening, and sparsification.",
+                    "homepage": "https://arxiv.org/pdf/2406.16715?",
                     "id": 760524195,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-23T19:01:10Z",
+                    "open_issues": 0,
                     "owner": "Emory-Melody",
                     "repo": "GraphSlim",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": [
+                      "graph",
+                      "graph-coarsening",
+                      "graph-condensation",
+                      "graph-neural-network",
+                      "graph-reduction",
+                      "graph-sparsification"
+                    ]
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -3138,12 +4190,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Open and Unified Benchmark for Graph Condensation (submitted to NeurIPS 2024 Datasets and Benchmarks Track)",
+                    "homepage": null,
                     "id": 820437359,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-08-15T16:57:10Z",
+                    "open_issues": 1,
                     "owner": "RingBDStack",
                     "repo": "GC-Bench",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 },
@@ -3154,12 +4211,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 797160796,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-06-18T11:58:41Z",
+                    "open_issues": 0,
                     "owner": "superallen13",
                     "repo": "GCondenser",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
                 }
@@ -3182,12 +4244,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 255452137,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-04-20T20:54:02Z",
+                "open_issues": 3,
                 "owner": "uber-research",
                 "repo": "GTN",
-                "stars": 78
+                "stars": 78,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3198,12 +4265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 386694507,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-19T20:12:40Z",
+                "open_issues": 0,
                 "owner": "dm-medvedev",
                 "repo": "EfficientDistillation",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3221,12 +4293,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official code for our CVPR '22 paper \"Dataset Distillation by Matching Training Trajectories\"",
+                "homepage": "https://georgecazenavette.github.io/mtt-distillation/",
                 "id": 472540119,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-16T12:59:59Z",
+                "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 439
+                "stars": 439,
+                "topics": [
+                  "artificial-intelligence",
+                  "computer-vision",
+                  "machine-learning",
+                  "synthetic-data"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3237,12 +4319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stage-Wise Trajectory Matching (STM) based on MTT-Distillation",
+                "homepage": "https://arxiv.org/abs/2311.17967",
                 "id": 544562703,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-13T01:15:04Z",
+                "open_issues": 0,
                 "owner": "HaowenGuan",
                 "repo": "Galaxy-Dataset-Distillation",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3260,12 +4347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ NeurIPS '22 ] Data distillation for recommender systems. Shows equivalent performance with 2-3 orders less data.",
+                "homepage": null,
                 "id": 499437664,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-08T01:12:46Z",
+                "open_issues": 1,
                 "owner": "noveens",
                 "repo": "distill_cf",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3276,12 +4368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WWW2025 | TD3: Tucker Decomposition Based Dataset Distillation Method for Sequential Recommendation",
+                "homepage": null,
                 "id": 868767298,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-23T17:05:47Z",
+                "open_issues": 0,
                 "owner": "USTC-StarTeam",
                 "repo": "TD3",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3299,12 +4396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository is the official implementation of Bidirectional Learning for Offline Infinite-width Model-based Optimization (NeurIPS 2022) (https://openreview.net/forum?id=_j8yVIyp27Q).",
+                "homepage": null,
                 "id": 536717557,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-19T14:26:40Z",
+                "open_issues": 2,
                 "owner": "GGchen1997",
                 "repo": "BDI",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3315,12 +4417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BIB ICML2023 code implementation",
+                "homepage": null,
                 "id": 591963085,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-22T14:00:58Z",
+                "open_issues": 0,
                 "owner": "GGchen1997",
                 "repo": "BIB-ICML2023-Submission",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3338,12 +4445,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(Pattern Recognition 2025) Towards Trustworthy Dataset Distillation",
+                "homepage": "https://arxiv.org/abs/2307.09165",
                 "id": 840247674,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-12-08T16:59:19Z",
+                "open_issues": 0,
                 "owner": "mashijie1028",
                 "repo": "TrustDD",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "data-centric-machine-learning",
+                  "dataset-distillation",
+                  "efficient-learning",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3354,12 +4471,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Group Distributionally Robust Dataset Distillation with Risk Minimization",
+                "homepage": null,
                 "id": 770212229,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-21T15:25:50Z",
+                "open_issues": 0,
                 "owner": "Mming11",
                 "repo": "RobustDatasetDistillation",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3370,12 +4492,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch implementation of the paper \"Towards Adversarially Robust Dataset Distillation by Curvature Regularization\" (AAAI 2025).",
+                "homepage": null,
                 "id": 896365625,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-21T20:32:42Z",
+                "open_issues": 1,
                 "owner": "yumozi",
                 "repo": "GUARD",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "aaai2025",
+                  "computer-vision",
+                  "dataset-distillation",
+                  "distillation",
+                  "efficiency",
+                  "efficient-ai",
+                  "robustness"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3386,12 +4521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ROME is Forged in Adversity: Robust Distilled Datasets via Information Bottleneck (ICML 2025)",
+                "homepage": "https://zhouzhengqd.github.io/rome.page/",
                 "id": 906045930,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-01T07:06:24Z",
+                "open_issues": 0,
                 "owner": "zhouzhengqd",
                 "repo": "ROME",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3409,12 +4549,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of FairDD (NeurIPS 2025)",
+                "homepage": null,
                 "id": 1074558044,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-26T03:08:08Z",
+                "open_issues": 1,
                 "owner": "zqhang",
                 "repo": "FairDD",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3425,12 +4570,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of “Fair Dataset Distillation via Cross-Group Barycenter Alignment” (ICML 2026).",
+                "homepage": null,
                 "id": 1233375224,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-08T23:05:27Z",
+                "open_issues": 0,
                 "owner": "mhmoslemi",
                 "repo": "COBRA",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3448,12 +4598,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementaiton of \"DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation\" (accepted by NAACL2024 Findings)\".",
+                "homepage": null,
                 "id": 778626908,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-10T08:01:27Z",
+                "open_issues": 0,
                 "owner": "arumaekawa",
                 "repo": "DiLM",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3464,12 +4619,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of \"Dataset Distillation with Attention Labels for fine-tuning BERT\" (accepted by ACL2023 main (short))",
+                "homepage": "https://aclanthology.org/2023.acl-short.12/",
                 "id": 643582657,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-08T02:32:05Z",
+                "open_issues": 1,
                 "owner": "arumaekawa",
                 "repo": "dataset-distillation-with-attention-labels",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3480,12 +4640,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 991663113,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-18T18:08:14Z",
+                "open_issues": 0,
                 "owner": "BigML-CS-UCLA",
                 "repo": "GRADMM",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3496,12 +4661,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 940424692,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-14T12:32:44Z",
+                "open_issues": 0,
                 "owner": "EminLU",
                 "repo": "UniDetox",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3512,12 +4682,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1186957788,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-24T19:39:13Z",
+                "open_issues": 0,
                 "owner": "cs6331",
                 "repo": "CondenseLM",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3535,12 +4710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement.",
+                "homepage": null,
                 "id": 764120169,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-12-21T03:21:30Z",
+                "open_issues": 0,
                 "owner": "yuz1wan",
                 "repo": "video_distillation",
-                "stars": 32
+                "stars": 32,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3551,12 +4731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 909910977,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-30T13:46:30Z",
+                "open_issues": 1,
                 "owner": "MCG-NJU",
                 "repo": "Video-DC",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3567,12 +4752,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 959989846,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-07-31T22:18:50Z",
+                "open_issues": 1,
                 "owner": "liningresearch",
                 "repo": "Latent_Video_Dataset_Distillation",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3590,12 +4780,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset Distillation",
+                "homepage": "https://ssnl.github.io/dataset_distillation",
                 "id": 280893683,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-02T20:24:16Z",
+                "open_issues": 0,
                 "owner": "dm-medvedev",
                 "repo": "dataset-distillation",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3613,12 +4808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting",
+                "homepage": "https://arxiv.org/abs/2406.02131",
                 "id": 813697213,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-05T02:30:45Z",
+                "open_issues": 0,
                 "owner": "RafaDD",
                 "repo": "CondTSF",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3629,12 +4829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression (ICDE 26)",
+                "homepage": null,
                 "id": 892967721,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-25T12:10:24Z",
+                "open_issues": 0,
                 "owner": "kbrother",
                 "repo": "STemDist",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3645,12 +4850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for KDD'24 \"Dataset Condensation for Time Series Classification via Dual Domain Matching\"",
+                "homepage": null,
                 "id": 801990720,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-05-17T11:34:04Z",
+                "open_issues": 0,
                 "owner": "zhyliu00",
                 "repo": "TimeSeriesCond",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3661,12 +4871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShapeCond: Fast Shapelet-Guided Dataset Condensation",
+                "homepage": null,
                 "id": 989571698,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-18T13:48:30Z",
+                "open_issues": 0,
                 "owner": "lunaaa95",
                 "repo": "ShapeCond",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3677,12 +4892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 779546543,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-26T20:08:49Z",
+                "open_issues": 3,
                 "owner": "uestc-liuzq",
                 "repo": "STdistillation",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3693,12 +4913,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1058389148,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-17T03:04:35Z",
+                "open_issues": 3,
                 "owner": "itsnotacie",
                 "repo": "DistilTS-ICASSP2026",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3709,12 +4934,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICML26] One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis",
+                "homepage": null,
                 "id": 1241334285,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-17T08:54:10Z",
+                "open_issues": 0,
                 "owner": "ZJU-DAILY",
                 "repo": "UniTSC",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3732,12 +4962,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 759570874,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-13T20:06:42Z",
+                "open_issues": 0,
                 "owner": "algebraicdianuj",
                 "repo": "DC_U",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3755,12 +4990,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository for Data Distillation for Offline Reinforcement Learning",
+                "homepage": null,
                 "id": 827995020,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-02T20:07:28Z",
+                "open_issues": 0,
                 "owner": "ggflow123",
                 "repo": "DDRL",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3771,12 +5011,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2024] Official repository for \"Offline Behavior Distillation\"",
+                "homepage": null,
                 "id": 880592018,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-31T00:42:33Z",
+                "open_issues": 0,
                 "owner": "LeavesLei",
                 "repo": "OBD",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3787,12 +5032,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for Behaviour Distillation (ICML 2024)",
+                "homepage": null,
                 "id": 785721929,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-21T10:16:41Z",
+                "open_issues": 0,
                 "owner": "FLAIROx",
                 "repo": "behaviour-distillation",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3810,12 +5060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of paper \"Distilling Long-tailed Datasets\" [CVPR 2025]",
+                "homepage": null,
                 "id": 890579850,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-13T18:31:49Z",
+                "open_issues": 1,
                 "owner": "ichbill",
                 "repo": "LTDD",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3826,12 +5081,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for \"Rectifying Soft-Label Entangled Bias in Long-Tailed Dataset Distillation\"",
+                "homepage": null,
                 "id": 1084248717,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-27T12:41:10Z",
+                "open_issues": 0,
                 "owner": "j-cyoung",
                 "repo": "ADSA_DD",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3849,12 +5109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1023325562,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-11-07T07:32:31Z",
+                "open_issues": 1,
                 "owner": "DISL-Lab",
                 "repo": "RDC-ICCV2025",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3865,12 +5130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 893092217,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-12T05:45:22Z",
+                "open_issues": 0,
                 "owner": "Kciiiman",
                 "repo": "DD_LNL",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3888,12 +5158,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2026] Optimization-free Dataset Distillation for Object Detection. Paper at: https://arxiv.org/abs/2506.01942 ",
+                "homepage": null,
                 "id": 994954911,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-26T16:48:13Z",
+                "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "OD3",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "dataset-distillation",
+                  "object-detection"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3911,12 +5189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2025] Dataset Distillation of 3D Point Clouds via Distribution Matching",
+                "homepage": null,
                 "id": 1063327813,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-13T05:43:16Z",
+                "open_issues": 0,
                 "owner": "donguk071",
                 "repo": "SADM",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             },
@@ -3927,12 +5210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parameterization-Based Dataset Distillation of 3D Point Clouds (ICLR 2026)",
+                "homepage": null,
                 "id": 1235532185,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-11T08:23:45Z",
+                "open_issues": 0,
                 "owner": "donguk071",
                 "repo": "3DDP",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3950,12 +5238,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EEG-DLite: Data Distillation for Efficient EEG Foundation Model Training (AAAI-2026)",
+                "homepage": null,
                 "id": 1093341526,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-16T04:51:23Z",
+                "open_issues": 1,
                 "owner": "t170815518",
                 "repo": "EEG-DLite",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "brain-computer-interface",
+                  "data-distillation",
+                  "eeg-signals",
+                  "foundation-models"
+                ]
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3973,12 +5271,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2026] UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization",
+                "homepage": null,
                 "id": 1171365874,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-05-25T05:06:51Z",
+                "open_issues": 2,
                 "owner": "QianfengY",
                 "repo": "UniRain",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -3996,12 +5299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official codebase for ECCV 2026 paper \"Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation\"",
+                "homepage": null,
                 "id": 1273350412,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-24T04:50:17Z",
+                "open_issues": 1,
                 "owner": "blue-531",
                 "repo": "DOALL",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
             }
@@ -4015,15 +5323,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:27:55.001Z",
+    "last_updated": "2026-08-29T04:25:19.597Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome papers on dataset distillation and related applications.",
+      "homepage": "https://guang000.github.io/Awesome-Dataset-Distillation/",
       "id": 501453265,
       "language": "HTML",
+      "license": "MIT",
       "last_commit": "2026-08-15T02:58:15Z",
+      "open_issues": 1,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1970
+      "stars": 1970,
+      "topics": [
+        "awesome-list",
+        "deep-learning"
+      ]
     },
     "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
