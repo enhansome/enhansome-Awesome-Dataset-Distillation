@@ -2032,7 +2032,7 @@
                 "open_issues": 1,
                 "owner": "hrtan",
                 "repo": "infmatch",
-                "stars": 0,
+                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2056,11 +2056,11 @@
                 "id": 307222796,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-26T19:16:28Z",
+                "last_commit": "2026-08-30T12:49:56Z",
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2867,
+                "stars": 2868,
                 "topics": [
                   "3d",
                   "aes",
@@ -3110,7 +3110,7 @@
                 "id": 501453265,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-15T02:58:15Z",
+                "last_commit": "2026-08-30T13:12:39Z",
                 "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
@@ -3134,7 +3134,7 @@
                 "id": 501453265,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-15T02:58:15Z",
+                "last_commit": "2026-08-30T13:12:39Z",
                 "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
@@ -3158,7 +3158,7 @@
                 "id": 501453265,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-15T02:58:15Z",
+                "last_commit": "2026-08-30T13:12:39Z",
                 "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
@@ -5323,7 +5323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:46:57.337Z",
+    "last_updated": "2026-08-30T16:47:01.305Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5331,7 +5331,7 @@
       "id": 501453265,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-08-15T02:58:15Z",
+      "last_commit": "2026-08-30T13:12:39Z",
       "open_issues": 1,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
@@ -5341,7 +5341,7 @@
         "deep-learning"
       ]
     },
-    "original_repository_sha": "f1802ad87637088ffac0713ed1b7540105163bf1",
+    "original_repository_sha": "8f93c5d52b0862478552870ec44ca7a4aff88b59",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Dataset Distillation with stars"
