@@ -2543,6 +2543,30 @@
             },
             {
               "node_type": "item",
+              "title": "Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift",
+              "description": "(Jiacheng Cui et al., ICML 2026) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift (ICML 2026)",
+                "homepage": null,
+                "id": 1115211599,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-05-01T10:41:57Z",
+                "open_issues": 0,
+                "owner": "Jiacheng8",
+                "repo": "HALD",
+                "stars": 8,
+                "topics": [
+                  "dataset-distillation",
+                  "label-usage"
+                ]
+              },
+              "first_seen": "2026-08-28T22:27:55.001Z"
+            },
+            {
+              "node_type": "item",
               "title": "Curriculum Dataset Distillation",
               "description": "(Zhiheng Ma & Anjia Cao et al., TIP 2025) :octocat: :book:",
               "children": [],
@@ -2586,7 +2610,7 @@
             {
               "node_type": "item",
               "title": "Condensing Large-Scale Datasets Directly with Minimal Information Loss",
-              "description": "(Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) :octocat: :book: Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift (Jiacheng Cui et al., ICML 2026) :octocat: :book:",
+              "description": "(Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) :octocat: :book:",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3110,7 +3134,7 @@
                 "id": 501453265,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-30T13:12:39Z",
+                "last_commit": "2026-08-31T08:24:25Z",
                 "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
@@ -3134,7 +3158,7 @@
                 "id": 501453265,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-30T13:12:39Z",
+                "last_commit": "2026-08-31T08:24:25Z",
                 "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
@@ -3158,7 +3182,7 @@
                 "id": 501453265,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-30T13:12:39Z",
+                "last_commit": "2026-08-31T08:24:25Z",
                 "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
@@ -3634,7 +3658,7 @@
                 "open_issues": 4,
                 "owner": "zj-jayzhang",
                 "repo": "DENSE",
-                "stars": 35,
+                "stars": 34,
                 "topics": [
                   "federated-learning"
                 ]
@@ -3938,7 +3962,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2023-07-10T11:18:15Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "amazon-science",
                 "repo": "doscond",
                 "stars": 19,
@@ -5323,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T16:47:01.305Z",
+    "last_updated": "2026-08-31T19:09:31.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5331,7 +5355,7 @@
       "id": 501453265,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-08-30T13:12:39Z",
+      "last_commit": "2026-08-31T08:24:25Z",
       "open_issues": 1,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
@@ -5341,7 +5365,7 @@
         "deep-learning"
       ]
     },
-    "original_repository_sha": "8f93c5d52b0862478552870ec44ca7a4aff88b59",
+    "original_repository_sha": "303eb9e3d9705c0f77568b0c63da54ec6530a56f",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Dataset Distillation with stars"
