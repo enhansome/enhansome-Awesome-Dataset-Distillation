@@ -247,7 +247,7 @@
                 "open_issues": 4,
                 "owner": "VICO-UoE",
                 "repo": "DatasetCondensation",
-                "stars": 543,
+                "stars": 544,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -268,7 +268,7 @@
                 "open_issues": 4,
                 "owner": "VICO-UoE",
                 "repo": "DatasetCondensation",
-                "stars": 543,
+                "stars": 544,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -574,7 +574,7 @@
                 "open_issues": 4,
                 "owner": "VICO-UoE",
                 "repo": "DatasetCondensation",
-                "stars": 543,
+                "stars": 544,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -1654,7 +1654,7 @@
                     "open_issues": 1,
                     "owner": "einsteinxia",
                     "repo": "DIVER",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2868,
+                "stars": 2869,
                 "topics": [
                   "3d",
                   "aes",
@@ -2512,7 +2512,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-03-01T03:51:27Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "AngusDujw",
                 "repo": "Diversity-Driven-Synthesis",
                 "stars": 8,
@@ -3068,7 +3068,7 @@
                 "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "DD-Ranking",
-                "stars": 73,
+                "stars": 72,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -3699,7 +3699,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-02-19T09:12:53Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "Youth-49",
                 "repo": "FedVCK_2024",
                 "stars": 21,
@@ -5191,7 +5191,7 @@
                 "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "OD3",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "dataset-distillation",
                   "object-detection"
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T19:09:31.165Z",
+    "last_updated": "2026-09-01T16:44:50.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
