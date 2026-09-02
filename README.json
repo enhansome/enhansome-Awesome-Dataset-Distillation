@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2869,
+                "stars": 2870,
                 "topics": [
                   "3d",
                   "aes",
@@ -3138,7 +3138,7 @@
                 "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1970,
+                "stars": 1971,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3162,7 +3162,7 @@
                 "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1970,
+                "stars": 1971,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3186,7 +3186,7 @@
                 "open_issues": 1,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1970,
+                "stars": 1971,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:44:50.107Z",
+    "last_updated": "2026-09-02T16:40:59.873Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5359,7 +5359,7 @@
       "open_issues": 1,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1970,
+      "stars": 1971,
       "topics": [
         "awesome-list",
         "deep-learning"
