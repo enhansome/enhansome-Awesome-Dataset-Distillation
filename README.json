@@ -1079,7 +1079,7 @@
             {
               "node_type": "item",
               "title": "PRANC: Pseudo RAndom Networks for Compacting Deep Models",
-              "description": "(Parsa Nooralinejad et al., 2022) :octocat: :book:",
+              "description": "(Parsa Nooralinejad et al., ICCV 2023) :octocat: :book:",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2870,
+                "stars": 2871,
                 "topics": [
                   "3d",
                   "aes",
@@ -2512,7 +2512,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2025-03-01T03:51:27Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "AngusDujw",
                 "repo": "Diversity-Driven-Synthesis",
                 "stars": 8,
@@ -3134,11 +3134,11 @@
                 "id": 501453265,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-31T08:24:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-03T08:23:41Z",
+                "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1971,
+                "stars": 1972,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3158,11 +3158,11 @@
                 "id": 501453265,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-31T08:24:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-03T08:23:41Z",
+                "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1971,
+                "stars": 1972,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3182,11 +3182,11 @@
                 "id": 501453265,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-31T08:24:25Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-03T08:23:41Z",
+                "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1971,
+                "stars": 1972,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3361,7 +3361,7 @@
                 "open_issues": 0,
                 "owner": "myoh97",
                 "repo": "DIDD-ASU",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -3699,7 +3699,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-02-19T09:12:53Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Youth-49",
                 "repo": "FedVCK_2024",
                 "stars": 21,
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T16:40:59.873Z",
+    "last_updated": "2026-09-03T16:32:02.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5355,17 +5355,17 @@
       "id": 501453265,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-08-31T08:24:25Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-03T08:23:41Z",
+      "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1971,
+      "stars": 1972,
       "topics": [
         "awesome-list",
         "deep-learning"
       ]
     },
-    "original_repository_sha": "303eb9e3d9705c0f77568b0c63da54ec6530a56f",
+    "original_repository_sha": "338d32ab51221df873f92cf55210d6a22b21342b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Dataset Distillation with stars"

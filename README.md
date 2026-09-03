@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,304 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-352-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,628 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -52,7 +52,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
   * [Self-Supervised Distillation](#self)
   * [Benchmark](#benchmark)
   * [Survey](#survey)
-  * [Ph.D. Thesis](#thesis)
+  * [Thesis](#thesis)
   * [Workshop](#workshop)
   * [Challenge](#challenge)
 * [Applications](#applications)
@@ -164,7 +164,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [FYI: Flip Your Images for Dataset Distillation](https://arxiv.org/abs/2407.08113) (Byunggwan Son et al., ECCV 2024) [:globe\_with\_meridians:](https://cvlab.yonsei.ac.kr/projects/FYI/) [:octocat:](https://github.com/cvlab-yonsei/FYI) ⭐ 60 | 🐛 0 | 🌐 Python | 📅 2024-12-23 [:book:](./citations/son2024fyi.txt)
 * [Remember the Past: Distilling Datasets into Addressable Memories for Neural Networks](https://arxiv.org/abs/2206.02916) (Zhiwei Deng et al., NeurIPS 2022) [:octocat:](https://github.com/princetonvisualai/RememberThePast-DatasetDistillation) ⭐ 41 | 🐛 2 | 🌐 Python | 📅 2022-11-19 [:book:](./citations/deng2022remember.txt)
 * [Frequency Domain-based Dataset Distillation](https://arxiv.org/abs/2311.08819) (Donghyeok Shin & Seungjae Shin et al., NeurIPS 2023) [:octocat:](https://github.com/sdh0818/FreD) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2024-05-07 [:book:](./citations/shin2023fred.txt)
-* [PRANC: Pseudo RAndom Networks for Compacting Deep Models](https://arxiv.org/abs/2206.08464) (Parsa Nooralinejad et al., 2022) [:octocat:](https://github.com/UCDvision/PRANC) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2023-01-24 [:book:](./citations/nooralinejad2022pranc.txt)
+* [PRANC: Pseudo RAndom Networks for Compacting Deep Models](https://arxiv.org/abs/2206.08464) (Parsa Nooralinejad et al., ICCV 2023) [:octocat:](https://github.com/UCDvision/PRANC) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2023-01-24 [:book:](./citations/nooralinejad2023pranc.txt)
 * [Sparse Parameterization for Epitomic Dataset Distillation](https://openreview.net/forum?id=ZIfhYAE2xg) (Xing Wei & Anjia Cao et al., NeurIPS 2023) [:octocat:](https://github.com/MIV-XJTU/SPEED) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2024-06-28 [:book:](./citations/wei2023sparse.txt)
 * [Distilling Dataset into Neural Field](https://arxiv.org/abs/2503.04835) (Donghyeok Shin et al., ICLR 2025) [:octocat:](https://github.com/aailab-kaist/DDiF) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-03-20 [:book:](./citations/shin2025ddif.txt)
 * [On Divergence Measures for Bayesian Pseudocoresets](https://arxiv.org/abs/2210.06205) (Balhae Kim et al., NeurIPS 2022) [:octocat:](https://github.com/balhaekim/bpc-divergences) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-10-04 [:book:](./citations/kim2022divergence.txt)
@@ -234,7 +234,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Better Optimization
 
 * [DREAM: Efficient Dataset Distillation by Representative Matching](https://arxiv.org/abs/2302.14416) (Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023) [:octocat:](https://github.com/lyq312318224/DREAM) ⭐ 114 | 🐛 7 | 🌐 Python | 📅 2024-02-28 [:book:](./citations/liu2023dream.txt)
-* [DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching](https://arxiv.org/abs/2310.15052) (Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023) [:octocat:](https://github.com/lyq312318224/DREAM) ⭐ 114 | 🐛 7 | 🌐 Python | 📅 2024-02-28 [:book:](./citations/liu2023dream+.txt)
+* [DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching](https://arxiv.org/abs/2310.15052) (Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023) [:octocat:](https://github.com/lyq312318224/DREAM) ⭐ 114 | 🐛 7 | 🌐 Python | 📅 2024-02-28 [:book:](./citations/liu2023dreamplus.txt)
 * [Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation](https://arxiv.org/abs/2305.18381) (Yue Xu et al., ECCV 2024) [:octocat:](https://github.com/silicx/GoldFromOres) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2024-07-06 [:book:](./citations/xu2024distill.txt)
 * [You Only Condense Once: Two Rules for Pruning Condensed Datasets](https://arxiv.org/abs/2310.14019) (Yang He et al., NeurIPS 2023) [:octocat:](https://github.com/he-y/you-only-condense-once) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2026-07-30 [:book:](./citations/he2023yoco.txt)
 * [Multisize Dataset Condensation](https://arxiv.org/abs/2403.06075) (Yang He et al., ICLR 2024) [:octocat:](https://github.com/he-y/Multisize-Dataset-Condensation) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2024-04-18 [:book:](./citations/he2024mdc.txt)
@@ -259,7 +259,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Better Understanding
 
-* [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) ⭐ 2,870 | 🐛 0 | 🌐 Python | 📅 2026-08-30 [:book:](./citations/lorraine2020optimizing.txt)
+* [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) ⭐ 2,871 | 🐛 0 | 🌐 Python | 📅 2026-08-30 [:book:](./citations/lorraine2020optimizing.txt)
 * [Flowing Datasets with Wasserstein over Wasserstein Gradient Flows](https://arxiv.org/abs/2506.07534) (Clément Bonet & Christophe Vauthier et al., ICML 2025) [:octocat:](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows) ⭐ 21 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-21 [:book:](./citations/bonet2025flowing.txt)
 * [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-14 [:book:](./citations/yang2024learning.txt)
 * [On Implicit Bias in Overparameterized Bilevel Optimization](https://proceedings.mlr.press/v162/vicol22a.html) (Paul Vicol et al., ICML 2022) [:book:](./citations/vicol2022implicit.txt)
@@ -312,7 +312,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [Elucidating the Design Space of Dataset Condensation](https://arxiv.org/abs/2404.13733) (Shitong Shao et al., NeurIPS 2024) [:octocat:](https://github.com/shaoshitong/EDC) ⭐ 20 | 🐛 4 | 🌐 Python | 📅 2024-10-05 [:book:](./citations/shao2024edc.txt)
 * [Dataset Distillation via Committee Voting](https://arxiv.org/abs/2501.07575) (Jiacheng Cui et al., 2025) [:octocat:](https://github.com/Jiacheng8/CV-DD) ⭐ 17 | 🐛 1 | 🌐 Shell | 📅 2025-07-28 [:book:](./citations/cui2025cvdd.txt)
 * [FADRM: Fast and Accurate Data Residual Matching for Dataset Distillation](https://arxiv.org/abs/2506.24125) (Jiacheng Cui & Xinyue Bi et al., NeurIPS 2025) [:octocat:](https://github.com/Jiacheng8/FADRM) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-03-22 [:book:](./citations/cui2025fadrm.txt)
-* [Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment](https://arxiv.org/abs/2409.17612) (Jiawei Du et al., NeurIPS 2024) [:octocat:](https://github.com/AngusDujw/Diversity-Driven-Synthesis) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-03-01 [:book:](./citations/du2024diversity.txt)
+* [Diversity-Driven Synthesis: Enhancing Dataset Distillation through Directed Weight Adjustment](https://arxiv.org/abs/2409.17612) (Jiawei Du et al., NeurIPS 2024) [:octocat:](https://github.com/AngusDujw/Diversity-Driven-Synthesis) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-03-01 [:book:](./citations/du2024diversity.txt)
 * [Breaking Class Barriers: Efficient Dataset Distillation via Inter-Class Feature Compensator](https://arxiv.org/abs/2408.06927) (Xin Zhang et al., ICLR 2025) [:octocat:](https://github.com/zhangxin-xd/UFC) ⭐ 8 | 🐛 2 | 🌐 Python | 📅 2025-04-06 [:book:](./citations/zhang2025infer.txt)
 * [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift](https://arxiv.org/abs/2512.15647) (Jiacheng Cui et al., ICML 2026) [:octocat:](https://github.com/Jiacheng8/HALD) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-05-01 [:book:](./citations/cui2026hard.txt)
 * [Curriculum Dataset Distillation](https://arxiv.org/abs/2405.09150) (Zhiheng Ma & Anjia Cao et al., TIP 2025) [:octocat:](https://github.com/MIV-XJTU/CUDD) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2025-07-08 [:book:](./citations/ma2025cudd.txt)
@@ -373,17 +373,19 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Survey
 
-* [A Survey on Dataset Distillation: Approaches, Applications and Future Directions](https://arxiv.org/abs/2305.01975) (Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,971 | 🐛 1 | 🌐 HTML | 📅 2026-08-31 [:book:](./citations/geng2023survey.txt)
-* [A Comprehensive Survey to Dataset Distillation](https://arxiv.org/abs/2301.05603) (Shiye Lei et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,971 | 🐛 1 | 🌐 HTML | 📅 2026-08-31 [:book:](./citations/lei2023survey.txt)
-* [Dataset Distillation: A Comprehensive Review](https://arxiv.org/abs/2301.07014) (Ruonan Yu & Songhua Liu et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,971 | 🐛 1 | 🌐 HTML | 📅 2026-08-31 [:book:](./citations/yu2023review.txt)
+* [A Survey on Dataset Distillation: Approaches, Applications and Future Directions](https://arxiv.org/abs/2305.01975) (Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,972 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/geng2023survey.txt)
+* [A Comprehensive Survey to Dataset Distillation](https://arxiv.org/abs/2301.05603) (Shiye Lei et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,972 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/lei2023survey.txt)
+* [Dataset Distillation: A Comprehensive Review](https://arxiv.org/abs/2301.07014) (Ruonan Yu & Songhua Liu et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,972 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/yu2023review.txt)
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272) (Noveen Sachdeva et al., TMLR 2023) [:book:](./citations/sachdeva2023survey.txt)
 * [The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions](https://arxiv.org/abs/2502.05673) (Ping Liu et al., 2025) [:book:](./citations/liu2025survey.txt)
+* [Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174785525.52679852/v1) (Xinyi Shang et al., 2025) [:book:](./citations/shang2025dataset.txt)
 
 <a name="thesis" />
 
-### Ph.D. Thesis
+### Thesis
 
 * [Data-efficient Neural Network Training with Dataset Condensation](https://era.ed.ac.uk/handle/1842/39756) (Bo Zhao, The University of Edinburgh 2023) [:book:](./citations/zhao2023thesis.txt)
+* [Generative Dataset Distillation](https://jcicvaric.com/assets/Cicvaric2023.pdf) (Jovan Cicvarić, University of Tübingen 2023) [:book:](./citations/cicvaric2023generative.txt)
 
 <a name="workshop" />
 
@@ -408,7 +410,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [An Efficient Dataset Condensation Plugin and Its Application to Continual Learning](https://openreview.net/forum?id=Murj6wcjRw) (Enneng Yang et al., NeurIPS 2023) [:octocat:](https://github.com/EnnengYang/An-Efficient-Dataset-Condensation-Plugin) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-11-29 [:book:](./citations/yang2023efficient.txt)
 * [Condensed Composite Memory Continual Learning](https://arxiv.org/abs/2102.09890) (Felix Wiewel et al., IJCNN 2021) [:octocat:](https://github.com/FelixWiewel/CCMCL) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2021-09-29 [:book:](./citations/wiewel2021soft.txt)
 * [Sample Condensation in Online Continual Learning](https://arxiv.org/abs/2206.11849) (Mattia Sangermano et al., IJCNN 2022) [:octocat:](https://github.com/MattiaSangermano/OLCGM) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2022-06-22 [:book:](./citations/sangermano2022sample.txt)
-* [Asymmetric Synthetic Data Update for Domain Incremental Dataset Distillation](https://openreview.net/forum?id=XcsaCHaoJh) (Minyoung Oh et al., ICLR 2026) [:octocat:](https://github.com/myoh97/DIDD-ASU) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-03-27 [:book:](./citations/oh2026asu.txt)
+* [Asymmetric Synthetic Data Update for Domain Incremental Dataset Distillation](https://openreview.net/forum?id=XcsaCHaoJh) (Minyoung Oh et al., ICLR 2026) [:octocat:](https://github.com/myoh97/DIDD-ASU) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-03-27 [:book:](./citations/oh2026asu.txt)
 * [Reducing Catastrophic Forgetting with Learning on Synthetic Data](https://arxiv.org/abs/2004.14046) (Wojciech Masarczyk et al., CVPR 2020 Workshop) [:book:](./citations/masarczyk2020reducing.txt)
 * [CD2: Constrained Dataset Distillation for Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2601.08519) (Kexin Bao et al., IJCAI 2025) [:book:](./citations/bao2025cd2.txt)
 
@@ -458,7 +460,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [DYNAFED: Tackling Client Data Heterogeneity with Global Dynamics](https://arxiv.org/abs/2211.10878) (Renjie Pi et al., CVPR 2023) [:octocat:](https://github.com/pipilurj/dynafed) ⭐ 50 | 🐛 2 | 🌐 Python | 📅 2023-04-01 [:book:](./citations/pi2023dynafed.txt)
 * [DENSE: Data-Free One-Shot Federated Learning](https://arxiv.org/abs/2112.12371) (Jie Zhang & Chen Chen et al., NeurIPS 2022) [:octocat:](https://github.com/zj-jayzhang/DENSE) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2022-12-11 [:book:](./citations/zhang2022dense.txt)
 * [Federated Learning via Decentralized Dataset Distillation in Resource-Constrained Edge Environments](https://arxiv.org/abs/2208.11311) (Rui Song et al., IJCNN 2023) [:octocat:](https://github.com/rruisong/fedd3) ⭐ 31 | 🐛 0 | 🌐 Python | 📅 2023-04-08 [:book:](./citations/song2023federated.txt)
-* [FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis](https://arxiv.org/abs/2412.18557) (Guochen Yan et al., AAAI 2025) [:octocat:](https://github.com/Youth-49/FedVCK_2024) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2025-02-19 [:book:](./citations/yan2025fedvck.txt)
+* [FedVCK: Non-IID Robust and Communication-Efficient Federated Learning via Valuable Condensed Knowledge for Medical Image Analysis](https://arxiv.org/abs/2412.18557) (Guochen Yan et al., AAAI 2025) [:octocat:](https://github.com/Youth-49/FedVCK_2024) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2025-02-19 [:book:](./citations/yan2025fedvck.txt)
 * [FedDM: Iterative Distribution Matching for Communication-Efficient Federated Learning](https://arxiv.org/abs/2207.09653) (Yuanhao Xiong & Ruochen Wang et al., CVPR 2023) [:octocat:](https://github.com/anonymifish/fed-distribution-matching) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2024-01-04 [:book:](./citations/xiong2023feddm.txt)
 * [Overcoming Data and Model Heterogeneities in Decentralized Federated Learning via Synthetic Anchors](https://arxiv.org/abs/2405.11525) (Chun-Yin Huang et al., ICML 2024) [:octocat:](https://github.com/ubc-tea/DESA) ⭐ 16 | 🐛 3 | 🌐 Python | 📅 2024-06-14 [:book:](./citations/huang2024desa.txt)
 * [FedLAP-DP: Federated Learning by Sharing Differentially Private Loss Approximations](https://arxiv.org/abs/2302.01068) (Hui-Po Wang et al., 2023) [:octocat:](https://github.com/a514514772/fedlap-dp) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-07-03 [:book:](./citations/wang2023fed.txt)
@@ -762,4 +764,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
