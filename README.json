@@ -100,9 +100,9 @@
             "description": "Official repository for \"Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation\" (ECCV 2026)",
             "homepage": "https://andyj1.github.io/raha/",
             "id": 1275701253,
-            "language": null,
+            "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-20T08:07:39Z",
+            "last_commit": "2026-09-04T11:06:43Z",
             "open_issues": 0,
             "owner": "andyj1",
             "repo": "raha",
@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2871,
+                "stars": 2873,
                 "topics": [
                   "3d",
                   "aes",
@@ -2876,9 +2876,9 @@
                 "description": "Official repository for \"Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation\" (ECCV 2026)",
                 "homepage": "https://andyj1.github.io/raha/",
                 "id": 1275701253,
-                "language": null,
+                "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-20T08:07:39Z",
+                "last_commit": "2026-09-04T11:06:43Z",
                 "open_issues": 0,
                 "owner": "andyj1",
                 "repo": "raha",
@@ -5191,7 +5191,7 @@
                 "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "OD3",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "dataset-distillation",
                   "object-detection"
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:32:02.591Z",
+    "last_updated": "2026-09-04T16:27:53.186Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
