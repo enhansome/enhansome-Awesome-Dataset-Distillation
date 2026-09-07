@@ -289,7 +289,7 @@
                 "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2877,
+                "stars": 2878,
                 "topics": [
                   "3d",
                   "aes",
@@ -2798,7 +2798,7 @@
                 "open_issues": 1,
                 "owner": "junhyeok9712",
                 "repo": "PDS",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2840,7 +2840,7 @@
                 "open_issues": 0,
                 "owner": "Previsior",
                 "repo": "PTM-ST",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -4326,7 +4326,7 @@
                 "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 439,
+                "stars": 440,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T15:33:07.418Z",
+    "last_updated": "2026-09-07T17:45:53.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
