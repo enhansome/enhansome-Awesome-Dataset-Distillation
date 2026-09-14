@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,664 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,992 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -167,9 +167,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [PRANC: Pseudo RAndom Networks for Compacting Deep Models](https://arxiv.org/abs/2206.08464) (Parsa Nooralinejad et al., ICCV 2023) [:octocat:](https://github.com/UCDvision/PRANC) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2023-01-24 [:book:](./citations/nooralinejad2023pranc.txt)
 * [Sparse Parameterization for Epitomic Dataset Distillation](https://openreview.net/forum?id=ZIfhYAE2xg) (Xing Wei & Anjia Cao et al., NeurIPS 2023) [:octocat:](https://github.com/MIV-XJTU/SPEED) ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2024-06-28 [:book:](./citations/wei2023sparse.txt)
 * [Distilling Dataset into Neural Field](https://arxiv.org/abs/2503.04835) (Donghyeok Shin et al., ICLR 2025) [:octocat:](https://github.com/aailab-kaist/DDiF) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2025-03-20 [:book:](./citations/shin2025ddif.txt)
+* [Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation](https://arxiv.org/abs/2509.26219) (Chenyang Jiang et al., 2025) [:octocat:](https://github.com/j-cyoung/GSDatasetDistillation) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2026-03-18 [:book:](./citations/jiang2025gsdd.txt)
 * [On Divergence Measures for Bayesian Pseudocoresets](https://arxiv.org/abs/2210.06205) (Balhae Kim et al., NeurIPS 2022) [:octocat:](https://github.com/balhaekim/bpc-divergences) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2022-10-04 [:book:](./citations/kim2022divergence.txt)
 * [Color-Oriented Redundancy Reduction in Dataset Distillation](https://arxiv.org/abs/2411.11329) (Bowen Yuan et al., NeurIPS 2024) [:octocat:](https://github.com/KeViNYuAn0314/AutoPalette) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2025-01-27 [:book:](./citations/yuan2024color.txt)
-* [Beyond Pixels: Efficient Dataset Distillation via Sparse Gaussian Representation](https://arxiv.org/abs/2509.26219) (Chenyang Jiang et al., 2025) [:octocat:](https://github.com/j-cyoung/GSDatasetDistillation) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-03-18 [:book:](./citations/jiang2025gsdd.txt)
 * [Dataset Distillation as Data Compression: A Rate-Utility Perspective](https://arxiv.org/abs/2507.17221) (Youneng Bao & Yiping Liu et al., ICCV 2025) [:globe\_with\_meridians:](https://nouise.github.io/DD-RUO/) [:octocat:](https://github.com/nouise/DD-RUO) ⭐ 5 | 🐛 0 | 🌐 Python | 📅 2026-06-28 [:book:](./citations/bao2025ruo.txt)
 * [Dataset Condensation with Latent Space Knowledge Factorization and Sharing](https://arxiv.org/abs/2208.10494) (Hae Beom Lee & Dong Bok Lee et al., 2022) [:book:](./citations/lee2022kfs.txt)
 * [Slimmable Dataset Condensation](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Slimmable_Dataset_Condensation_CVPR_2023_paper.html) (Songhua Liu et al., CVPR 2023) [:book:](./citations/liu2023slimmable.txt)
@@ -259,7 +259,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Better Understanding
 
-* [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) ⭐ 2,883 | 🐛 0 | 🌐 Python | 📅 2026-08-30 [:book:](./citations/lorraine2020optimizing.txt)
+* [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) ⭐ 2,885 | 🐛 0 | 🌐 Python | 📅 2026-08-30 [:book:](./citations/lorraine2020optimizing.txt)
 * [Flowing Datasets with Wasserstein over Wasserstein Gradient Flows](https://arxiv.org/abs/2506.07534) (Clément Bonet & Christophe Vauthier et al., ICML 2025) [:octocat:](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows) ⭐ 21 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-21 [:book:](./citations/bonet2025flowing.txt)
 * [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-14 [:book:](./citations/yang2024learning.txt)
 * [On Implicit Bias in Overparameterized Bilevel Optimization](https://proceedings.mlr.press/v162/vicol22a.html) (Paul Vicol et al., ICML 2022) [:book:](./citations/vicol2022implicit.txt)
@@ -716,7 +716,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Deraining
 
-* [UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization](https://arxiv.org/abs/2603.03967) (Qianfeng Yang et al., CVPR 2026) [:octocat:](https://github.com/QianfengY/UniRain) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-05-25 [:book:](./citations/yang2026unirain.txt)
+* [UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization](https://arxiv.org/abs/2603.03967) (Qianfeng Yang et al., CVPR 2026) [:octocat:](https://github.com/QianfengY/UniRain) ⭐ 29 | 🐛 2 | 🌐 Python | 📅 2026-05-25 [:book:](./citations/yang2026unirain.txt)
 
 <a name="fine" />
 
@@ -764,4 +764,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
