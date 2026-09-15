@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,992 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,282 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -332,8 +332,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Multimodal Distillation
 
 * [Vision-Language Dataset Distillation](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., TMLR 2024) [:globe\_with\_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) ⭐ 65 | 🐛 6 | 🌐 Python | 📅 2024-12-30 [:book:](./citations/wu2024multi.txt)
-* [Low-Rank Similarity Mining for Multimodal Dataset Distillation](https://arxiv.org/abs/2406.03793) (Yue Xu et al., ICML 2024) [:octocat:](https://github.com/silicx/LoRS_Distill) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2024-10-11 [:book:](./citations/xu2024lors.txt)
-* [Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2025-12-17 [:book:](./citations/zhao2025edge.txt)
+* [Low-Rank Similarity Mining for Multimodal Dataset Distillation](https://arxiv.org/abs/2406.03793) (Yue Xu et al., ICML 2024) [:octocat:](https://github.com/silicx/LoRS_Distill) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2024-10-11 [:book:](./citations/xu2024lors.txt)
+* [Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-12-17 [:book:](./citations/zhao2025edge.txt)
 * [Audio-Visual Dataset Distillation](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [:octocat:](https://github.com/sakshamsingh1/AVDD) ⭐ 8 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-04-14 [:book:](./citations/kush2024avdd.txt)
 * [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-02-12 [:book:](./citations/choi2026multi.txt)
 * [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://arxiv.org/abs/2510.18583) (Yongmin Lee et al., NeurIPS 2025) [:octocat:](https://github.com/Yongalls/CovMatch) ⭐ 6 | 🐛 2 | 🌐 Python | 📅 2025-10-21 [:book:](./citations/lee2025covmatch.txt)
@@ -478,7 +478,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Graph Neural Network
 
-* [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580) (Wei Jin et al., ICLR 2022) [:octocat:](https://github.com/chandlerbang/gcond) ⭐ 145 | 🐛 11 | 🌐 Python | 📅 2025-10-10 [:book:](./citations/jin2022graph.txt)
+* [Graph Condensation for Graph Neural Networks](https://arxiv.org/abs/2110.07580) (Wei Jin et al., ICLR 2022) [:octocat:](https://github.com/chandlerbang/gcond) ⭐ 146 | 🐛 11 | 🌐 Python | 📅 2025-10-10 [:book:](./citations/jin2022graph.txt)
 * [Structure-free Graph Condensation: From Large-scale Graphs to Condensed Graph-free Data](https://arxiv.org/abs/2306.02664) (Xin Zheng et al., NeurIPS 2023) [:octocat:](https://github.com/amanda-zheng/sfgc) ⭐ 38 | 🐛 1 | 🌐 Python | 📅 2023-10-06 [:book:](./citations/zheng2023sfgc.txt)
 * [Does Graph Distillation See Like Vision Dataset Counterpart?](https://arxiv.org/abs/2310.09192) (Beining Yang & Kai Wang et al., NeurIPS 2023) [:octocat:](https://github.com/RingBDStack/SGDD) ⭐ 26 | 🐛 7 | 🌐 Python | 📅 2023-10-19 [:book:](./citations/yang2023sgdd.txt)
 * [Navigating Complexity: Toward Lossless Graph Condensation via Expanding Window Matching](https://arxiv.org/abs/2402.05011) (Yuchen Zhang & Tianle Zhang & Kai Wang et al., ICML 2024) [:octocat:](https://github.com/nus-hpc-ai-lab/geom) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2024-06-23 [:book:](./citations/zhang2024geom.txt)
@@ -616,7 +616,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [CondTSF: One-line Plugin of Dataset Condensation for Time Series Forecasting](https://arxiv.org/abs/2406.02131) (Jianrong Ding & Zhanyu Liu et al., NeurIPS 2024) [:octocat:](https://github.com/RafaDD/CondTSF) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-06-05 [:book:](./citations/ding2024time.txt)
 * [Effective Dataset Distillation for Spatio-Temporal Forecasting with Bi-dimensional Compression](https://arxiv.org/abs/2603.10410) (Taehyung Kwon & Yeonje Choi et al., ICDE 2026) [:octocat:](https://github.com/kbrother/STemDist) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2026-08-25 [:book:](./citations/kwon2026effective.txt)
 * [Dataset Condensation for Time Series Classification via Dual Domain Matching](https://arxiv.org/abs/2403.07245) (Zhanyu Liu et al., KDD 2024) [:octocat:](https://github.com/zhyliu00/TimeSeriesCond) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2024-05-17 [:book:](./citations/liu2024time.txt)
-* [ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification](https://arxiv.org/abs/2602.09008) (Sijia Peng et al., 2026) [:octocat:](https://github.com/lunaaa95/ShapeCond) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-02-18 [:book:](./citations/peng2026shapecond.txt)
+* [ShapeCond: Fast Shapelet-Guided Dataset Condensation for Time Series Classification](https://arxiv.org/abs/2602.09008) (Sijia Peng et al., 2026) [:octocat:](https://github.com/lunaaa95/ShapeCond) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-02-18 [:book:](./citations/peng2026shapecond.txt)
 * [Less is More: Efficient Time Series Dataset Condensation via Two-fold Modal Matching](https://arxiv.org/abs/2410.20905) (Hao Miao et al., VLDB 2025) [:octocat:](https://github.com/uestc-liuzq/STdistillation) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2025-03-26 [:book:](./citations/miao2025timedc.txt)
 * [Distilling Time Series Foundation Models for Efficient Forecasting](https://arxiv.org/abs/2601.12785) (Yuqi Li & Kuiye Ding et al., ICASSP 2026) [:octocat:](https://github.com/itsnotacie/DistilTS-ICASSP2026) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2025-09-17 [:book:](./citations/li2026distilts.txt)
 * [One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis](https://openreview.net/forum?id=i8FO7f2OYJ) (Wei Shao et al., ICML 2026) [:octocat:](https://github.com/ZJU-DAILY/UniTSC) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-05-17 [:book:](./citations/shao2026unitsc.txt)
@@ -764,4 +764,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._

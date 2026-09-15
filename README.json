@@ -2735,7 +2735,7 @@
                 "open_issues": 1,
                 "owner": "silicx",
                 "repo": "LoRS_Distill",
-                "stars": 44,
+                "stars": 45,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2756,7 +2756,7 @@
                 "open_issues": 1,
                 "owner": "ichbill",
                 "repo": "EDGE",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -3877,7 +3877,7 @@
                 "open_issues": 11,
                 "owner": "ChandlerBang",
                 "repo": "GCond",
-                "stars": 145,
+                "stars": 146,
                 "topics": [
                   "data-efficient-learning",
                   "dataset-distillation",
@@ -4904,7 +4904,7 @@
                 "open_issues": 0,
                 "owner": "lunaaa95",
                 "repo": "ShapeCond",
-                "stars": 11,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:06:06.398Z",
+    "last_updated": "2026-09-15T17:07:11.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
