@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2885,
+                "stars": 2887,
                 "topics": [
                   "3d",
                   "aes",
@@ -2819,7 +2819,7 @@
                 "open_issues": 2,
                 "owner": "Yongalls",
                 "repo": "CovMatch",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T17:07:11.627Z",
+    "last_updated": "2026-09-16T17:07:06.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
