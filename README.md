@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,662 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,074 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -373,9 +373,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Survey
 
-* [A Survey on Dataset Distillation: Approaches, Applications and Future Directions](https://arxiv.org/abs/2305.01975) (Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,973 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/geng2023survey.txt)
-* [A Comprehensive Survey to Dataset Distillation](https://arxiv.org/abs/2301.05603) (Shiye Lei et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,973 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/lei2023survey.txt)
-* [Dataset Distillation: A Comprehensive Review](https://arxiv.org/abs/2301.07014) (Ruonan Yu & Songhua Liu et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,973 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/yu2023review.txt)
+* [A Survey on Dataset Distillation: Approaches, Applications and Future Directions](https://arxiv.org/abs/2305.01975) (Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,974 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/geng2023survey.txt)
+* [A Comprehensive Survey to Dataset Distillation](https://arxiv.org/abs/2301.05603) (Shiye Lei et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,974 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/lei2023survey.txt)
+* [Dataset Distillation: A Comprehensive Review](https://arxiv.org/abs/2301.07014) (Ruonan Yu & Songhua Liu et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,974 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/yu2023review.txt)
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272) (Noveen Sachdeva et al., TMLR 2023) [:book:](./citations/sachdeva2023survey.txt)
 * [The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions](https://arxiv.org/abs/2502.05673) (Ping Liu et al., 2025) [:book:](./citations/liu2025survey.txt)
 * [Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174785525.52679852/v1) (Xinyi Shang et al., 2025) [:book:](./citations/shang2025dataset.txt)
@@ -565,7 +565,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 * [DiLM: Distilling Dataset into Language Model for Text-level Dataset Distillation](https://arxiv.org/abs/2404.00264) (Aru Maekawa et al., NAACL 2024) [:octocat:](https://github.com/arumaekawa/DiLM) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-02-10 [:book:](./citations/maekawa2024dilm.txt)
 * [Dataset Distillation with Attention Labels for Fine-tuning BERT](https://aclanthology.org/2023.acl-short.12/) (Aru Maekawa et al., ACL 2023) [:octocat:](https://github.com/arumaekawa/dataset-distillation-with-attention-labels) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2024-01-08 [:book:](./citations/maekawa2023text.txt)
-* [Synthetic Text Generation for Training Large Language Models via Gradient Matching](https://arxiv.org/abs/2502.17607) (Dang Nguyen & Zeman Li et al., ICML 2025) [:octocat:](https://github.com/BigML-CS-UCLA/GRADMM) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2025-06-18 [:book:](./citations/nguyen2025llm.txt)
+* [Synthetic Text Generation for Training Large Language Models via Gradient Matching](https://arxiv.org/abs/2502.17607) (Dang Nguyen & Zeman Li et al., ICML 2025) [:octocat:](https://github.com/BigML-CS-UCLA/GRADMM) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-06-18 [:book:](./citations/nguyen2025llm.txt)
 * [UniDetox: Universal Detoxification of Large Language Models via Dataset Distillation](https://arxiv.org/abs/2504.20500) (Huimin Lu et al., ICLR 2025) [:octocat:](https://github.com/EminLU/UniDetox) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2025-04-14 [:book:](./citations/lu2025llm.txt)
 * [CondenseLM: LLMs-driven Text Dataset Condensation via Reward Matching](https://aclanthology.org/2025.emnlp-main.65/) (Cheng Shen et al., EMNLP 2025) [:octocat:](https://github.com/cs6331/CondenseLM/) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-04-24 [:book:](./citations/shen2025llm.txt)
 * [Data Distillation for Text Classification](https://arxiv.org/abs/2104.08448) (Yongqi Li et al., 2021) [:book:](./citations/li2021text.txt)
@@ -764,4 +764,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

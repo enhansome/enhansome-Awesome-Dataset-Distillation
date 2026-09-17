@@ -3138,7 +3138,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3162,7 +3162,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3186,7 +3186,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -4673,7 +4673,7 @@
                 "open_issues": 0,
                 "owner": "BigML-CS-UCLA",
                 "repo": "GRADMM",
-                "stars": 11,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T17:07:06.935Z",
+    "last_updated": "2026-09-17T17:07:48.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5359,7 +5359,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1973,
+      "stars": 1974,
       "topics": [
         "awesome-list",
         "deep-learning"
