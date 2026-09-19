@@ -642,7 +642,7 @@
                 "open_issues": 0,
                 "owner": "Liu-Hy",
                 "repo": "WMDD",
-                "stars": 58,
+                "stars": 57,
                 "topics": [
                   "dataset-distillation",
                   "distillation",
@@ -2963,27 +2963,6 @@
             },
             {
               "node_type": "item",
-              "title": "Self-Supervised Dataset Distillation for Transfer Learning",
-              "description": "(Dong Bok Lee & Seanie Lee et al., ICLR 2024) :octocat: :book:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Self-Supervised Dataset Distillation for Transfer Learning",
-                "homepage": null,
-                "id": 782312816,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2024-04-10T14:32:04Z",
-                "open_issues": 1,
-                "owner": "db-Lee",
-                "repo": "selfsup_dd",
-                "stars": 19,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:27:55.001Z"
-            },
-            {
-              "node_type": "item",
               "title": "Efficiency for Free: Ideal Data Are Transportable Representations",
               "description": "(Peng Sun et al., NeurIPS 2024) :octocat: :book:",
               "children": [],
@@ -2999,6 +2978,27 @@
                 "owner": "LINs-lab",
                 "repo": "ReLA",
                 "stars": 19,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:27:55.001Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Self-Supervised Dataset Distillation for Transfer Learning",
+              "description": "(Dong Bok Lee & Seanie Lee et al., ICLR 2024) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Self-Supervised Dataset Distillation for Transfer Learning",
+                "homepage": null,
+                "id": 782312816,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2024-04-10T14:32:04Z",
+                "open_issues": 1,
+                "owner": "db-Lee",
+                "repo": "selfsup_dd",
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T16:32:02.990Z",
+    "last_updated": "2026-09-19T15:57:22.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
