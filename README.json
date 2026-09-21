@@ -103,7 +103,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T20:16:21Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "andyj1",
             "repo": "raha",
             "stars": 1,
@@ -595,7 +595,7 @@
                 "open_issues": 2,
                 "owner": "gszfwsb",
                 "repo": "NCFM",
-                "stars": 412,
+                "stars": 413,
                 "topics": [
                   "computer-vision",
                   "data-centric-ai",
@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2888,
+                "stars": 2889,
                 "topics": [
                   "3d",
                   "aes",
@@ -2879,7 +2879,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-08T20:16:21Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "andyj1",
                 "repo": "raha",
                 "stars": 1,
@@ -3483,7 +3483,7 @@
                 "open_issues": 1,
                 "owner": "openmedlab",
                 "repo": "BrainMVP",
-                "stars": 89,
+                "stars": 90,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T16:14:54.346Z",
+    "last_updated": "2026-09-21T18:13:50.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
