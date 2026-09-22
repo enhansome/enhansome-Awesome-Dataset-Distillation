@@ -289,7 +289,7 @@
                 "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -844,7 +844,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382,
+                "stars": 2383,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -879,7 +879,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2382,
+                "stars": 2383,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -1381,7 +1381,7 @@
                     "open_issues": 0,
                     "owner": "jachansantiago",
                     "repo": "mode_guidance",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -1444,7 +1444,7 @@
                     "open_issues": 4,
                     "owner": "mchen725",
                     "repo": "DD_IGD",
-                    "stars": 15,
+                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2768,7 +2768,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Audio Visual Dataset Distillation",
+                "description": "[TMLR 2024] Audio Visual Dataset Distillation",
                 "homepage": null,
                 "id": 890647879,
                 "language": "Jupyter Notebook",
@@ -3138,7 +3138,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1974,
+                "stars": 1972,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3162,7 +3162,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1974,
+                "stars": 1972,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3186,7 +3186,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1974,
+                "stars": 1972,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -4326,7 +4326,7 @@
                 "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:13:50.791Z",
+    "last_updated": "2026-09-22T17:02:59.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5359,7 +5359,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1974,
+      "stars": 1972,
       "topics": [
         "awesome-list",
         "deep-learning"

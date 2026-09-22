@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,545 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 508,915 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -109,7 +109,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 * [Dataset Condensation with Gradient Matching](https://arxiv.org/abs/2006.05929) (Bo Zhao et al., ICLR 2021) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation) ⭐ 544 | 🐛 4 | 🌐 Python | 📅 2023-11-27 [:book:](./citations/zhao2021datasetcondensation.txt)
 * [Dataset Condensation with Differentiable Siamese Augmentation](https://arxiv.org/abs/2102.08259) (Bo Zhao et al., ICML 2021) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation) ⭐ 544 | 🐛 4 | 🌐 Python | 📅 2023-11-27 [:book:](./citations/zhao2021differentiatble.txt)
-* [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (George Cazenavette et al., CVPR 2022) [:globe\_with\_meridians:](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation) ⭐ 440 | 🐛 9 | 🌐 Python | 📅 2024-07-16 [:book:](./citations/cazenavette2022dataset.txt)
+* [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (George Cazenavette et al., CVPR 2022) [:globe\_with\_meridians:](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation) ⭐ 441 | 🐛 9 | 🌐 Python | 📅 2024-07-16 [:book:](./citations/cazenavette2022dataset.txt)
 * [Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation](https://arxiv.org/abs/2211.11004) (Jiawei Du & Yidi Jiang et al., CVPR 2023) [:octocat:](https://github.com/AngusDujw/FTD-distillation) ⭐ 40 | 🐛 3 | 🌐 Python | 📅 2023-03-25 [:book:](./citations/du2023minimizing.txt)
 * [Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory](https://arxiv.org/abs/2211.10586) (Justin Cui et al., ICML 2023) [:octocat:](https://github.com/justincui03/tesla) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2024-04-12 [:book:](./citations/cui2022scaling.txt)
 * [Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios](https://arxiv.org/abs/2410.17193) (Kai Wang & Zekai Li et al., CVPR 2025) [:octocat:](https://github.com/NUS-HPC-AI-Lab/EDF) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2024-11-16 [:book:](./citations/wang2025edf.txt)
@@ -197,10 +197,10 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 * [Efficient Dataset Distillation via Minimax Diffusion](https://arxiv.org/abs/2311.15529) (Jianyang Gu et al., CVPR 2024) [:octocat:](https://github.com/vimar-gu/MinimaxDiffusion) ⭐ 105 | 🐛 8 | 🌐 Python | 📅 2024-03-22 [:book:](./citations/gu2024efficient.txt)
 * [D4M: Dataset Distillation via Disentangled Diffusion Model](https://arxiv.org/abs/2407.15138) (Duo Su & Junjie Hou et al., CVPR 2024) [:globe\_with\_meridians:](https://junjie31.github.io/D4M/) [:octocat:](https://github.com/suduo94/D4M) ⭐ 42 | 🐛 6 | 🌐 Python | 📅 2024-09-06 [:book:](./citations/su2024d4m.txt)
-* [MGD3: Mode-Guided Dataset Distillation using Diffusion Models](https://arxiv.org/abs/2505.18963) (Jeffrey A. Chan-Santiago et al., ICML 2025) [:globe\_with\_meridians:](https://jachansantiago.com/mode-guided-distillation/) [:octocat:](https://github.com/jachansantiago/mode_guidance/) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2025-12-06 [:book:](./citations/chan-santiago2025mgd3.txt)
+* [MGD3: Mode-Guided Dataset Distillation using Diffusion Models](https://arxiv.org/abs/2505.18963) (Jeffrey A. Chan-Santiago et al., ICML 2025) [:globe\_with\_meridians:](https://jachansantiago.com/mode-guided-distillation/) [:octocat:](https://github.com/jachansantiago/mode_guidance/) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-12-06 [:book:](./citations/chan-santiago2025mgd3.txt)
 * [Taming Diffusion for Dataset Distillation with High Representativeness](https://arxiv.org/abs/2505.18399) (Lin Zhao et al., ICML 2025) [:octocat:](https://github.com/lin-zhao-resoLve/D3HR) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2025-08-24 [:book:](./citations/zhao2025d3hr.txt)
 * [Dataset Distillation via Vision-Language Category Prototype](https://arxiv.org/abs/2506.23580) (Yawen Zou & Guang Li et al., ICCV 2025) [:globe\_with\_meridians:](https://zou-yawen.github.io/DD_via_vision-language)  [:octocat:](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-03-20 [:book:](./citations/zou2025vlcp.txt)
-* [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:octocat:](https://github.com/mchen725/DD_IGD) ⭐ 15 | 🐛 4 | 🌐 Python | 📅 2025-02-12 [:book:](./citations/chen2025igd.txt)
+* [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:octocat:](https://github.com/mchen725/DD_IGD) ⭐ 16 | 🐛 4 | 🌐 Python | 📅 2025-02-12 [:book:](./citations/chen2025igd.txt)
 * [Generative Dataset Distillation Based on Diffusion Model](https://arxiv.org/abs/2408.08610) (Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop) [:octocat:](https://github.com/Guang000/Generative-Dataset-Distillation-Based-on-Diffusion-Model) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-10-11 [:book:](./citations/su2024diffusion.txt)
 * [CaO2: Rectifying Inconsistencies in Diffusion-Based Dataset Distillation](https://arxiv.org/abs/2506.22637) (Haoxuan Wang et al., ICCV 2025) [:octocat:](https://github.com/hatchetProject/CaO2) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-01-15 [:book:](./citations/wang2025cao2.txt)
 * [Geometry-Aware Dataset Condensation for Diffusion Model Training](https://arxiv.org/abs/2606.05883) (Xiao Cui et al., ICML 2026) [:octocat:](https://github.com/2018cx/GADC) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-06-08 [:book:](./citations/cui2026gadc.txt)
@@ -373,9 +373,9 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Survey
 
-* [A Survey on Dataset Distillation: Approaches, Applications and Future Directions](https://arxiv.org/abs/2305.01975) (Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,974 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/geng2023survey.txt)
-* [A Comprehensive Survey to Dataset Distillation](https://arxiv.org/abs/2301.05603) (Shiye Lei et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,974 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/lei2023survey.txt)
-* [Dataset Distillation: A Comprehensive Review](https://arxiv.org/abs/2301.07014) (Ruonan Yu & Songhua Liu et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,974 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/yu2023review.txt)
+* [A Survey on Dataset Distillation: Approaches, Applications and Future Directions](https://arxiv.org/abs/2305.01975) (Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,972 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/geng2023survey.txt)
+* [A Comprehensive Survey to Dataset Distillation](https://arxiv.org/abs/2301.05603) (Shiye Lei et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,972 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/lei2023survey.txt)
+* [Dataset Distillation: A Comprehensive Review](https://arxiv.org/abs/2301.07014) (Ruonan Yu & Songhua Liu et al., TPAMI 2023) [:octocat:](https://github.com/Guang000/Awesome-Dataset-Distillation) ⭐ 1,972 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 [:book:](./citations/yu2023review.txt)
 * [Data Distillation: A Survey](https://arxiv.org/abs/2301.04272) (Noveen Sachdeva et al., TMLR 2023) [:book:](./citations/sachdeva2023survey.txt)
 * [The Evolution of Dataset Distillation: Toward Scalable and Generalizable Solutions](https://arxiv.org/abs/2502.05673) (Ping Liu et al., 2025) [:book:](./citations/liu2025survey.txt)
 * [Dataset Distillation in the Era of Large-Scale Data: Methods, Analysis, and Future Directions](https://www.techrxiv.org/doi/full/10.36227/techrxiv.174785525.52679852/v1) (Xinyi Shang et al., 2025) [:book:](./citations/shang2025dataset.txt)
@@ -517,7 +517,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Fashion, Art, and Design
 
-* [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR 2022 Workshop) [:globe\_with\_meridians:](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation) ⭐ 440 | 🐛 9 | 🌐 Python | 📅 2024-07-16 [:book:](./citations/cazenavette2022textures.txt)
+* [Wearable ImageNet: Synthesizing Tileable Textures via Dataset Distillation](https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Cazenavette_Wearable_ImageNet_Synthesizing_Tileable_Textures_via_Dataset_Distillation_CVPRW_2022_paper.html) (George Cazenavette et al., CVPR 2022 Workshop) [:globe\_with\_meridians:](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation) ⭐ 441 | 🐛 9 | 🌐 Python | 📅 2024-07-16 [:book:](./citations/cazenavette2022textures.txt)
 * [Galaxy Dataset Distillation with Self-Adaptive Trajectory Matching](https://arxiv.org/abs/2311.17967) (Haowen Guan et al., NeurIPS 2023 Workshop) [:octocat:](https://github.com/HaowenGuan/Galaxy-Dataset-Distillation) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2024-03-13 [:book:](./citations/guan2023galaxy.txt)
 * [Learning from Designers: Fashion Compatibility Analysis Via Dataset Distillation](https://ieeexplore.ieee.org/document/9897234) (Yulan Chen et al., ICIP 2022) [:book:](./citations/chen2022fashion.txt)
 
@@ -764,4 +764,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
