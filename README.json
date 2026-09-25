@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2892,
+                "stars": 2893,
                 "topics": [
                   "3d",
                   "aes",
@@ -3138,7 +3138,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3162,7 +3162,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -3186,7 +3186,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "Awesome-Dataset-Distillation",
-                "stars": 1973,
+                "stars": 1974,
                 "topics": [
                   "awesome-list",
                   "deep-learning"
@@ -4223,7 +4223,7 @@
                     "open_issues": 1,
                     "owner": "RingBDStack",
                     "repo": "GC-Bench",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5347,7 +5347,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:18:54.969Z",
+    "last_updated": "2026-09-25T17:18:44.517Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5359,7 +5359,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1973,
+      "stars": 1974,
       "topics": [
         "awesome-list",
         "deep-learning"
