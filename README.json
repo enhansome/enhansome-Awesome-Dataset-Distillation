@@ -3124,85 +3124,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "A Survey on Dataset Distillation: Approaches, Applications and Future Directions",
-              "description": "(Jiahui Geng & Zongxiong Chen et al., IJCAI 2023) :octocat: :book:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome papers on dataset distillation and related applications.",
-                "homepage": "https://guang000.github.io/Awesome-Dataset-Distillation/",
-                "id": 501453265,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2026-09-03T08:23:41Z",
-                "open_issues": 0,
-                "owner": "Guang000",
-                "repo": "Awesome-Dataset-Distillation",
-                "stars": 1973,
-                "topics": [
-                  "awesome-list",
-                  "deep-learning"
-                ]
-              },
-              "first_seen": "2026-08-28T22:27:55.001Z"
-            },
-            {
-              "node_type": "item",
-              "title": "A Comprehensive Survey to Dataset Distillation",
-              "description": "(Shiye Lei et al., TPAMI 2023) :octocat: :book:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome papers on dataset distillation and related applications.",
-                "homepage": "https://guang000.github.io/Awesome-Dataset-Distillation/",
-                "id": 501453265,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2026-09-03T08:23:41Z",
-                "open_issues": 0,
-                "owner": "Guang000",
-                "repo": "Awesome-Dataset-Distillation",
-                "stars": 1973,
-                "topics": [
-                  "awesome-list",
-                  "deep-learning"
-                ]
-              },
-              "first_seen": "2026-08-28T22:27:55.001Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Dataset Distillation: A Comprehensive Review",
-              "description": "(Ruonan Yu & Songhua Liu et al., TPAMI 2023) :octocat: :book:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of awesome papers on dataset distillation and related applications.",
-                "homepage": "https://guang000.github.io/Awesome-Dataset-Distillation/",
-                "id": 501453265,
-                "language": "HTML",
-                "license": "MIT",
-                "last_commit": "2026-09-03T08:23:41Z",
-                "open_issues": 0,
-                "owner": "Guang000",
-                "repo": "Awesome-Dataset-Distillation",
-                "stars": 1973,
-                "topics": [
-                  "awesome-list",
-                  "deep-learning"
-                ]
-              },
-              "first_seen": "2026-08-28T22:27:55.001Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Survey"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "The First Dataset Distillation Challenge (Kai Wang & Ahmad Sajedi et al., ECCV 2024) :globe_with_meridians:",
               "description": "octocat:",
               "children": [],
@@ -5347,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T17:54:47.421Z",
+    "last_updated": "2026-10-03T04:24:41.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
