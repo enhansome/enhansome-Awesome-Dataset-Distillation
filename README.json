@@ -1654,7 +1654,7 @@
                     "open_issues": 1,
                     "owner": "einsteinxia",
                     "repo": "DIVER",
-                    "stars": 2,
+                    "stars": 3,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T16:53:39.447Z",
+    "last_updated": "2026-10-05T20:56:46.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
