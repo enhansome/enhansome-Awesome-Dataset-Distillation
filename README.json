@@ -92,6 +92,27 @@
         },
         {
           "node_type": "item",
+          "title": "[2026/07/07] Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation",
+          "description": "(Ziang Gan et al., ICML 2026) :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1235769298,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2026-07-27T07:43:56Z",
+            "open_issues": 0,
+            "owner": "tade1s",
+            "repo": "SCG",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T22:27:55.001Z"
+        },
+        {
+          "node_type": "item",
           "title": "[2026/07/08] Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
           "description": "(Jongoh Jeong et al., ECCV 2026) :globe_with_meridians: :octocat: :book:",
           "children": [],
@@ -127,27 +148,6 @@
             "open_issues": 0,
             "owner": "ZJU-DAILY",
             "repo": "UniTSC",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:27:55.001Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[2026/07/07] Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation",
-          "description": "(Ziang Gan et al., ICML 2026) :octocat: :book:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1235769298,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-07-27T07:43:56Z",
-            "open_issues": 0,
-            "owner": "tade1s",
-            "repo": "SCG",
             "stars": 1,
             "topics": []
           },
@@ -1675,7 +1675,7 @@
                     "open_issues": 0,
                     "owner": "tade1s",
                     "repo": "SCG",
-                    "stars": 1,
+                    "stars": 2,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2900,
+                "stars": 2901,
                 "topics": [
                   "3d",
                   "aes",
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T18:58:55.922Z",
+    "last_updated": "2026-10-08T18:53:58.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
