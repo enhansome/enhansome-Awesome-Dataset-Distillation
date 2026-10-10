@@ -750,7 +750,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2024-06-16T07:52:25Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "VincenDen",
                 "repo": "IID",
                 "stars": 10,
@@ -2060,7 +2060,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2904,
+                "stars": 2903,
                 "topics": [
                   "3d",
                   "aes",
@@ -3446,7 +3446,7 @@
                 "open_issues": 1,
                 "owner": "ZheLi2020",
                 "repo": "InfoDist",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -3686,7 +3686,7 @@
                 "open_issues": 0,
                 "owner": "hui-po-wang",
                 "repo": "FedLAP-DP",
-                "stars": 10,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:24:51.356Z",
+    "last_updated": "2026-10-10T17:22:58.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
