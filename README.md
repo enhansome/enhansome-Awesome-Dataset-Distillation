@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,138 | 🐛 106 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,586 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -128,7 +128,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Distribution/Feature Matching Surrogate Objective
 
 * [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (Bo Zhao et al., WACV 2023) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation) ⭐ 544 | 🐛 4 | 🌐 Python | 📅 2023-11-27 [:book:](./citations/zhao2023distribution.txt)
-* [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) ⭐ 413 | 🐛 2 | 🌐 Python | 📅 2026-06-03 [:book:](./citations/wang2025ncfm.txt)
+* [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) ⭐ 412 | 🐛 2 | 🌐 Python | 📅 2026-06-03 [:book:](./citations/wang2025ncfm.txt)
 * [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang & Bo Zhao et al., CVPR 2022) [:octocat:](https://github.com/kaiwang960112/cafe) ⭐ 73 | 🐛 1 | 🌐 Python | 📅 2023-12-12 [:book:](./citations/wang2022cafe.txt)
 * [Dataset Distillation via the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe\_with\_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2026-03-08 [:book:](./citations/liu2025wasserstein.txt)
 * [DataDAM: Efficient Dataset Distillation with Attention Matching](https://arxiv.org/abs/2310.00093) (Ahmad Sajedi & Samir Khaki et al., ICCV 2023) [:globe\_with\_meridians:](https://datadistillation.github.io/DataDAM/) [:octocat:](https://github.com/DataDistillation/DataDAM) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-06-20 [:book:](./citations/sajedi2023datadam.txt)
@@ -764,4 +764,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

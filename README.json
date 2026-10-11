@@ -595,7 +595,7 @@
                 "open_issues": 2,
                 "owner": "gszfwsb",
                 "repo": "NCFM",
-                "stars": 413,
+                "stars": 412,
                 "topics": [
                   "computer-vision",
                   "data-centric-ai",
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:22:58.838Z",
+    "last_updated": "2026-10-11T17:42:39.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
