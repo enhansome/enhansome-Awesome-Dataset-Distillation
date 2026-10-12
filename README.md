@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,586 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,124 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -22,7 +22,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 * \[2026/07/07] [Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift](https://arxiv.org/abs/2512.15647) (Jiacheng Cui et al., ICML 2026) [:octocat:](https://github.com/Jiacheng8/HALD) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-05-01 [:book:](./citations/cui2026hard.txt)
 * \[2026/07/08] [Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation](https://arxiv.org/abs/2606.20196) (Hyun-Kurl Jang & Jihun Kim & Hyeokjun Kweon et al., ECCV 2026) [:octocat:](https://github.com/blue-531/DOALL) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2026-06-24 [:book:](./citations/jang2026doall.txt)
-* \[2026/07/08] [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., ECCV 2026) [:globe\_with\_meridians:](https://guang000.github.io/FD2-Webpage/) [:octocat:](https://github.com/Guang000/FD2) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-09-26 [:book:](./citations/ma2026fd2.txt)
+* \[2026/07/08] [FD2: A Dedicated Framework for Fine-Grained Dataset Distillation](https://arxiv.org/abs/2603.25144) (Hongxu Ma & Guang Li et al., ECCV 2026) [:globe\_with\_meridians:](https://guang000.github.io/FD2-Webpage/) [:octocat:](https://github.com/Guang000/FD2) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2026-09-26 [:book:](./citations/ma2026fd2.txt)
 * \[2026/07/08] [Condensing Large-Scale Datasets Directly with Minimal Information Loss](https://arxiv.org/abs/2607.00916) (Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) [:octocat:](https://github.com/LINs-lab/CIM) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-06-29 [:book:](./citations/shang2026cim.txt)
 * \[2026/07/07] [Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation](https://openreview.net/forum?id=onosLtwoiK) (Ziang Gan et al., ICML 2026) [:octocat:](https://github.com/tade1s/SCG) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-07-27 [:book:](./citations/gan2026scg.txt)
 * \[2026/07/08] [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation](https://arxiv.org/abs/2606.29464) (Jongoh Jeong et al., ECCV 2026) [:globe\_with\_meridians:](https://andyj1.github.io/raha/) [:octocat:](https://github.com/andyj1/raha) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-08 [:book:](./citations/jeong2026raha.txt)
@@ -95,7 +95,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ## Main
 
-* [Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [:globe\_with\_meridians:](https://ssnl.github.io/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation) ⭐ 830 | 🐛 11 | 🌐 Python | 📅 2025-06-17 [:book:](./citations/wang2018datasetdistillation.txt)
+* [Dataset Distillation](https://arxiv.org/abs/1811.10959) (Tongzhou Wang et al., 2018) [:globe\_with\_meridians:](https://ssnl.github.io/dataset_distillation/) [:octocat:](https://github.com/SsnL/dataset-distillation) ⭐ 831 | 🐛 11 | 🌐 Python | 📅 2025-06-17 [:book:](./citations/wang2018datasetdistillation.txt)
 
 <a name="early-work" />
 
@@ -236,8 +236,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [DREAM: Efficient Dataset Distillation by Representative Matching](https://arxiv.org/abs/2302.14416) (Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023) [:octocat:](https://github.com/lyq312318224/DREAM) ⭐ 114 | 🐛 7 | 🌐 Python | 📅 2024-02-28 [:book:](./citations/liu2023dream.txt)
 * [DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching](https://arxiv.org/abs/2310.15052) (Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023) [:octocat:](https://github.com/lyq312318224/DREAM) ⭐ 114 | 🐛 7 | 🌐 Python | 📅 2024-02-28 [:book:](./citations/liu2023dreamplus.txt)
 * [Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation](https://arxiv.org/abs/2305.18381) (Yue Xu et al., ECCV 2024) [:octocat:](https://github.com/silicx/GoldFromOres) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2024-07-06 [:book:](./citations/xu2024distill.txt)
-* [You Only Condense Once: Two Rules for Pruning Condensed Datasets](https://arxiv.org/abs/2310.14019) (Yang He et al., NeurIPS 2023) [:octocat:](https://github.com/he-y/you-only-condense-once) ⭐ 17 | 🐛 2 | 🌐 Python | 📅 2026-07-30 [:book:](./citations/he2023yoco.txt)
-* [Multisize Dataset Condensation](https://arxiv.org/abs/2403.06075) (Yang He et al., ICLR 2024) [:octocat:](https://github.com/he-y/Multisize-Dataset-Condensation) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2024-04-18 [:book:](./citations/he2024mdc.txt)
+* [You Only Condense Once: Two Rules for Pruning Condensed Datasets](https://arxiv.org/abs/2310.14019) (Yang He et al., NeurIPS 2023) [:octocat:](https://github.com/he-y/you-only-condense-once) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-07-30 [:book:](./citations/he2023yoco.txt)
+* [Multisize Dataset Condensation](https://arxiv.org/abs/2403.06075) (Yang He et al., ICLR 2024) [:octocat:](https://github.com/he-y/Multisize-Dataset-Condensation) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2024-04-18 [:book:](./citations/he2024mdc.txt)
 * [Can Pre-Trained Models Assist in Dataset Distillation?](https://arxiv.org/abs/2310.03295) (Yao Lu et al., 2023) [:octocat:](https://github.com/yaolu-zjut/DDInterpreter) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2024-05-28 [:book:](./citations/lu2023pre.txt)
 * [Data Distillation Can Be Like Vodka: Distilling More Times For Better Quality](https://arxiv.org/abs/2310.06982) (Xuxi Chen & Yu Yang et al., ICLR 2024) [:octocat:](https://github.com/VITA-Group/ProgressiveDD) ⭐ 15 | 🐛 2 | 🌐 Python | 📅 2024-05-18 [:book:](./citations/chen2024vodka.txt)
 * [Accelerating Dataset Distillation via Model Augmentation](https://arxiv.org/abs/2212.06152) (Lei Zhang & Jie Zhang et al., CVPR 2023) [:octocat:](https://github.com/ncsu-dk-lab/Acc-DD) ⭐ 14 | 🐛 3 | 🌐 Python | 📅 2023-04-21 [:book:](./citations/zhang2023accelerating.txt)
@@ -284,7 +284,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [Soft-Label Dataset Distillation and Text Dataset Distillation](https://arxiv.org/abs/1910.02551) (Ilia Sucholutsky et al., IJCNN 2021) [:octocat:](https://github.com/ilia10000/dataset-distillation) ⭐ 74 | 🐛 6 | 🌐 Python | 📅 2022-11-17 [:book:](./citations/sucholutsky2021soft.txt)
 * [Flexible Dataset Distillation: Learn Labels Instead of Images](https://arxiv.org/abs/2006.08572) (Ondrej Bohdal et al., NeurIPS 2020 Workshop) [:octocat:](https://github.com/ondrejbohdal/label-distillation) ⭐ 41 | 🐛 0 | 🌐 Python | 📅 2020-10-21 [:book:](./citations/bohdal2020flexible.txt)
 * [A Label is Worth a Thousand Images in Dataset Distillation](https://arxiv.org/abs/2406.10485) (Tian Qin et al., NeurIPS 2024) [:octocat:](https://github.com/sunnytqin/no-distillation) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2025-02-24 [:book:](./citations/qin2024label.txt)
-* [Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?](https://arxiv.org/abs/2410.15919) (Lingao Xiao et al., NeurIPS 2024) [:octocat:](https://github.com/he-y/soft-label-pruning-for-dataset-distillation) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2024-11-13 [:book:](./citations/xiao2024soft.txt)
+* [Are Large-scale Soft Labels Necessary for Large-scale Dataset Distillation?](https://arxiv.org/abs/2410.15919) (Lingao Xiao et al., NeurIPS 2024) [:octocat:](https://github.com/he-y/soft-label-pruning-for-dataset-distillation) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2024-11-13 [:book:](./citations/xiao2024soft.txt)
 * [GIFT: Unlocking Full Potential of Labels in Distilled Dataset at Near-zero Cost](https://arxiv.org/abs/2405.14736) (Xinyi Shang & Peng Sun et al., ICLR 2025) [:octocat:](https://github.com/LINs-lab/GIFT) ⭐ 10 | 🐛 2 | 🌐 Python | 📅 2025-12-26 [:book:](./citations/shang2025gift.txt)
 * [Soft Label Pruning and Quantization for Large-Scale Dataset Distillation](https://arxiv.org/abs/2604.18135) (Lingao Xiao et al., TPAMI 2026) [:octocat:](https://github.com/he-y/soft-label-pruning-quantization-for-dataset-distillation) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-04-18 [:book:](./citations/lingao2026lpqld.txt)
 * [DRUPI: Dataset Reduction Using Privileged Information](https://arxiv.org/abs/2410.01611) (Shaobo Wang et al., 2024) [:book:](./citations/wang2024drupi.txt)
@@ -338,7 +338,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-02-12 [:book:](./citations/choi2026multi.txt)
 * [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://arxiv.org/abs/2510.18583) (Yongmin Lee et al., NeurIPS 2025) [:octocat:](https://github.com/Yongalls/CovMatch) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2025-10-21 [:book:](./citations/lee2025covmatch.txt)
 * [Multimodal Dataset Distillation via Phased Teacher Models](https://arxiv.org/abs/2603.25388) (Shengbin Guo & Hang Zhao et al., ICLR 2026) [:octocat:](https://github.com/Previsior/PTM-ST) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-04-01 [:book:](./citations/guo2026ptmst.txt)
-* [Multimodal Distribution Matching for Vision-Language Dataset Distillation](https://arxiv.org/abs/2605.23482) (Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026) [:octocat:](https://github.com/andyj1/mdm) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-08-20 [:book:](./citations/jeong2026mdm.txt)
+* [Multimodal Distribution Matching for Vision-Language Dataset Distillation](https://arxiv.org/abs/2605.23482) (Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026) [:octocat:](https://github.com/andyj1/mdm) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-08-20 [:book:](./citations/jeong2026mdm.txt)
 * [Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation](https://arxiv.org/abs/2606.29464) (Jongoh Jeong et al., ECCV 2026) [:globe\_with\_meridians:](https://andyj1.github.io/raha/) [:octocat:](https://github.com/andyj1/raha) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-08 [:book:](./citations/jeong2026raha.txt)
 * [Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching](https://openreview.net/forum?id=Yh4dMR5mJ0) (Deyu Bo et al., ICML 2026) [:octocat:](https://github.com/bdy9527/MMDD) ⭐ 0 | 🐛 1 | 🌐 Python | 📅 2025-12-09 [:book:](./citations/bo2026apm.txt)
 * [Beyond Modality Collapse: Representations Blending for Multimodal Dataset Distillation](https://arxiv.org/abs/2505.14705) (Xin Zhang et al., NeurIPS 2025) [:book:](./citations/zhang2025mdd.txt)
@@ -764,4 +764,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._

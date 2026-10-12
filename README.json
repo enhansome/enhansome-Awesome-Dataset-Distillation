@@ -61,7 +61,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-26T05:36:29Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Guang000",
             "repo": "FD2",
             "stars": 4,
@@ -196,7 +196,7 @@
             "open_issues": 11,
             "owner": "ssnl",
             "repo": "dataset-distillation",
-            "stars": 830,
+            "stars": 831,
             "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
@@ -1799,7 +1799,7 @@
                 "open_issues": 2,
                 "owner": "he-y",
                 "repo": "you-only-condense-once",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -1820,7 +1820,7 @@
                 "open_issues": 1,
                 "owner": "he-y",
                 "repo": "Multisize-Dataset-Condensation",
-                "stars": 17,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2214,7 +2214,7 @@
                 "open_issues": 0,
                 "owner": "he-y",
                 "repo": "soft-label-pruning-for-dataset-distillation",
-                "stars": 12,
+                "stars": 11,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2861,7 +2861,7 @@
                 "open_issues": 0,
                 "owner": "andyj1",
                 "repo": "mdm",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T17:42:39.036Z",
+    "last_updated": "2026-10-12T21:19:08.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5280,7 +5280,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1975,
+      "stars": 1974,
       "topics": [
         "awesome-list",
         "deep-learning"
