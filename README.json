@@ -124,7 +124,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T20:16:21Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "andyj1",
             "repo": "raha",
             "stars": 1,
@@ -196,7 +196,7 @@
             "open_issues": 11,
             "owner": "ssnl",
             "repo": "dataset-distillation",
-            "stars": 831,
+            "stars": 832,
             "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
@@ -595,7 +595,7 @@
                 "open_issues": 2,
                 "owner": "gszfwsb",
                 "repo": "NCFM",
-                "stars": 412,
+                "stars": 413,
                 "topics": [
                   "computer-vision",
                   "data-centric-ai",
@@ -2879,7 +2879,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-08T20:16:21Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "andyj1",
                 "repo": "raha",
                 "stars": 1,
@@ -5225,7 +5225,7 @@
                 "open_issues": 2,
                 "owner": "QianfengY",
                 "repo": "UniRain",
-                "stars": 29,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T19:21:36.327Z",
+    "last_updated": "2026-10-14T17:20:03.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5280,7 +5280,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1974,
+      "stars": 1975,
       "topics": [
         "awesome-list",
         "deep-learning"
