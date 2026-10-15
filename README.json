@@ -844,7 +844,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2385,
+                "stars": 2386,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -879,7 +879,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2385,
+                "stars": 2386,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -2333,7 +2333,7 @@
                 "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "SRe2L",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "dataset-condensation",
                   "dataset-distillation",
@@ -2358,7 +2358,7 @@
                 "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "SRe2L",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "dataset-condensation",
                   "dataset-distillation",
@@ -2599,7 +2599,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-06-05T08:34:48Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "BeCarefulOfYournaoke",
                 "repo": "BPS",
                 "stars": 4,
@@ -2858,7 +2858,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-20T06:26:13Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "andyj1",
                 "repo": "mdm",
                 "stars": 4,
@@ -2931,7 +2931,7 @@
                 "open_issues": 1,
                 "owner": "VILA-Lab",
                 "repo": "SRe2L",
-                "stars": 141,
+                "stars": 142,
                 "topics": [
                   "dataset-condensation",
                   "dataset-distillation",
@@ -4035,7 +4035,7 @@
                     "open_issues": 0,
                     "owner": "Emory-Melody",
                     "repo": "awesome-graph-reduction",
-                    "stars": 188,
+                    "stars": 189,
                     "topics": [
                       "coreset-selection",
                       "dataset-distillation",
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:20:03.041Z",
+    "last_updated": "2026-10-15T17:09:20.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
