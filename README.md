@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,873 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,322 | 🐛 105 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-354-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -128,7 +128,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Distribution/Feature Matching Surrogate Objective
 
 * [Dataset Condensation with Distribution Matching](https://arxiv.org/abs/2110.04181) (Bo Zhao et al., WACV 2023) [:octocat:](https://github.com/VICO-UoE/DatasetCondensation) ⭐ 544 | 🐛 4 | 🌐 Python | 📅 2023-11-27 [:book:](./citations/zhao2023distribution.txt)
-* [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) ⭐ 413 | 🐛 2 | 🌐 Python | 📅 2026-06-03 [:book:](./citations/wang2025ncfm.txt)
+* [Dataset Distillation with Neural Characteristic Function: A Minmax Perspective](https://arxiv.org/abs/2502.20653) (Shaobo Wang et al., CVPR 2025) [:octocat:](https://github.com/gszfwsb/NCFM) ⭐ 412 | 🐛 2 | 🌐 Python | 📅 2026-06-03 [:book:](./citations/wang2025ncfm.txt)
 * [CAFE: Learning to Condense Dataset by Aligning Features](https://arxiv.org/abs/2203.01531) (Kai Wang & Bo Zhao et al., CVPR 2022) [:octocat:](https://github.com/kaiwang960112/cafe) ⭐ 73 | 🐛 1 | 🌐 Python | 📅 2023-12-12 [:book:](./citations/wang2022cafe.txt)
 * [Dataset Distillation via the Wasserstein Metric](https://arxiv.org/abs/2311.18531) (Haoyang Liu et al., ICCV 2025) [:globe\_with\_meridians:](https://liu-hy.github.io/WMDD/) [:octocat:](https://github.com/Liu-Hy/WMDD) ⭐ 57 | 🐛 0 | 🌐 Python | 📅 2026-03-08 [:book:](./citations/liu2025wasserstein.txt)
 * [DataDAM: Efficient Dataset Distillation with Attention Matching](https://arxiv.org/abs/2310.00093) (Ahmad Sajedi & Samir Khaki et al., ICCV 2023) [:globe\_with\_meridians:](https://datadistillation.github.io/DataDAM/) [:octocat:](https://github.com/DataDistillation/DataDAM) ⭐ 34 | 🐛 1 | 🌐 Python | 📅 2024-06-20 [:book:](./citations/sajedi2023datadam.txt)
@@ -334,8 +334,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [Vision-Language Dataset Distillation](https://arxiv.org/abs/2308.07545) (Xindi Wu et al., TMLR 2024) [:globe\_with\_meridians:](https://princetonvisualai.github.io/multimodal_dataset_distillation/) [:octocat:](https://github.com/princetonvisualai/multimodal_dataset_distillation) ⭐ 65 | 🐛 6 | 🌐 Python | 📅 2024-12-30 [:book:](./citations/wu2024multi.txt)
 * [Low-Rank Similarity Mining for Multimodal Dataset Distillation](https://arxiv.org/abs/2406.03793) (Yue Xu et al., ICML 2024) [:octocat:](https://github.com/silicx/LoRS_Distill) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2024-10-11 [:book:](./citations/xu2024lors.txt)
 * [Efficient Multimodal Dataset Distillation via Generative Models](https://arxiv.org/abs/2509.15472) (Zhenghao Zhao et al., NeurIPS 2025) [:octocat:](https://github.com/ichbill/EDGE) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2025-12-17 [:book:](./citations/zhao2025edge.txt)
+* [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-02-12 [:book:](./citations/choi2026multi.txt)
 * [Audio-Visual Dataset Distillation](https://openreview.net/forum?id=IJlbuSrXmk) (Saksham Singh Kushwaha et al., TMLR 2024) [:octocat:](https://github.com/sakshamsingh1/AVDD) ⭐ 8 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-04-14 [:book:](./citations/kush2024avdd.txt)
-* [Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis](https://arxiv.org/abs/2602.19756) (Junhyeok Choi et al., ICLR 2026) [:octocat:](https://github.com/junhyeok9712/PDS) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-02-12 [:book:](./citations/choi2026multi.txt)
 * [CovMatch: Cross-Covariance Guided Multimodal Dataset Distillation with Trainable Text Encoder](https://arxiv.org/abs/2510.18583) (Yongmin Lee et al., NeurIPS 2025) [:octocat:](https://github.com/Yongalls/CovMatch) ⭐ 7 | 🐛 2 | 🌐 Python | 📅 2025-10-21 [:book:](./citations/lee2025covmatch.txt)
 * [Multimodal Dataset Distillation via Phased Teacher Models](https://arxiv.org/abs/2603.25388) (Shengbin Guo & Hang Zhao et al., ICLR 2026) [:octocat:](https://github.com/Previsior/PTM-ST) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-04-01 [:book:](./citations/guo2026ptmst.txt)
 * [Multimodal Distribution Matching for Vision-Language Dataset Distillation](https://arxiv.org/abs/2605.23482) (Jongoh Jeong & Hoyong Kwon & Minseok Kim et al., CVPR 2026) [:octocat:](https://github.com/andyj1/mdm) ⭐ 4 | 🐛 1 | 🌐 Python | 📅 2026-08-20 [:book:](./citations/jeong2026mdm.txt)
@@ -764,4 +764,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

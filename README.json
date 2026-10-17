@@ -595,7 +595,7 @@
                 "open_issues": 2,
                 "owner": "gszfwsb",
                 "repo": "NCFM",
-                "stars": 413,
+                "stars": 412,
                 "topics": [
                   "computer-vision",
                   "data-centric-ai",
@@ -2763,27 +2763,6 @@
             },
             {
               "node_type": "item",
-              "title": "Audio-Visual Dataset Distillation",
-              "description": "(Saksham Singh Kushwaha et al., TMLR 2024) :octocat: :book:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[TMLR 2024] Audio Visual Dataset Distillation",
-                "homepage": null,
-                "id": 890647879,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2025-04-14T12:49:04Z",
-                "open_issues": 3,
-                "owner": "sakshamsingh1",
-                "repo": "AVDD",
-                "stars": 8,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:27:55.001Z"
-            },
-            {
-              "node_type": "item",
               "title": "Multimodal Dataset Distillation Made Simple by Prototype-Guided Data Synthesis",
               "description": "(Junhyeok Choi et al., ICLR 2026) :octocat: :book:",
               "children": [],
@@ -2798,6 +2777,27 @@
                 "open_issues": 0,
                 "owner": "junhyeok9712",
                 "repo": "PDS",
+                "stars": 9,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:27:55.001Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Audio-Visual Dataset Distillation",
+              "description": "(Saksham Singh Kushwaha et al., TMLR 2024) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[TMLR 2024] Audio Visual Dataset Distillation",
+                "homepage": null,
+                "id": 890647879,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2025-04-14T12:49:04Z",
+                "open_issues": 3,
+                "owner": "sakshamsingh1",
+                "repo": "AVDD",
                 "stars": 8,
                 "topics": []
               },
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:46:14.544Z",
+    "last_updated": "2026-10-17T15:42:58.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
