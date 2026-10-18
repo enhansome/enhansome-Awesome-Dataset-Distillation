@@ -1336,7 +1336,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-03-22T08:03:18Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "vimar-gu",
                     "repo": "MinimaxDiffusion",
                     "stars": 105,
@@ -1451,6 +1451,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Geometry-Aware Dataset Condensation for Diffusion Model Training",
+                  "description": "(Xiao Cui et al., ICML 2026) :octocat: :book:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Pytorch Implementation of \"Geometry-Aware Dataset Condensation for Diffusion Model Training\", ICML 2026",
+                    "homepage": null,
+                    "id": 1140977997,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-06-08T04:01:52Z",
+                    "open_issues": 0,
+                    "owner": "2018cx",
+                    "repo": "GADC",
+                    "stars": 12,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:27:55.001Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Generative Dataset Distillation Based on Diffusion Model",
                   "description": "(Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop) :octocat: :book:",
                   "children": [],
@@ -1493,27 +1514,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Geometry-Aware Dataset Condensation for Diffusion Model Training",
-                  "description": "(Xiao Cui et al., ICML 2026) :octocat: :book:",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Pytorch Implementation of \"Geometry-Aware Dataset Condensation for Diffusion Model Training\", ICML 2026",
-                    "homepage": null,
-                    "id": 1140977997,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-06-08T04:01:52Z",
-                    "open_issues": 0,
-                    "owner": "2018cx",
-                    "repo": "GADC",
-                    "stars": 10,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T22:27:55.001Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Unlocking Dataset Distillation with Diffusion Models",
                   "description": "(Brian B. Moser & Federico Raue et al., NeurIPS 2025) :octocat: :book:",
                   "children": [],
@@ -1535,6 +1535,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Dataset Condensation with Color Compensation",
+                  "description": "(Huyu Wu et al., TMLR 2025) :globe_with_meridians: :octocat: :book:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[TMLR 2025] Official implementation of \"Dataset Condensation with Color Compensation\" (DC3).",
+                    "homepage": null,
+                    "id": 1034372053,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-10-23T22:45:42Z",
+                    "open_issues": 1,
+                    "owner": "528why",
+                    "repo": "Dataset-Condensation-with-Color-Compensation",
+                    "stars": 8,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:27:55.001Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "EVLF: Early Vision-Language Fusion for Generative Dataset Distillation",
                   "description": "(Wenqi Cai et al., CVPR 2026) :globe_with_meridians: :octocat: :book:",
                   "children": [],
@@ -1550,27 +1571,6 @@
                     "owner": "wenqi-cai297",
                     "repo": "earlyfusion-for-dd",
                     "stars": 8,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T22:27:55.001Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Dataset Condensation with Color Compensation",
-                  "description": "(Huyu Wu et al., TMLR 2025) :globe_with_meridians: :octocat: :book:",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[TMLR 2025] Official implementation of \"Dataset Condensation with Color Compensation\" (DC3).",
-                    "homepage": null,
-                    "id": 1034372053,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-10-23T22:45:42Z",
-                    "open_issues": 1,
-                    "owner": "528why",
-                    "repo": "Dataset-Condensation-with-Color-Compensation",
-                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -3579,7 +3579,7 @@
                 "open_issues": 4,
                 "owner": "zj-jayzhang",
                 "repo": "DENSE",
-                "stars": 34,
+                "stars": 33,
                 "topics": [
                   "federated-learning"
                 ]
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T15:42:58.851Z",
+    "last_updated": "2026-10-18T15:58:25.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5277,10 +5277,10 @@
       "language": "HTML",
       "license": "MIT",
       "last_commit": "2026-10-09T08:23:24Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1975,
+      "stars": 1976,
       "topics": [
         "awesome-list",
         "deep-learning"
