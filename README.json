@@ -2056,7 +2056,7 @@
                 "id": 307222796,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T21:32:11Z",
+                "last_commit": "2026-10-21T21:14:00Z",
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T17:21:25.106Z",
+    "last_updated": "2026-10-22T17:18:51.048Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
