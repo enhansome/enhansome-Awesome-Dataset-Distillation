@@ -642,7 +642,7 @@
                 "open_issues": 0,
                 "owner": "Liu-Hy",
                 "repo": "WMDD",
-                "stars": 57,
+                "stars": 56,
                 "topics": [
                   "dataset-distillation",
                   "distillation",
@@ -2056,11 +2056,11 @@
                 "id": 307222796,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-21T21:14:00Z",
+                "last_commit": "2026-10-22T23:00:03Z",
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2904,
+                "stars": 2905,
                 "topics": [
                   "3d",
                   "aes",
@@ -4035,7 +4035,7 @@
                     "open_issues": 0,
                     "owner": "Emory-Melody",
                     "repo": "awesome-graph-reduction",
-                    "stars": 189,
+                    "stars": 190,
                     "topics": [
                       "coreset-selection",
                       "dataset-distillation",
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T17:18:51.048Z",
+    "last_updated": "2026-10-23T17:16:27.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
