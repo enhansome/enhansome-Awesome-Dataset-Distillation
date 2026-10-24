@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T17:16:27.117Z",
+    "last_updated": "2026-10-24T16:03:43.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5280,7 +5280,7 @@
       "open_issues": 2,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1978,
+      "stars": 1979,
       "topics": [
         "awesome-list",
         "deep-learning"
