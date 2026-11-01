@@ -1598,27 +1598,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling",
-                  "description": "(Mingzhuo Li & Guang Li et al., ICCV 2025 Workshop) :octocat: :book:",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling, the ICCV 2025 Workshop on CDEL",
-                    "homepage": null,
-                    "id": 1021224586,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-09-09T23:59:36Z",
-                    "open_issues": 0,
-                    "owner": "SumomoTaku",
-                    "repo": "DiffGuideSamp",
-                    "stars": 4,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T22:27:55.001Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "ManifoldGD: Training-Free Hierarchical Manifold Guidance for Diffusion-Based Dataset Distillation",
                   "description": "(Ayush Roy et al., CVPR 2026) :octocat: :book:",
                   "children": [],
@@ -1633,6 +1612,27 @@
                     "open_issues": 0,
                     "owner": "AyushRoy2001",
                     "repo": "ManifoldGD",
+                    "stars": 5,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:27:55.001Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling",
+                  "description": "(Mingzhuo Li & Guang Li et al., ICCV 2025 Workshop) :octocat: :book:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Task-Specific Generative Dataset Distillation with Difficulty-Guided Sampling, the ICCV 2025 Workshop on CDEL",
+                    "homepage": null,
+                    "id": 1021224586,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-09-09T23:59:36Z",
+                    "open_issues": 0,
+                    "owner": "SumomoTaku",
+                    "repo": "DiffGuideSamp",
                     "stars": 4,
                     "topics": []
                   },
@@ -3865,7 +3865,7 @@
                 "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "GEOM",
-                "stars": 25,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5268,7 +5268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:16:26.328Z",
+    "last_updated": "2026-11-01T17:58:16.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
