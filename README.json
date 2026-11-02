@@ -5,174 +5,87 @@
       "items": [
         {
           "node_type": "item",
-          "title": "[2026/07/07] Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift",
-          "description": "(Jiacheng Cui et al., ICML 2026) :octocat: :book:",
+          "title": "[2026/11/02] DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
+          "description": "(Zekai Li & Xinhao Zhong et al., NeurIPS 2026) :globe_with_meridians: :octocat: :book:",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Hard Labels In! Rethinking the Role of Hard Labels in Mitigating Local Semantic Drift (ICML 2026)",
-            "homepage": null,
-            "id": 1115211599,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-05-01T10:41:57Z",
+            "description": "Data distillation benchmark",
+            "homepage": "https://nus-hpc-ai-lab.github.io/DD-Ranking/",
+            "id": 899403435,
+            "language": "HTML",
+            "license": "NOASSERTION",
+            "last_commit": "2025-06-13T16:23:37Z",
             "open_issues": 0,
-            "owner": "Jiacheng8",
-            "repo": "HALD",
-            "stars": 8,
-            "topics": [
-              "dataset-distillation",
-              "label-usage"
-            ]
-          },
-          "first_seen": "2026-08-28T22:27:55.001Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[2026/07/08] Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation",
-          "description": "(Hyun-Kurl Jang & Jihun Kim & Hyeokjun Kweon et al., ECCV 2026) :octocat: :book:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Official codebase for ECCV 2026 paper \"Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation\"",
-            "homepage": null,
-            "id": 1273350412,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-06-24T04:50:17Z",
-            "open_issues": 1,
-            "owner": "blue-531",
-            "repo": "DOALL",
-            "stars": 6,
+            "owner": "NUS-HPC-AI-Lab",
+            "repo": "DD-Ranking",
+            "stars": 72,
             "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
         },
         {
           "node_type": "item",
-          "title": "[2026/07/08] FD2: A Dedicated Framework for Fine-Grained Dataset Distillation",
-          "description": "(Hongxu Ma & Guang Li et al., ECCV 2026) :globe_with_meridians: :octocat: :book:",
+          "title": "[2026/11/02] Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching",
+          "description": "(Qianxin Xia et al., NeurIPS 2026) :octocat: :book:",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "FD²: A Dedicated Framework for Fine-Grained Dataset Distillation (ECCV 2026)",
-            "homepage": "https://guang000.github.io/FD2-Webpage/",
-            "id": 1273391441,
+            "description": "Official implementation of \"Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching\" (Accepted by NeurIPS 2026).",
+            "homepage": null,
+            "id": 1385929478,
             "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-09-26T05:36:29Z",
-            "open_issues": 2,
-            "owner": "Guang000",
-            "repo": "FD2",
+            "license": null,
+            "last_commit": "2026-10-16T06:28:35Z",
+            "open_issues": 0,
+            "owner": "einsteinxia",
+            "repo": "SFM",
             "stars": 4,
             "topics": []
           },
-          "first_seen": "2026-08-28T22:27:55.001Z"
+          "first_seen": "2026-11-02T21:47:13.492Z"
         },
         {
           "node_type": "item",
-          "title": "[2026/07/08] Condensing Large-Scale Datasets Directly with Minimal Information Loss",
-          "description": "(Xinyi Shang & Peng Sun & Bei Shi et al., ECCV 2026) :octocat: :book:",
+          "title": "[2026/11/02] S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
+          "description": "(Haoyu Wang et al., NeurIPS 2026) :globe_with_meridians: :octocat: :book:",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "[ECCV 2026] Condensing Large-Scale Datasets Directly with Minimal Information Loss",
-            "homepage": null,
-            "id": 1283793132,
+            "description": "[NeurIPS 2026] S²-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
+            "homepage": "https://00why00.github.io/S2RL/",
+            "id": 1403286557,
             "language": "Python",
-            "license": null,
-            "last_commit": "2026-06-29T12:49:24Z",
-            "open_issues": 1,
-            "owner": "LINs-lab",
-            "repo": "CIM",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:27:55.001Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[2026/07/07] Set-Coupled Guidance: Set-Level Coordination in Diffusion-Based Dataset Distillation",
-          "description": "(Ziang Gan et al., ICML 2026) :octocat: :book:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1235769298,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-07-27T07:43:56Z",
+            "license": "MIT",
+            "last_commit": "2026-10-27T05:44:30Z",
             "open_issues": 0,
-            "owner": "tade1s",
-            "repo": "SCG",
+            "owner": "00why00",
+            "repo": "S2RL",
             "stars": 2,
             "topics": []
           },
-          "first_seen": "2026-08-28T22:27:55.001Z"
+          "first_seen": "2026-11-02T21:47:13.492Z"
         },
         {
           "node_type": "item",
-          "title": "[2026/07/08] Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation",
-          "description": "(Jongoh Jeong et al., ECCV 2026) :globe_with_meridians: :octocat: :book:",
+          "title": "[2026/11/02] Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models",
+          "description": "(Bincheng Peng & Guang Li et al., NeurIPS 2026) :globe_with_meridians: :octocat: :book:",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Official repository for \"Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation\" (ECCV 2026)",
-            "homepage": "https://andyj1.github.io/raha/",
-            "id": 1275701253,
-            "language": "Python",
+            "description": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models (NeurIPS 2026)",
+            "homepage": "https://guang000.github.io/CLP-DD-Webpage/",
+            "id": 1328869416,
+            "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-27T02:37:17Z",
+            "last_commit": "2026-09-26T05:40:14Z",
             "open_issues": 0,
-            "owner": "andyj1",
-            "repo": "raha",
-            "stars": 1,
+            "owner": "Guang000",
+            "repo": "CLP-DD",
+            "stars": 2,
             "topics": []
           },
-          "first_seen": "2026-08-28T22:27:55.001Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[2026/07/07] One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis",
-          "description": "(Wei Shao et al., ICML 2026) :octocat: :book:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[ICML26] One Batch Is Enough: A Unified Dataset Condensation Framework for General Time Series Analysis",
-            "homepage": null,
-            "id": 1241334285,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2026-05-17T08:54:10Z",
-            "open_issues": 0,
-            "owner": "ZJU-DAILY",
-            "repo": "UniTSC",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:27:55.001Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[2026/07/07] Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
-          "description": "(Deyu Bo et al., ICML 2026) :octocat: :book:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Efficient Multi-modal Dataset Distillation via Analytic Parameter Matching",
-            "homepage": null,
-            "id": 1108834084,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-12-09T03:32:29Z",
-            "open_issues": 1,
-            "owner": "bdy9527",
-            "repo": "MMDD",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:27:55.001Z"
+          "first_seen": "2026-11-02T21:47:13.492Z"
         }
       ],
       "title": "Latest Updates"
@@ -2907,6 +2820,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Fragmented Text is Insufficient for Image Representation: Fine-Grained Correspondence in Multimodal Dataset Distillation",
+              "description": "(Jingwei Fang et al., ECCV 2026) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1277672531,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-06-23T05:09:35Z",
+                "open_issues": 0,
+                "owner": "yiqiqiandefanhua",
+                "repo": "P2DE",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-11-02T21:47:13.492Z"
             }
           ],
           "description": null,
@@ -3005,6 +2939,27 @@
             },
             {
               "node_type": "item",
+              "title": "Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching",
+              "description": "(Qianxin Xia et al., NeurIPS 2026) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of \"Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching\" (Accepted by NeurIPS 2026).",
+                "homepage": null,
+                "id": 1385929478,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-10-16T06:28:35Z",
+                "open_issues": 0,
+                "owner": "einsteinxia",
+                "repo": "SFM",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-11-02T21:47:13.492Z"
+            },
+            {
+              "node_type": "item",
               "title": "Dataset Distillation via Knowledge Distillation: Towards Efficient Self-Supervised Pre-Training of Deep Networks",
               "description": "(Siddharth Joshi et al., ICLR 2025) :octocat: :book:",
               "children": [],
@@ -3023,6 +2978,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models",
+              "description": "(Bincheng Peng & Guang Li et al., NeurIPS 2026) :globe_with_meridians: :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models (NeurIPS 2026)",
+                "homepage": "https://guang000.github.io/CLP-DD-Webpage/",
+                "id": 1328869416,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2026-09-26T05:40:14Z",
+                "open_issues": 0,
+                "owner": "Guang000",
+                "repo": "CLP-DD",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-02T21:47:13.492Z"
             }
           ],
           "description": null,
@@ -3055,7 +3031,7 @@
             {
               "node_type": "item",
               "title": "DD-Ranking: Rethinking the Evaluation of Dataset Distillation",
-              "description": "(Zekai Li & Xinhao Zhong et al., 2025) :globe_with_meridians: :octocat: :book:",
+              "description": "(Zekai Li & Xinhao Zhong et al., NeurIPS 2026) :globe_with_meridians: :octocat: :book:",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4112,7 +4088,7 @@
                     "id": 760524195,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T15:43:02Z",
+                    "last_commit": "2026-11-02T20:44:14Z",
                     "open_issues": 0,
                     "owner": "Emory-Melody",
                     "repo": "GraphSlim",
@@ -5262,13 +5238,41 @@
           "description": null,
           "node_type": "group",
           "title": "Test-Time Adaptation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
+              "description": "(Haoyu Wang et al., NeurIPS 2026) :globe_with_meridians: :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[NeurIPS 2026] S²-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
+                "homepage": "https://00why00.github.io/S2RL/",
+                "id": 1403286557,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-27T05:44:30Z",
+                "open_issues": 0,
+                "owner": "00why00",
+                "repo": "S2RL",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-11-02T21:47:13.492Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Semantic Segmentation"
         }
       ],
       "title": "Applications"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:58:16.445Z",
+    "last_updated": "2026-11-02T21:47:13.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5276,17 +5280,17 @@
       "id": 501453265,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-10-21T13:34:43Z",
-      "open_issues": 3,
+      "last_commit": "2026-11-02T13:34:46Z",
+      "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1980,
+      "stars": 1981,
       "topics": [
         "awesome-list",
         "deep-learning"
       ]
     },
-    "original_repository_sha": "6d5391f982e1f3ae613b6076da8c8c2aee70790d",
+    "original_repository_sha": "4837e61b7adfd7b65675f29aa7b9772508be31a8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Dataset Distillation with stars"
