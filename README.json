@@ -1973,7 +1973,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2910,
+                "stars": 2912,
                 "topics": [
                   "3d",
                   "aes",
@@ -2690,7 +2690,7 @@
                 "open_issues": 0,
                 "owner": "junhyeok9712",
                 "repo": "PDS",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -3380,7 +3380,7 @@
                 "open_issues": 1,
                 "owner": "openmedlab",
                 "repo": "BrainMVP",
-                "stars": 91,
+                "stars": 92,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -3774,7 +3774,7 @@
                 "open_issues": 11,
                 "owner": "ChandlerBang",
                 "repo": "GCond",
-                "stars": 147,
+                "stars": 148,
                 "topics": [
                   "data-efficient-learning",
                   "dataset-distillation",
@@ -3869,6 +3869,27 @@
             },
             {
               "node_type": "item",
+              "title": "CaT: Balanced Continual Graph Learning with Graph Condensation",
+              "description": "(Yilun Liu et al., ICDM 2023) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 687253626,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2023-12-21T02:56:17Z",
+                "open_issues": 1,
+                "owner": "superallen13",
+                "repo": "CaT-CGL",
+                "stars": 16,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:27:55.001Z"
+            },
+            {
+              "node_type": "item",
               "title": "Graph Distillation with Eigenbasis Matching",
               "description": "(Yang Liu & Deyu Bo et al., ICML 2024) :octocat: :book:",
               "children": [],
@@ -3884,27 +3905,6 @@
                 "owner": "liuyang-tian",
                 "repo": "GDEM",
                 "stars": 16,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:27:55.001Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CaT: Balanced Continual Graph Learning with Graph Condensation",
-              "description": "(Yilun Liu et al., ICDM 2023) :octocat: :book:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 687253626,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2023-12-21T02:56:17Z",
-                "open_issues": 1,
-                "owner": "superallen13",
-                "repo": "CaT-CGL",
-                "stars": 15,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -4008,10 +4008,10 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2026-10-30T00:08:06Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "Emory-Melody",
                     "repo": "awesome-graph-reduction",
-                    "stars": 190,
+                    "stars": 191,
                     "topics": [
                       "coreset-selection",
                       "dataset-distillation",
@@ -4088,7 +4088,7 @@
                     "id": 760524195,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T20:44:14Z",
+                    "last_commit": "2026-11-03T18:15:22Z",
                     "open_issues": 0,
                     "owner": "Emory-Melody",
                     "repo": "GraphSlim",
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T21:47:13.492Z",
+    "last_updated": "2026-11-03T19:36:32.847Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
