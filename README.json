@@ -1889,6 +1889,27 @@
             },
             {
               "node_type": "item",
+              "title": "Dataset Distillation by Influence Matching",
+              "description": "(Haoru Tan & Wang Wang et al., CVPR 2026) :octocat: :book:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[CVPR-2026] The PyTorch Implementation of InfMatch. The algorithms are based on our paper: \"Dataset Distillation by Influence Matching\". We propose a novel framework for dataset distillation based on influence matching. This approach differs from prior methods that rely on feature, trajectory, or gradient matching.",
+                "homepage": null,
+                "id": 1298907274,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-18T08:26:19Z",
+                "open_issues": 1,
+                "owner": "hrtan",
+                "repo": "infmatch",
+                "stars": 2,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T22:27:55.001Z"
+            },
+            {
+              "node_type": "item",
               "title": "Large Scale Dataset Distillation with Domain Shift",
               "description": "(Noel Loo & Alaa Maalouf et al., ICML 2024) :octocat: :book:",
               "children": [],
@@ -1924,27 +1945,6 @@
                 "open_issues": 0,
                 "owner": "ndhg1213",
                 "repo": "CMIDD",
-                "stars": 1,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T22:27:55.001Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Dataset Distillation by Influence Matching",
-              "description": "(Haoru Tan & Wang Wang et al., CVPR 2026) :octocat: :book:",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[CVPR-2026] The PyTorch Implementation of InfMatch. The algorithms are based on our paper: \"Dataset Distillation by Influence Matching\". We propose a novel framework for dataset distillation based on influence matching. This approach differs from prior methods that rely on feature, trajectory, or gradient matching.",
-                "homepage": null,
-                "id": 1298907274,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-18T08:26:19Z",
-                "open_issues": 1,
-                "owner": "hrtan",
-                "repo": "infmatch",
                 "stars": 1,
                 "topics": []
               },
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T19:53:05.891Z",
+    "last_updated": "2026-11-05T20:05:37.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5284,7 +5284,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1981,
+      "stars": 1982,
       "topics": [
         "awesome-list",
         "deep-learning"
