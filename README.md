@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,333 | 🐛 103 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-370-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,041 | 🐛 103 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-370-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -107,7 +107,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 * [Dataset Distillation by Matching Training Trajectories](https://arxiv.org/abs/2203.11932) (George Cazenavette et al., CVPR 2022) [:globe\_with\_meridians:](https://georgecazenavette.github.io/mtt-distillation/) [:octocat:](https://github.com/georgecazenavette/mtt-distillation) ⭐ 441 | 🐛 9 | 🌐 Python | 📅 2024-07-16 [:book:](./citations/cazenavette2022dataset.txt)
 * [Minimizing the Accumulated Trajectory Error to Improve Dataset Distillation](https://arxiv.org/abs/2211.11004) (Jiawei Du & Yidi Jiang et al., CVPR 2023) [:octocat:](https://github.com/AngusDujw/FTD-distillation) ⭐ 40 | 🐛 3 | 🌐 Python | 📅 2023-03-25 [:book:](./citations/du2023minimizing.txt)
 * [Scaling Up Dataset Distillation to ImageNet-1K with Constant Memory](https://arxiv.org/abs/2211.10586) (Justin Cui et al., ICML 2023) [:octocat:](https://github.com/justincui03/tesla) ⭐ 30 | 🐛 4 | 🌐 Python | 📅 2024-04-12 [:book:](./citations/cui2022scaling.txt)
-* [Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios](https://arxiv.org/abs/2410.17193) (Kai Wang & Zekai Li et al., CVPR 2025) [:octocat:](https://github.com/NUS-HPC-AI-Lab/EDF) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2024-11-16 [:book:](./citations/wang2025edf.txt)
+* [Emphasizing Discriminative Features for Dataset Distillation in Complex Scenarios](https://arxiv.org/abs/2410.17193) (Kai Wang & Zekai Li et al., CVPR 2025) [:octocat:](https://github.com/NUS-HPC-AI-Lab/EDF) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2024-11-16 [:book:](./citations/wang2025edf.txt)
 * [Dataset Condensation with Contrastive Signals](https://arxiv.org/abs/2202.02916) (Saehyung Lee et al., ICML 2022) [:octocat:](https://github.com/saehyung-lee/dcc) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2022-06-08 [:book:](./citations/lee2022dataset.txt)
 * [Loss-Curvature Matching for Dataset Selection and Condensation](https://arxiv.org/abs/2303.04449) (Seungjae Shin & Heesun Bae et al., AISTATS 2023) [:octocat:](https://github.com/SJShin-AI/LCMat) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2023-03-14 [:book:](./citations/shin2023lcmat.txt)
 * [Prioritize Alignment in Dataset Distillation](https://arxiv.org/abs/2408.03360) (Zekai Li & Ziyao Guo et al., 2024) [:octocat:](https://github.com/NUS-HPC-AI-Lab/PAD) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2024-12-03 [:book:](./citations/li2024pad.txt)
@@ -256,7 +256,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Better Understanding
 
-* [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) ⭐ 2,911 | 🐛 0 | 🌐 Python | 📅 2026-10-22 [:book:](./citations/lorraine2020optimizing.txt)
+* [Optimizing Millions of Hyperparameters by Implicit Differentiation](https://arxiv.org/abs/1911.02590) (Jonathan Lorraine et al., AISTATS 2020) [:octocat:](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Optimizing_Millions_of_Hyperparameters_by_Implicit_Differentiation) ⭐ 2,912 | 🐛 0 | 🌐 Python | 📅 2026-10-22 [:book:](./citations/lorraine2020optimizing.txt)
 * [Flowing Datasets with Wasserstein over Wasserstein Gradient Flows](https://arxiv.org/abs/2506.07534) (Clément Bonet & Christophe Vauthier et al., ICML 2025) [:octocat:](https://github.com/clbonet/Flowing_Datasets_with_WoW_Gradient_Flows) ⭐ 21 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-05-21 [:book:](./citations/bonet2025flowing.txt)
 * [What is Dataset Distillation Learning?](https://arxiv.org/abs/2406.04284) (William Yang et al., ICML 2024) [:octocat:](https://github.com/princetonvisualai/What-is-Dataset-Distillation-Learning) ⭐ 18 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-06-14 [:book:](./citations/yang2024learning.txt)
 * [On Implicit Bias in Overparameterized Bilevel Optimization](https://proceedings.mlr.press/v162/vicol22a.html) (Paul Vicol et al., ICML 2022) [:book:](./citations/vicol2022implicit.txt)
@@ -504,7 +504,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 #### Benchmark
 
-* [GC-Bench: A Benchmark Framework for Graph Condensation with New Insights](https://arxiv.org/abs/2406.16715) (Shengbo Gong & Juntong Ni et al., 2024) [:octocat:](https://github.com/Emory-Melody/GraphSlim) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-11-06 [:book:](./citations/gong2024graphslim.txt)
+* [GC-Bench: A Benchmark Framework for Graph Condensation with New Insights](https://arxiv.org/abs/2406.16715) (Shengbo Gong & Juntong Ni et al., 2024) [:octocat:](https://github.com/Emory-Melody/GraphSlim) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-11-07 [:book:](./citations/gong2024graphslim.txt)
 * [GC-Bench: An Open and Unified Benchmark for Graph Condensation](https://arxiv.org/abs/2407.00615) (Qingyun Sun & Ziying Chen et al., NeurIPS 2024) [:octocat:](https://github.com/RingBDStack/GC-Bench) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-08-15 [:book:](./citations/sun2024gcbench.txt)
 * [GCondenser: Benchmarking Graph Condensation](https://arxiv.org/abs/2405.14246) (Yilun Liu et al., 2024) [:octocat:](https://github.com/superallen13/GCondenser) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-06-18 [:book:](./citations/liu2024gcondenser.txt)
 
@@ -779,4 +779,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

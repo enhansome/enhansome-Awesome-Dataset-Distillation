@@ -270,7 +270,7 @@
                 "open_issues": 0,
                 "owner": "NUS-HPC-AI-Lab",
                 "repo": "EDF",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -1973,7 +1973,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2911,
+                "stars": 2912,
                 "topics": [
                   "3d",
                   "aes",
@@ -4088,7 +4088,7 @@
                     "id": 760524195,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-06T19:31:22Z",
+                    "last_commit": "2026-11-07T07:32:12Z",
                     "open_issues": 0,
                     "owner": "Emory-Melody",
                     "repo": "GraphSlim",
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:31:29.208Z",
+    "last_updated": "2026-11-07T17:46:23.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5284,7 +5284,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1983,
+      "stars": 1982,
       "topics": [
         "awesome-list",
         "deep-learning"
