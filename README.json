@@ -109,7 +109,7 @@
             "open_issues": 11,
             "owner": "ssnl",
             "repo": "dataset-distillation",
-            "stars": 832,
+            "stars": 833,
             "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:30:11.181Z",
+    "last_updated": "2026-11-10T19:51:27.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5284,7 +5284,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1983,
+      "stars": 1984,
       "topics": [
         "awesome-list",
         "deep-learning"
