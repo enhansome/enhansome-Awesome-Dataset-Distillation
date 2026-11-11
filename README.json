@@ -645,7 +645,7 @@
                 "open_issues": 0,
                 "owner": "Guang000",
                 "repo": "HDD",
-                "stars": 13,
+                "stars": 12,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -921,7 +921,7 @@
                 "open_issues": 3,
                 "owner": "Huage001",
                 "repo": "DatasetFactorization",
-                "stars": 67,
+                "stars": 68,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -1364,27 +1364,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Geometry-Aware Dataset Condensation for Diffusion Model Training",
-                  "description": "(Xiao Cui et al., ICML 2026) :octocat: :book:",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Pytorch Implementation of \"Geometry-Aware Dataset Condensation for Diffusion Model Training\", ICML 2026",
-                    "homepage": null,
-                    "id": 1140977997,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-06-08T04:01:52Z",
-                    "open_issues": 0,
-                    "owner": "2018cx",
-                    "repo": "GADC",
-                    "stars": 12,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T22:27:55.001Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Generative Dataset Distillation Based on Diffusion Model",
                   "description": "(Duo Su & Junjie Hou & Guang Li et al., ECCV 2024 Workshop) :octocat: :book:",
                   "children": [],
@@ -1399,6 +1378,27 @@
                     "open_issues": 0,
                     "owner": "Guang000",
                     "repo": "Generative-Dataset-Distillation-Based-on-Diffusion-Model",
+                    "stars": 11,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:27:55.001Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Geometry-Aware Dataset Condensation for Diffusion Model Training",
+                  "description": "(Xiao Cui et al., ICML 2026) :octocat: :book:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Pytorch Implementation of \"Geometry-Aware Dataset Condensation for Diffusion Model Training\", ICML 2026",
+                    "homepage": null,
+                    "id": 1140977997,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-06-08T04:01:52Z",
+                    "open_issues": 0,
+                    "owner": "2018cx",
+                    "repo": "GADC",
                     "stars": 11,
                     "topics": []
                   },
@@ -1525,7 +1525,7 @@
                     "open_issues": 0,
                     "owner": "AyushRoy2001",
                     "repo": "ManifoldGD",
-                    "stars": 5,
+                    "stars": 6,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T19:51:27.917Z",
+    "last_updated": "2026-11-11T19:42:45.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5284,7 +5284,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1984,
+      "stars": 1983,
       "topics": [
         "awesome-list",
         "deep-learning"
