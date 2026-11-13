@@ -1301,6 +1301,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Influence-Guided Diffusion for Dataset Distillation",
+                  "description": "(Mingyang Chen et al., ICLR 2025) :octocat: :book:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "[ICLR 2025] Official repository for the paper \"Influence-Guided Diffusion for Dataset Distillation\".",
+                    "homepage": null,
+                    "id": 928303950,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2025-02-12T14:59:35Z",
+                    "open_issues": 4,
+                    "owner": "mchen725",
+                    "repo": "DD_IGD",
+                    "stars": 17,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T22:27:55.001Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Taming Diffusion for Dataset Distillation with High Representativeness",
                   "description": "(Lin Zhao et al., ICML 2025) :octocat: :book:",
                   "children": [],
@@ -1337,27 +1358,6 @@
                     "owner": "zou-yawen",
                     "repo": "Dataset-Distillation-via-Vision-Language-Category-Prototype",
                     "stars": 17,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T22:27:55.001Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Influence-Guided Diffusion for Dataset Distillation",
-                  "description": "(Mingyang Chen et al., ICLR 2025) :octocat: :book:",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "[ICLR 2025] Official repository for the paper \"Influence-Guided Diffusion for Dataset Distillation\".",
-                    "homepage": null,
-                    "id": 928303950,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-02-12T14:59:35Z",
-                    "open_issues": 4,
-                    "owner": "mchen725",
-                    "repo": "DD_IGD",
-                    "stars": 16,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -1973,7 +1973,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2913,
+                "stars": 2914,
                 "topics": [
                   "3d",
                   "aes",
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:06:03.662Z",
+    "last_updated": "2026-11-13T19:51:28.835Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5284,7 +5284,7 @@
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1983,
+      "stars": 1982,
       "topics": [
         "awesome-list",
         "deep-learning"
