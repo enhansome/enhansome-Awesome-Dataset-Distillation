@@ -202,7 +202,7 @@
                 "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 441,
+                "stars": 442,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -4223,7 +4223,7 @@
                 "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 441,
+                "stars": 442,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T18:57:35.970Z",
+    "last_updated": "2026-11-16T22:17:47.665Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5280,7 +5280,7 @@
       "id": 501453265,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-11-02T13:34:46Z",
+      "last_commit": "2026-11-16T14:02:11Z",
       "open_issues": 0,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
@@ -5290,7 +5290,7 @@
         "deep-learning"
       ]
     },
-    "original_repository_sha": "4837e61b7adfd7b65675f29aa7b9772508be31a8",
+    "original_repository_sha": "e74bd820828a7f04a2ba035e04e7efea1a87dab0",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Dataset Distillation with stars"
