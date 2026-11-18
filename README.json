@@ -1047,7 +1047,7 @@
                 "open_issues": 1,
                 "owner": "aailab-kaist",
                 "repo": "DDiF",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2792,7 +2792,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-27T02:37:17Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "andyj1",
                 "repo": "raha",
                 "stars": 1,
@@ -4011,7 +4011,7 @@
                     "open_issues": 1,
                     "owner": "Emory-Melody",
                     "repo": "awesome-graph-reduction",
-                    "stars": 191,
+                    "stars": 190,
                     "topics": [
                       "coreset-selection",
                       "dataset-distillation",
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T21:03:51.196Z",
+    "last_updated": "2026-11-18T20:41:09.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5284,7 +5284,7 @@
       "open_issues": 1,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1983,
+      "stars": 1984,
       "topics": [
         "awesome-list",
         "deep-learning"
