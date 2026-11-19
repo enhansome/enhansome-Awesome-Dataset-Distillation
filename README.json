@@ -61,7 +61,7 @@
             "open_issues": 0,
             "owner": "00why00",
             "repo": "S2RL",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-11-02T21:47:13.492Z"
@@ -508,7 +508,7 @@
                 "open_issues": 2,
                 "owner": "gszfwsb",
                 "repo": "NCFM",
-                "stars": 412,
+                "stars": 413,
                 "topics": [
                   "computer-vision",
                   "data-centric-ai",
@@ -1521,7 +1521,7 @@
                     "id": 1166027188,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-06-27T22:37:17Z",
+                    "last_commit": "2026-11-19T02:19:17Z",
                     "open_issues": 0,
                     "owner": "AyushRoy2001",
                     "repo": "ManifoldGD",
@@ -1973,7 +1973,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2915,
+                "stars": 2916,
                 "topics": [
                   "3d",
                   "aes",
@@ -5257,7 +5257,7 @@
                 "open_issues": 0,
                 "owner": "00why00",
                 "repo": "S2RL",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-11-02T21:47:13.492Z"
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:41:09.389Z",
+    "last_updated": "2026-11-19T20:47:46.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5280,17 +5280,17 @@
       "id": 501453265,
       "language": "HTML",
       "license": "MIT",
-      "last_commit": "2026-11-16T14:02:11Z",
+      "last_commit": "2026-11-19T05:22:40Z",
       "open_issues": 1,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1984,
+      "stars": 1985,
       "topics": [
         "awesome-list",
         "deep-learning"
       ]
     },
-    "original_repository_sha": "e74bd820828a7f04a2ba035e04e7efea1a87dab0",
+    "original_repository_sha": "376868ae7e40303689edf4e1a49d4b8013d24fed",
     "enhanced_repository": "enhansome/enhansome-Awesome-Dataset-Distillation",
     "enhanced_repository_description": null,
     "title": "Awesome Dataset Distillation with stars"
