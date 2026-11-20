@@ -26,6 +26,27 @@
         },
         {
           "node_type": "item",
+          "title": "[2026/11/02] S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
+          "description": "(Haoyu Wang et al., NeurIPS 2026) :globe_with_meridians: :octocat: :book:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "[NeurIPS 2026] S²-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
+            "homepage": "https://00why00.github.io/S2RL/",
+            "id": 1403286557,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-27T05:44:30Z",
+            "open_issues": 0,
+            "owner": "00why00",
+            "repo": "S2RL",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T21:47:13.492Z"
+        },
+        {
+          "node_type": "item",
           "title": "[2026/11/02] Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching",
           "description": "(Qianxin Xia et al., NeurIPS 2026) :octocat: :book:",
           "children": [],
@@ -41,27 +62,6 @@
             "owner": "einsteinxia",
             "repo": "SFM",
             "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-11-02T21:47:13.492Z"
-        },
-        {
-          "node_type": "item",
-          "title": "[2026/11/02] S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
-          "description": "(Haoyu Wang et al., NeurIPS 2026) :globe_with_meridians: :octocat: :book:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "[NeurIPS 2026] S²-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation",
-            "homepage": "https://00why00.github.io/S2RL/",
-            "id": 1403286557,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-27T05:44:30Z",
-            "open_issues": 0,
-            "owner": "00why00",
-            "repo": "S2RL",
-            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-11-02T21:47:13.492Z"
@@ -109,7 +109,7 @@
             "open_issues": 11,
             "owner": "ssnl",
             "repo": "dataset-distillation",
-            "stars": 833,
+            "stars": 830,
             "topics": []
           },
           "first_seen": "2026-08-28T22:27:55.001Z"
@@ -202,7 +202,7 @@
                 "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 442,
+                "stars": 441,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -757,7 +757,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2386,
+                "stars": 2385,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -792,7 +792,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2386,
+                "stars": 2385,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -1973,7 +1973,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2916,
+                "stars": 2915,
                 "topics": [
                   "3d",
                   "aes",
@@ -4007,8 +4007,8 @@
                     "id": 689494142,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-10-30T00:08:06Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-11-19T20:57:55Z",
+                    "open_issues": 0,
                     "owner": "Emory-Melody",
                     "repo": "awesome-graph-reduction",
                     "stars": 190,
@@ -4223,7 +4223,7 @@
                 "open_issues": 9,
                 "owner": "GeorgeCazenavette",
                 "repo": "mtt-distillation",
-                "stars": 442,
+                "stars": 441,
                 "topics": [
                   "artificial-intelligence",
                   "computer-vision",
@@ -5257,7 +5257,7 @@
                 "open_issues": 0,
                 "owner": "00why00",
                 "repo": "S2RL",
-                "stars": 3,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-11-02T21:47:13.492Z"
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T20:47:46.838Z",
+    "last_updated": "2026-11-20T20:31:17.243Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5284,7 +5284,7 @@
       "open_issues": 1,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1985,
+      "stars": 1984,
       "topics": [
         "awesome-list",
         "deep-learning"
