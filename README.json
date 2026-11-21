@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "00why00",
             "repo": "S2RL",
-            "stars": 6,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-11-02T21:47:13.492Z"
@@ -757,7 +757,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2385,
+                "stars": 2384,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -792,7 +792,7 @@
                 "open_issues": 69,
                 "owner": "google",
                 "repo": "neural-tangents",
-                "stars": 2385,
+                "stars": 2384,
                 "topics": [
                   "bayesian-inference",
                   "bayesian-networks",
@@ -5257,7 +5257,7 @@
                 "open_issues": 0,
                 "owner": "00why00",
                 "repo": "S2RL",
-                "stars": 6,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-11-02T21:47:13.492Z"
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T20:31:17.243Z",
+    "last_updated": "2026-11-21T19:28:09.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5284,7 +5284,7 @@
       "open_issues": 1,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1984,
+      "stars": 1985,
       "topics": [
         "awesome-list",
         "deep-learning"
