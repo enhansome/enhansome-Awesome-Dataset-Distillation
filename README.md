@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 540,448 | 🐛 103 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-369-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,013 | 🐛 103 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-369-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -21,7 +21,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ## Latest Updates
 
 * \[2026/11/02] [DD-Ranking: Rethinking the Evaluation of Dataset Distillation](https://arxiv.org/abs/2505.13300) (Zekai Li & Xinhao Zhong et al., NeurIPS 2026) [:globe\_with\_meridians:](https://nus-hpc-ai-lab.github.io/DD-Ranking/) [:octocat:](https://github.com/NUS-HPC-AI-Lab/DD-Ranking) ⭐ 72 | 🐛 0 | 🌐 HTML | 📅 2025-06-13 [:book:](./citations/li2026ranking.txt)
-* \[2026/11/02] [S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation](https://arxiv.org/abs/2610.35491) (Haoyu Wang et al., NeurIPS 2026) [:globe\_with\_meridians:](https://00why00.github.io/S2RL/) [:octocat:](https://github.com/00why00/S2RL) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-27 [:book:](./citations/wang2026s2rl.txt)
+* \[2026/11/02] [S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation](https://arxiv.org/abs/2610.35491) (Haoyu Wang et al., NeurIPS 2026) [:globe\_with\_meridians:](https://00why00.github.io/S2RL/) [:octocat:](https://github.com/00why00/S2RL) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-10-27 [:book:](./citations/wang2026s2rl.txt)
 * \[2026/11/02] [Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching](https://arxiv.org/abs/2602.05391) (Qianxin Xia et al., NeurIPS 2026) [:octocat:](https://github.com/einsteinxia/SFM) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-16 [:book:](./citations/xia2026efficient.txt)
 * \[2026/11/02] [Closed-Form Linear-Probe Dataset Distillation for Pre-trained Vision Models](https://arxiv.org/abs/2605.07194) (Bincheng Peng & Guang Li et al., NeurIPS 2026) [:globe\_with\_meridians:](https://guang000.github.io/CLP-DD-Webpage/) [:octocat:](https://github.com/Guang000/CLP-DD) ⭐ 2 | 🐛 0 | 📅 2026-09-26 [:book:](./citations/peng2026clpdd.txt)
 * \[2026/11/02] [X-AVDD: Cross-Attentive Audio-Visual Dataset Distillation](https://arxiv.org/abs/2610.13687) (Saumyaranjan Mohanty et al., NeurIPS 2026) [:book:](./citations/mohanty2026xavdd.txt)
@@ -219,7 +219,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 #### VAR
 
-* [HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](https://arxiv.org/abs/2603.06932) (Lin Zhao & Xinru Jiang et al., CVPR 2026) [:octocat:](https://github.com/Oshikaka/HIERAMP) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-08-07 [:book:](./citations/zhao2026hieramp.txt)
+* [HIERAMP: Coarse-to-Fine Autoregressive Amplification for Generative Dataset Distillation](https://arxiv.org/abs/2603.06932) (Lin Zhao & Xinru Jiang et al., CVPR 2026) [:octocat:](https://github.com/Oshikaka/HIERAMP) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-22 [:book:](./citations/zhao2026hieramp.txt)
 * [ProtoVAR: Efficient Dataset Distillation via Prototype-Guided Visual Autoregressive Modeling](https://openreview.net/forum?id=5YvTHX0QS9) (Mingyu Wang et al., ICML 2026) [:book:](./citations/protovar2026.txt)
 
 #### Flow
@@ -741,7 +741,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Semantic Segmentation
 
-* [S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation](https://arxiv.org/abs/2610.35491) (Haoyu Wang et al., NeurIPS 2026) [:globe\_with\_meridians:](https://00why00.github.io/S2RL/) [:octocat:](https://github.com/00why00/S2RL) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-10-27 [:book:](./citations/wang2026s2rl.txt)
+* [S2-RL: Sample-Set Dual Reinforcement Learning for Generative Semantic Segmentation Dataset Distillation](https://arxiv.org/abs/2610.35491) (Haoyu Wang et al., NeurIPS 2026) [:globe\_with\_meridians:](https://00why00.github.io/S2RL/) [:octocat:](https://github.com/00why00/S2RL) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-10-27 [:book:](./citations/wang2026s2rl.txt)
 * [D3S2: Diffusion-Guided Dataset Distillation for Semantic Segmentation](https://arxiv.org/abs/2605.25022) (Wenjie Zheng et al., NeurIPS 2026) [:book:](./citations/zheng2026d3s2.txt)
 
 <a name="motion" />
@@ -779,4 +779,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

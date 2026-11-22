@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "00why00",
             "repo": "S2RL",
-            "stars": 14,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-11-02T21:47:13.492Z"
@@ -1612,7 +1612,7 @@
                     "id": 1174119417,
                     "language": "Python",
                     "license": null,
-                    "last_commit": "2026-08-07T17:55:43Z",
+                    "last_commit": "2026-11-22T06:21:17Z",
                     "open_issues": 0,
                     "owner": "Oshikaka",
                     "repo": "HIERAMP",
@@ -5257,7 +5257,7 @@
                 "open_issues": 0,
                 "owner": "00why00",
                 "repo": "S2RL",
-                "stars": 14,
+                "stars": 20,
                 "topics": []
               },
               "first_seen": "2026-11-02T21:47:13.492Z"
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:28:09.663Z",
+    "last_updated": "2026-11-22T19:49:55.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
