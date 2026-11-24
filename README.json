@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "00why00",
             "repo": "S2RL",
-            "stars": 28,
+            "stars": 36,
             "topics": []
           },
           "first_seen": "2026-11-02T21:47:13.492Z"
@@ -508,7 +508,7 @@
                 "open_issues": 2,
                 "owner": "gszfwsb",
                 "repo": "NCFM",
-                "stars": 413,
+                "stars": 414,
                 "topics": [
                   "computer-vision",
                   "data-centric-ai",
@@ -3148,7 +3148,7 @@
                 "open_issues": 0,
                 "owner": "vimar-gu",
                 "repo": "SSD",
-                "stars": 21,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5201,7 +5201,7 @@
                 "open_issues": 2,
                 "owner": "QianfengY",
                 "repo": "UniRain",
-                "stars": 29,
+                "stars": 30,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5257,7 +5257,7 @@
                 "open_issues": 0,
                 "owner": "00why00",
                 "repo": "S2RL",
-                "stars": 28,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-11-02T21:47:13.492Z"
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T00:01:54.607Z",
+    "last_updated": "2026-11-24T22:35:15.489Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5281,7 +5281,7 @@
       "language": "HTML",
       "license": "MIT",
       "last_commit": "2026-11-19T05:22:40Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
       "stars": 1985,
