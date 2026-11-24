@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "00why00",
             "repo": "S2RL",
-            "stars": 20,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-11-02T21:47:13.492Z"
@@ -1973,7 +1973,7 @@
                 "open_issues": 0,
                 "owner": "MaximeVandegar",
                 "repo": "Papers-in-100-Lines-of-Code",
-                "stars": 2915,
+                "stars": 2917,
                 "topics": [
                   "3d",
                   "aes",
@@ -5168,7 +5168,7 @@
                 "open_issues": 1,
                 "owner": "t170815518",
                 "repo": "EEG-DLite",
-                "stars": 15,
+                "stars": 14,
                 "topics": [
                   "brain-computer-interface",
                   "data-distillation",
@@ -5257,7 +5257,7 @@
                 "open_issues": 0,
                 "owner": "00why00",
                 "repo": "S2RL",
-                "stars": 20,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-11-02T21:47:13.492Z"
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T19:49:55.458Z",
+    "last_updated": "2026-11-24T00:01:54.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
