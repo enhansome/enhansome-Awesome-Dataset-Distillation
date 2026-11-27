@@ -1,6 +1,6 @@
 # Awesome Dataset Distillation with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,370 | 🐛 103 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-369-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,914 | 🐛 103 | 📅 2026-09-02 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Number%20of%20Items-369-FF6F00" alt="PaperNum"/> ![Stars](https://img.shields.io/github/stars/Guang000/Awesome-Dataset-Distillation?color=yellow\&label=Stars) ![Forks](https://img.shields.io/github/forks/Guang000/Awesome-Dataset-Distillation?color=green\&label=Forks)
 
 **Awesome Dataset Distillation** provides the most comprehensive and detailed information on the Dataset Distillation field.
 
@@ -193,7 +193,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 * [Efficient Dataset Distillation via Minimax Diffusion](https://arxiv.org/abs/2311.15529) (Jianyang Gu et al., CVPR 2024) [:octocat:](https://github.com/vimar-gu/MinimaxDiffusion) ⭐ 105 | 🐛 9 | 🌐 Python | 📅 2024-03-22 [:book:](./citations/gu2024efficient.txt)
 * [D4M: Dataset Distillation via Disentangled Diffusion Model](https://arxiv.org/abs/2407.15138) (Duo Su & Junjie Hou et al., CVPR 2024) [:globe\_with\_meridians:](https://junjie31.github.io/D4M/) [:octocat:](https://github.com/suduo94/D4M) ⭐ 42 | 🐛 6 | 🌐 Python | 📅 2024-09-06 [:book:](./citations/su2024d4m.txt)
-* [MGD3: Mode-Guided Dataset Distillation using Diffusion Models](https://arxiv.org/abs/2505.18963) (Jeffrey A. Chan-Santiago et al., ICML 2025) [:globe\_with\_meridians:](https://jachansantiago.com/mode-guided-distillation/) [:octocat:](https://github.com/jachansantiago/mode_guidance/) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2025-12-06 [:book:](./citations/chan-santiago2025mgd3.txt)
+* [MGD3: Mode-Guided Dataset Distillation using Diffusion Models](https://arxiv.org/abs/2505.18963) (Jeffrey A. Chan-Santiago et al., ICML 2025) [:globe\_with\_meridians:](https://jachansantiago.com/mode-guided-distillation/) [:octocat:](https://github.com/jachansantiago/mode_guidance/) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2025-12-06 [:book:](./citations/chan-santiago2025mgd3.txt)
 * [Influence-Guided Diffusion for Dataset Distillation](https://openreview.net/forum?id=0whx8MhysK) (Mingyang Chen et al., ICLR 2025) [:octocat:](https://github.com/mchen725/DD_IGD) ⭐ 17 | 🐛 4 | 🌐 Python | 📅 2025-02-12 [:book:](./citations/chen2025igd.txt)
 * [Taming Diffusion for Dataset Distillation with High Representativeness](https://arxiv.org/abs/2505.18399) (Lin Zhao et al., ICML 2025) [:octocat:](https://github.com/lin-zhao-resoLve/D3HR) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2025-08-24 [:book:](./citations/zhao2025d3hr.txt)
 * [Dataset Distillation via Vision-Language Category Prototype](https://arxiv.org/abs/2506.23580) (Yawen Zou & Guang Li et al., ICCV 2025) [:globe\_with\_meridians:](https://zou-yawen.github.io/DD_via_vision-language)  [:octocat:](https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype/) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-03-20 [:book:](./citations/zou2025vlcp.txt)
@@ -230,8 +230,8 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 
 ### Better Optimization
 
-* [DREAM: Efficient Dataset Distillation by Representative Matching](https://arxiv.org/abs/2302.14416) (Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023) [:octocat:](https://github.com/lyq312318224/DREAM) ⭐ 114 | 🐛 7 | 🌐 Python | 📅 2024-02-28 [:book:](./citations/liu2023dream.txt)
-* [DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching](https://arxiv.org/abs/2310.15052) (Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023) [:octocat:](https://github.com/lyq312318224/DREAM) ⭐ 114 | 🐛 7 | 🌐 Python | 📅 2024-02-28 [:book:](./citations/liu2023dreamplus.txt)
+* [DREAM: Efficient Dataset Distillation by Representative Matching](https://arxiv.org/abs/2302.14416) (Yanqing Liu & Jianyang Gu & Kai Wang et al., ICCV 2023) [:octocat:](https://github.com/lyq312318224/DREAM) ⭐ 115 | 🐛 7 | 🌐 Python | 📅 2024-02-28 [:book:](./citations/liu2023dream.txt)
+* [DREAM+: Efficient Dataset Distillation by Bidirectional Representative Matching](https://arxiv.org/abs/2310.15052) (Yanqing Liu & Jianyang Gu & Kai Wang et al., 2023) [:octocat:](https://github.com/lyq312318224/DREAM) ⭐ 115 | 🐛 7 | 🌐 Python | 📅 2024-02-28 [:book:](./citations/liu2023dreamplus.txt)
 * [Distill Gold from Massive Ores: Bi-level Data Pruning towards Efficient Dataset Distillation](https://arxiv.org/abs/2305.18381) (Yue Xu et al., ECCV 2024) [:octocat:](https://github.com/silicx/GoldFromOres) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2024-07-06 [:book:](./citations/xu2024distill.txt)
 * [You Only Condense Once: Two Rules for Pruning Condensed Datasets](https://arxiv.org/abs/2310.14019) (Yang He et al., NeurIPS 2023) [:octocat:](https://github.com/he-y/you-only-condense-once) ⭐ 16 | 🐛 2 | 🌐 Python | 📅 2026-07-30 [:book:](./citations/he2023yoco.txt)
 * [Multisize Dataset Condensation](https://arxiv.org/abs/2403.06075) (Yang He et al., ICLR 2024) [:octocat:](https://github.com/he-y/Multisize-Dataset-Condensation) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2024-04-18 [:book:](./citations/he2024mdc.txt)
@@ -354,7 +354,7 @@ In recent years (2022-now), dataset distillation has gained increasing attention
 ### Self-Supervised Distillation
 
 * [Self-supervised Dataset Distillation: A Good Compression Is All You Need](https://arxiv.org/abs/2404.07976) (Muxin Zhou et al., 2024) [:octocat:](https://github.com/VILA-Lab/SRe2L/tree/main/SCDD/) ⭐ 142 | 🐛 1 | 🌐 Python | 📅 2024-11-15 [:book:](./citations/zhou2024self.txt)
-* [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674) (George Cazenavette et al., NeurIPS 2025) [:globe\_with\_meridians:](https://linear-gradient-matching.github.io/) [:octocat:](https://github.com/GeorgeCazenavette/linear-gradient-matching) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2026-03-31 [:book:](./citations/cazenavette2025dataset.txt)
+* [Dataset Distillation for Pre-Trained Self-Supervised Vision Models](https://arxiv.org/abs/2511.16674) (George Cazenavette et al., NeurIPS 2025) [:globe\_with\_meridians:](https://linear-gradient-matching.github.io/) [:octocat:](https://github.com/GeorgeCazenavette/linear-gradient-matching) ⭐ 53 | 🐛 0 | 🌐 Python | 📅 2026-03-31 [:book:](./citations/cazenavette2025dataset.txt)
 * [Efficiency for Free: Ideal Data Are Transportable Representations](https://arxiv.org/abs/2405.14669) (Peng Sun et al., NeurIPS 2024) [:octocat:](https://github.com/LINs-lab/ReLA) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2025-01-19 [:book:](./citations/sun2024rela.txt)
 * [Self-Supervised Dataset Distillation for Transfer Learning](https://arxiv.org/abs/2310.06511) (Dong Bok Lee & Seanie Lee et al., ICLR 2024) [:octocat:](https://github.com/db-Lee/selfsup_dd) ⭐ 18 | 🐛 1 | 🌐 Python | 📅 2024-04-10 [:book:](./citations/lee2024self.txt)
 * [Efficient Dataset Distillation for Pre-Trained Self-Supervised Models via Statistical Flow Matching](https://arxiv.org/abs/2602.05391) (Qianxin Xia et al., NeurIPS 2026) [:octocat:](https://github.com/einsteinxia/SFM) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-10-16 [:book:](./citations/xia2026efficient.txt)
@@ -779,4 +779,4 @@ The [Homepage](https://guang000.github.io/Awesome-Dataset-Distillation/) of Awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

@@ -1294,7 +1294,7 @@
                     "open_issues": 0,
                     "owner": "jachansantiago",
                     "repo": "mode_guidance",
-                    "stars": 26,
+                    "stars": 25,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T22:27:55.001Z"
@@ -1649,7 +1649,7 @@
                 "open_issues": 7,
                 "owner": "Yanqing0327",
                 "repo": "DREAM",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -1670,7 +1670,7 @@
                 "open_issues": 7,
                 "owner": "Yanqing0327",
                 "repo": "DREAM",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -2890,7 +2890,7 @@
                 "open_issues": 0,
                 "owner": "GeorgeCazenavette",
                 "repo": "linear-gradient-matching",
-                "stars": 54,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:27:55.001Z"
@@ -5272,7 +5272,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:42:30.238Z",
+    "last_updated": "2026-11-27T21:27:04.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome papers on dataset distillation and related applications.",
@@ -5284,7 +5284,7 @@
       "open_issues": 2,
       "owner": "Guang000",
       "repo": "Awesome-Dataset-Distillation",
-      "stars": 1985,
+      "stars": 1984,
       "topics": [
         "awesome-list",
         "deep-learning"
